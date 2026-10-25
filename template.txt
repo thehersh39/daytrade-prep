@@ -1,0 +1,184 @@
+<title>Morning Day-Trade Prep</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@700&family=Zen+Kaku+Gothic+New:wght@400;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: risk console up top, earnings strip, fit-ranked chart cards, full sizing table */
+:root{
+  --bg:#ECEFEC;--surface:#FAFBF9;--ink:#1B2327;--muted:#5C6A6E;--line:#D2D9D5;--grid:#E4E9E6;
+  --accent:#2F4F86;--bull:#16805B;--bear:#BF3A31;--band:rgba(47,79,134,.10);--warn:#9A6A12;--warnbg:rgba(154,106,18,.10);
+  --f-display:"Shippori Mincho B1","Hiragino Mincho ProN",Georgia,serif;
+  --f-body:"Zen Kaku Gothic New",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#101417;--surface:#171C20;--ink:#E3E8E6;--muted:#8F9C9F;--line:#2A3338;--grid:#1F262A;--accent:#86A4DD;--bull:#33B581;--bear:#E35D51;--band:rgba(134,164,221,.13);--warn:#D9A441;--warnbg:rgba(217,164,65,.12);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#101417;--surface:#171C20;--ink:#E3E8E6;--muted:#8F9C9F;--line:#2A3338;--grid:#1F262A;--accent:#86A4DD;--bull:#33B581;--bear:#E35D51;--band:rgba(134,164,221,.13);--warn:#D9A441;--warnbg:rgba(217,164,65,.12);color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:28px 48px}
+h1{font-family:var(--f-display);font-size:clamp(28px,5vw,42px);line-height:1.1;margin:0 0 6px;text-wrap:balance}
+h2.sec{font-family:var(--f-display);font-size:24px;margin:34px 0 4px}
+.sub{margin:0;color:var(--muted);max-width:70ch}
+.eyebrow{font-family:var(--f-mono);font-size:12px;color:var(--muted);letter-spacing:.04em;margin-bottom:8px}
+.console{margin-top:18px;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px;display:grid;gap:14px}
+.inputs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.inputs label{display:grid;gap:4px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.inputs input{font:inherit;font-family:var(--f-mono);font-size:16px;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:6px 8px;width:100%;box-sizing:border-box}
+.inputs input:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.budget{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:center;font-size:14px}
+.strikes{display:flex;gap:6px}
+.strikes i{width:22px;height:22px;border-radius:4px;border:2px solid var(--bear);display:inline-block}
+.budget b{font-family:var(--f-mono)}
+.rules{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:12px;margin-top:18px}
+.rules div{border-top:2px solid var(--ink);padding-top:8px;font-size:14px}
+.rules b{display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:2px}
+.fitkey{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:12px;font-size:13px;color:var(--muted)}
+.week{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin-top:12px}
+.day{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:10px;min-width:0}
+.day b{display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.day .tks{font-family:var(--f-mono);font-size:13px;margin-top:4px;word-break:break-word}
+.day.hot{border-color:var(--warn);background:var(--warnbg)}
+@media (max-width:640px){.week{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,340px),1fr));gap:18px;margin-top:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px 14px 16px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.tk{font-family:var(--f-mono);font-size:22px;font-weight:600;line-height:1}
+.tags{font-family:var(--f-display);font-size:16px;margin-top:4px}
+.meta{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.pills{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.pill{font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:3px 8px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
+.pill.good{color:var(--bull)}.pill.tight{color:var(--warn)}.pill.wide{color:var(--bear)}.pill.earn{color:var(--warn)}
+.stats{display:flex;gap:14px;flex-wrap:wrap;font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.stats span b{color:var(--ink);font-weight:600}
+.card svg{display:block;width:100%;height:auto}
+.plan{display:grid;gap:8px}
+.pl{border-left:3px solid var(--c);padding-left:8px;font-size:13.5px}
+.pl b.h{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--c);display:block}
+.pl .row{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;margin-top:2px}
+.pl .row div{min-width:0}
+.pl .k{display:block;font-size:10.5px;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.pl .v{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.pl .size{font-size:12.5px;color:var(--muted);margin-top:4px}
+.pl .size b{color:var(--ink);font-family:var(--f-mono);font-weight:600}
+.warnbox{font-size:13px;background:var(--warnbg);color:var(--ink);border-radius:4px;padding:6px 8px}
+.tablewrap{overflow-x:auto;margin-top:12px;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{padding:7px 10px;text-align:left;white-space:nowrap;border-bottom:1px solid var(--grid)}
+th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700}
+td.n,th.n{text-align:right}td.n{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+td.tk2{font-family:var(--f-mono);font-weight:600}
+tr.dim td{color:var(--muted)}
+.pos{color:var(--bull)}.neg{color:var(--bear)}
+.foot{margin-top:30px;font-size:12.5px;color:var(--muted);max-width:72ch}
+</style>
+<div class="wrap">
+<header>
+  <div class="eyebrow" id="eyebrow"></div>
+  <h1>Morning Day-Trade Prep</h1>
+  <p class="sub">Built around a tight stop. Every plan below uses a stop no wider than your limit, sizes shares so a loss equals your per-trade risk, and ranks stocks by whether their normal daily swing gives a stop that size a fair chance.</p>
+  <div class="console" aria-label="Your risk settings">
+    <div class="inputs">
+      <label for="maxStop">Max stop (points)<input id="maxStop" type="number" step="0.25" min="0.25" value="1.5"></label>
+      <label for="risk">Risk per trade ($)<input id="risk" type="number" step="25" min="10" value="100"></label>
+      <label for="lock">Daily lockout ($)<input id="lock" type="number" step="50" min="50" value="300"></label>
+      <label for="bp">Buying power ($)<input id="bp" type="number" step="10000" min="1000" value="200000"></label>
+    </div>
+    <div class="budget" id="budget"></div>
+  </div>
+  <div class="rules">
+    <div><b>Tight stops need intraday entries</b>A 1.5-point stop only works if you enter right at the level, on a 1- or 5-minute candle that breaks and holds. Chasing a move that has already gone 1 point uses up most of your stop before the trade starts.</div>
+    <div><b>Pick names whose range fits</b>A stock that swings 5 points a day gives a 1.5-point stop room to breathe. One that swings 50 points will hit that stop on noise. The fit rating handles this for you.</div>
+    <div><b>Re-check at 9:15</b>These levels come from the last session's candle. If a stock gaps past a trigger premarket, skip it or rebuild the plan around the premarket high or low.</div>
+  </div>
+  <div class="fitkey"><span><span class="pill good">Good fit</span> stop is 25%+ of the daily range</span><span><span class="pill tight">Tight</span> 15–25%, entry must be precise</span><span><span class="pill wide">Too volatile</span> under 15%, skip for now</span></div>
+</header>
+
+<h2 class="sec">In play on news</h2>
+<p class="sub">Earnings, analyst rating changes since the last close, and names gapping 3%+ premarket or that moved 5%+ last session, with the headline behind it.</p>
+<div class="tablewrap"><table id="news"><tbody></tbody></table></div>
+<h2 class="sec">Earnings this week</h2>
+<p class="sub">Ranges widen into a report. With a tight stop, avoid holding anything into the close on its report day.</p>
+<div class="week" id="week"></div>
+
+<h2 class="sec" id="bfh">Best fits</h2>
+<p class="sub">Names with a setup on the last session's candle and a daily range that suits your stop. The shaded slot on the right of each chart is today's typical range (last close ± 1 ATR). Share counts update when you change your settings.</p>
+<div class="grid" id="grid"></div>
+
+<h2 class="sec">Every flagged name, sized</h2>
+<p class="sub"><span id="nflag"></span> names with a setup, best fit first. Faded rows are too volatile for your current stop. The 2R target is twice your stop beyond the trigger.</p>
+<div class="tablewrap"><table id="tbl"><thead><tr><th>Ticker</th><th>Fit</th><th>Setup</th><th class="n">Close</th><th class="n">Pre</th><th class="n">ATR</th><th class="n">Stop</th><th class="n">Shares</th><th class="n">Risk $</th><th class="n">Long over</th><th class="n">2R</th><th class="n">Short under</th><th class="n">2R</th><th>Earnings</th></tr></thead><tbody></tbody></table></div>
+
+<p class="foot">Data: Yahoo Finance daily candles, premarket quotes and earnings dates, pulled <span id="pulled"></span>. ATR is the average daily range over the last 14 days. Stops are set at a quarter of ATR, capped at your max. Share counts ignore slippage and commissions, and a fast market can fill you past your stop, so your real loss can be bigger than the risk shown. Educational only, not financial advice.</p>
+</div>
+<script>
+const DATA=__DATA__;
+(function(){
+const DN=Object.fromEntries(DATA.week);const PRE=DATA.pre||{};
+const MO=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];const fd=d=>MO[+d.slice(4,6)-1]+' '+(+d.slice(6))+', '+d.slice(0,4);
+const lastDay=(()=>{const d=new Date(+DATA.asof.slice(0,4),+DATA.asof.slice(4,6)-1,+DATA.asof.slice(6));return ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][d.getDay()]})();
+document.getElementById('eyebrow').textContent=`Levels from ${lastDay}'s close · ${fd(DATA.asof)} · for ${DATA.week[0][1]}`;
+document.getElementById('pulled').textContent=DATA.pulled;document.getElementById('bfh').textContent='Best fits for '+DATA.week[0][1];
+const rows=DATA.rows.map(r=>{const a=r.split('|');const N=i=>+a[i];return {t:a[0],c:N(1),chg:N(2),atr:N(3),atrp:N(4),rvol:N(5),dv:N(6),h:N(7),l:N(8),h5:N(9),l5:N(10),h90:N(11),l90:N(12),s20:N(13),s50:N(14),clv:N(15),tags:a[16].split('/'),bias:N(17),trend:N(18),ewk:a[19],sc:N(20)}});
+const quiet=DATA.others.map(r=>{const a=r.split(',');return {t:a[0],ewk:a[4]}});
+const all=[...rows.map(r=>[r.t,r.ewk]),...quiet.map(q=>[q.t,q.ewk])].filter(x=>x[1]);
+document.getElementById('week').innerHTML=Object.keys(DN).map(d=>{const t=all.filter(x=>x[1]===d).map(x=>x[0]).sort();return `<div class="day${t.length>=4?' hot':''}"><b>${DN[d]}</b><div class="tks">${t.length?t.join(' '):'<span class="meta">None on this list</span>'}</div></div>`}).join('');
+const ids=['maxStop','risk','lock','bp'];
+try{const s=JSON.parse(localStorage.getItem('tightrisk')||'null');if(s)ids.forEach(k=>{if(s[k])document.getElementById(k).value=s[k]})}catch(e){}
+const S=()=>{const o={};ids.forEach(k=>o[k]=Math.max(+document.getElementById(k).value||0,0));return o};
+const f2=v=>v>=1000?v.toFixed(0):v.toFixed(2);
+const money=v=>'$'+Math.round(v).toLocaleString('en-US');
+function calc(r,s){
+  const stop=Math.max(0.05,Math.min(s.maxStop,Math.round(0.25*r.atr*100)/100));const ratio=stop/r.atr;
+  const fit=ratio>=0.249?'good':ratio>=0.15?'tight':'wide';
+  const sh=Math.max(0,Math.min(Math.floor(s.risk/stop),Math.floor(s.bp/r.c)));
+  const tick=r.c>=100?0.05:0.02;
+  const lv=[r.h5,r.l5,r.h90,r.l90,r.s20,r.s50];
+  const mk=dir=>{const L=dir==='long',trig=+(L?r.h+tick:r.l-tick).toFixed(2),st=+(L?trig-stop:trig+stop).toFixed(2),t2=+(L?trig+2*stop:trig-2*stop).toFixed(2),t3=+(L?trig+3*stop:trig-3*stop).toFixed(2);
+    const ahead=lv.filter(v=>L?v>trig+0.25*stop:v<trig-0.25*stop).map(v=>Math.abs(v-trig));const room=ahead.length?Math.min(...ahead):null;
+    return {dir,trig,st,t2,t3,room,roomLv:room==null?null:(L?trig+room:trig-room)}};
+  const dirs=r.bias>0?['long']:r.bias<0?['short']:r.trend>=0?['long','short']:['short','long'];
+  return {stop,ratio,fit,sh,risk:sh*stop,notional:sh*r.c,plans:dirs.map(mk),L:mk('long'),Sh:mk('short')};
+}
+const fitTxt={good:'Good fit',tight:'Tight',wide:'Too volatile'};const fitRank={good:0,tight:1,wide:2};
+function chart(r){
+  const [d0,d1,lo,hi,s]=DATA.enc2[r.t];const B=[];for(let i=0;i<s.length;i+=8){const v=[0,2,4,6].map(j=>lo+parseInt(s.slice(i+j,i+j+2),36)/1295*(hi-lo));B.push({o:v[0],h:v[1],l:v[2],c:v[3]})}
+  const n=B.length,slots=n+4,W=440,H=230,pl=4,pr=70,pt=14,pb=20,step=(W-pl-pr)/slots,cw=Math.max(2,step*0.62);
+  let mx=Math.max(hi,r.c+r.atr),mn=Math.min(lo,r.c-r.atr);const pad=(mx-mn)*0.04;mx+=pad;mn-=pad;
+  const x=i=>pl+(i+0.5)*step,y=v=>pt+(mx-v)/(mx-mn)*(H-pt-pb);let o='';
+  for(let i=0;i<=4;i++){const yy=y(mn+(mx-mn)*i/4);o+=`<line x1="${pl}" x2="${W-pr}" y1="${yy}" y2="${yy}" stroke="var(--grid)"/>`}
+  const sx=x(n)-step/2,sw=4*step;o+=`<rect x="${sx}" y="${y(r.c+r.atr)}" width="${sw}" height="${y(r.c-r.atr)-y(r.c+r.atr)}" fill="var(--band)"/><text x="${sx+sw/2}" y="${y(r.c+r.atr)-4}" font-size="9.5" text-anchor="middle" fill="var(--accent)" font-weight="700" font-family="var(--f-body)">${y(r.c+r.atr)-4<pt?"":"MON"}</text>`;
+  for(const a of [{v:r.s50,op:.5},{v:r.s20,op:.25}]){const yy=y(a.v);o+=`<line x1="${pl}" x2="${W-pr}" y1="${yy}" y2="${yy}" stroke="var(--accent)" stroke-opacity="${a.op}"/>`}
+  for(let i=0;i<n;i++){const k=B[i],up=k.c>=k.o,cx=x(i),col=up?'var(--bull)':'var(--bear)',yt=y(Math.max(k.o,k.c)),yb=y(Math.min(k.o,k.c));o+=`<line x1="${cx}" x2="${cx}" y1="${y(k.h)}" y2="${y(k.l)}" stroke="${col}" stroke-width="1"/><rect x="${cx-cw/2}" y="${yt}" width="${cw}" height="${Math.max(1,yb-yt)}" fill="${col}"/>`}
+  const lab=[{v:r.h,t:'Prior high',c:'var(--bull)'},{v:r.l,t:'Prior low',c:'var(--bear)'}];
+  for(const a of lab){const yy=y(a.v);o+=`<line x1="${x(n-1)}" x2="${W-pr}" y1="${yy}" y2="${yy}" stroke="${a.c}" stroke-width="1.4" stroke-dasharray="5 3"/>`}
+  const py=lab.map(a=>y(a.v));if(py[1]-py[0]<26){const m=(py[0]+py[1])/2;py[0]=m-13;py[1]=m+13}
+  lab.forEach((a,i)=>{o+=`<text x="${W-pr+6}" y="${py[i]-1}" font-size="10" fill="${a.c}" font-weight="700" font-family="var(--f-body)">${a.t}</text><text x="${W-pr+6}" y="${py[i]+10}" font-size="11" fill="${a.c}" font-family="var(--f-mono)">${f2(a.v)}</text>`});
+  const m=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  if(py.every(p=>Math.abs(p-(pt+4))>26))o+=`<text x="${W-pr+6}" y="${pt+4}" font-size="10.5" fill="var(--muted)" font-family="var(--f-mono)">${f2(hi)}</text>`;if(py.every(p=>Math.abs(p-(H-pb))>26))o+=`<text x="${W-pr+6}" y="${H-pb}" font-size="10.5" fill="var(--muted)" font-family="var(--f-mono)">${f2(lo)}</text>`;
+  o+=`<text x="${pl}" y="${H-5}" font-size="10.5" fill="var(--muted)" font-family="var(--f-mono)">${m[+d0.slice(2,4)-1]} ${+d0.slice(4,6)}</text><text x="${x(n-1)}" y="${H-5}" font-size="10.5" fill="var(--muted)" font-family="var(--f-mono)" text-anchor="end">${m[+d1.slice(2,4)-1]} ${+d1.slice(4,6)}</text>`;
+  return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${r.t} 90-day daily chart">${o}</svg>`;
+}
+function planHtml(r,k){return k.plans.map(p=>{const Lg=p.dir==='long';const tight=p.room!=null&&p.room<2*k.stop;
+  return `<div class="pl" style="--c:var(--${Lg?'bull':'bear'})"><b class="h">${Lg?'Long over':'Short under'} ${f2(p.trig)}</b>
+  <div class="row"><div><span class="k">Stop</span><span class="v">${f2(p.st)}</span></div><div><span class="k">2R</span><span class="v">${f2(p.t2)}</span></div><div><span class="k">3R</span><span class="v">${f2(p.t3)}</span></div><div><span class="k">Next level</span><span class="v">${p.roomLv==null?'open':f2(p.roomLv)}</span></div></div>
+  ${tight?`<div class="size" style="color:var(--warn)">The next daily level is only ${p.room.toFixed(2)} pts past the trigger. Take partial profit there.</div>`:''}</div>`}).join('')}
+function gapNote(r,k){const p=PRE[r.t];if(!p)return '';if(p>k.L.trig)return `<div class="warnbox">Premarket ${f2(p)} is already above the long trigger. Don't chase; rebuild around the premarket high or skip.</div>`;if(p<k.Sh.trig)return `<div class="warnbox">Premarket ${f2(p)} is already below the short trigger. Don't chase; rebuild around the premarket low or skip.</div>`;return ''}
+function render(){
+  const s=S();try{localStorage.setItem('tightrisk',JSON.stringify(s))}catch(e){}
+  const n=s.risk>0?Math.floor(s.lock/s.risk):0;
+  document.getElementById('budget').innerHTML=`<span class="strikes" aria-hidden="true">${Array.from({length:Math.min(n,10)},()=>'<i></i>').join('')}</span><span><b>${n}</b> full losses before the ${money(s.lock)} lockout at ${money(s.risk)} each.</span><span>A 2R winner pays <b>${money(2*s.risk)}</b>. One winner covers two losers.</span>`;
+  const R=rows.map(r=>({r,k:calc(r,s)}));
+  const cards=R.filter(x=>DATA.enc2[x.r.t]).sort((a,b)=>fitRank[a.k.fit]-fitRank[b.k.fit]||b.r.sc-a.r.sc);
+  document.getElementById('grid').innerHTML=cards.map(({r,k})=>`<article class="card"><div class="top"><div><div class="tk">${r.t}</div><div class="tags">${r.tags.join(' · ')}</div></div><div class="pills"><span class="pill ${k.fit}">${fitTxt[k.fit]}</span>${r.ewk?`<span class="pill earn">Earnings ${DN[r.ewk].slice(0,3)}</span>`:''}</div></div>
+    <div class="stats"><span>Close <b>${f2(r.c)}</b></span><span>Last <b class="${r.chg>=0?'pos':'neg'}">${r.chg>=0?'+':'−'}${Math.abs(r.chg)}%</b></span><span>ATR <b>${f2(r.atr)}</b></span><span>RVOL <b>${r.rvol}x</b></span>${PRE[r.t]?`<span>Pre <b class="${PRE[r.t]>=r.c?'pos':'neg'}">${f2(PRE[r.t])}</b></span>`:''}</div>
+    ${chart(r)}
+    ${gapNote(r,k)}
+    <div class="pl" style="--c:var(--accent)"><div class="size">Stop <b>${k.stop.toFixed(2)} pts</b> (${Math.round(k.ratio*100)}% of daily range) · <b>${k.sh}</b> shares · risk <b>${money(k.risk)}</b> · uses <b>${money(k.notional)}</b> of buying power</div></div>
+    <div class="plan">${planHtml(r,k)}</div>
+    ${r.ewk?`<div class="warnbox">Reports ${DN[r.ewk]}. Be flat before the close that day.</div>`:''}</article>`).join('');
+  const T=R.sort((a,b)=>fitRank[a.k.fit]-fitRank[b.k.fit]||b.r.sc-a.r.sc);
+  document.querySelector('#tbl tbody').innerHTML=T.map(({r,k})=>`<tr class="${k.fit==='wide'?'dim':''}"><td class="tk2">${r.t}</td><td><span class="pill ${k.fit}">${fitTxt[k.fit]}</span></td><td>${r.tags.join(', ')}</td><td class="n">${f2(r.c)}</td><td class="n">${PRE[r.t]?f2(PRE[r.t]):''}</td><td class="n">${f2(r.atr)}</td><td class="n">${k.stop.toFixed(2)}</td><td class="n">${k.sh}</td><td class="n">${money(k.risk)}</td><td class="n">${f2(k.L.trig)}</td><td class="n">${f2(k.L.t2)}</td><td class="n">${f2(k.Sh.trig)}</td><td class="n">${f2(k.Sh.t2)}</td><td>${r.ewk?DN[r.ewk]:''}</td></tr>`).join('');
+}
+document.getElementById('nflag').textContent=rows.length;
+{const N=DATA.news||[];const K={E:'Earnings',R:'Rating',M:'Mover',N:'News'};document.querySelector('#news tbody').innerHTML=N.length?N.map(n=>`<tr><td class="tk2">${n[0]}</td><td><span class="meta">${K[n[2]]||''}</span></td><td style="white-space:normal">${n[1].replace(/[<>&]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;'}[c]))}</td></tr>`).join(''):'<tr><td>No news catalysts found this morning.</td></tr>'}
+ids.forEach(k=>document.getElementById(k).addEventListener('input',render));
+render();
+})();
+</script>
