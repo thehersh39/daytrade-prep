@@ -159,7 +159,9 @@ def news_for(t):
     head = ""
     try:
         items = yf.Search(t, news_count=6, max_results=1).news or []
-        items = [n for n in items if (n.get("providerPublishTime") or 0) >= cutoff - 6 * 3600 and t in (n.get("relatedTickers") or [])]
+        nm = re.sub(r"[^A-Za-z0-9&-]", "", ((q.get("shortName") or q.get("longName") or "").split() or [""])[0])
+        names = re.compile(rf"\b{re.escape(t)}\b" + (rf"|\b{re.escape(nm)}" if len(nm) >= 3 and nm.upper() not in ("THE", "INC") else ""), re.I)
+        items = [n for n in items if (n.get("providerPublishTime") or 0) >= cutoff - 6 * 3600 and t in (n.get("relatedTickers") or []) and names.search(n.get("title", ""))]
         k = next((n for n in items if KW.search(n.get("title", ""))), items[0] if (mover and items) else None)
         if k: head = k["title"] if len(k["title"]) <= 110 else k["title"][:107] + "…"
     except Exception as e: log("news fail", t, e)
