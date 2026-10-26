@@ -1,9 +1,12 @@
 name: Morning screen
 on:
   schedule:
-    # 9:05 and 9:50 UTC on weekdays = 4:05/4:50 AM CDT, 3:05/3:50 AM CST
-    - cron: "5 9 * * 1-5"
-    - cron: "50 9 * * 1-5"
+    # GitHub's timed runs can start late or get skipped, so try many times.
+    # Evening backup (10:13 PM CT, Mon-Thu nights + Sun night) guarantees prior-close levels exist.
+    - cron: "13 3 * * 1-5"
+    # Every 20 min from 08:07 to 10:47 UTC on weekdays = 3:07-5:47 AM CDT / 2:07-4:47 AM CST,
+    # so premarket quotes and overnight news are as fresh as possible before the 5:17 AM CT email.
+    - cron: "7,27,47 8-10 * * 1-5"
   workflow_dispatch:
   push:
     branches: [main]
