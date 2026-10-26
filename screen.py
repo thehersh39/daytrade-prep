@@ -13,7 +13,11 @@ T = ("NVDA AMD AVGO TSM ASML ARM QCOM INTC MRVL AMAT LRCX KLAC SMCI SMH SOXX MU 
 ETF = set("SMH SOXX XLE ITB XHB SPY QQQ IWM RSP XLK XLC XLY XLF XLI XLB XLP XLU XLV XLRE IGV GLD GDX TLT".split())
 log = lambda *a: print(*a, file=sys.stderr, flush=True)
 now_ct = dt.datetime.now(CT)
-today = now_ct.strftime("%Y%m%d")
+now_et = now_ct.astimezone(ET)
+# The session these levels are for: today if it's a weekday before the 4 PM ET close, otherwise the next weekday.
+sess = now_ct.date() if (now_et.weekday() < 5 and now_et.hour < 16) else now_ct.date() + dt.timedelta(days=1)
+while sess.weekday() >= 5: sess += dt.timedelta(days=1)
+today = sess.strftime("%Y%m%d")
 
 # ---- daily candles ----
 raw = yf.download(T, period="6mo", interval="1d", group_by="ticker", auto_adjust=False, threads=True, progress=False)
@@ -32,7 +36,7 @@ bad = [t for t in T if t not in B]
 asof = B["SPY"][-1]["d"]
 
 # ---- week of sessions ----
-wk, d = [], now_ct.date()
+wk, d = [], sess
 while len(wk) < 5:
     if d.weekday() < 5: wk.append([d.strftime("%m-%d"), f"{d.strftime('%a')} {d.month}/{d.day}"])
     d += dt.timedelta(days=1)
