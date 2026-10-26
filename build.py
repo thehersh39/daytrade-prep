@@ -68,4 +68,15 @@ mail = f'''<div style="font-family:Arial,Helvetica,sans-serif;color:{INK};max-wi
 {f'<p style="font-size:14px;margin:16px 0 0"><a href="{page_url}" style="color:#2F4F86">Open the full page with charts and all {len(rows)} flagged names</a> (opens only on the account that owns it)</p>' if page_url else ''}
 <p style="font-size:11px;color:{M};margin-top:16px">Rules-based screen from Yahoo Finance data; news items are headlines and analyst actions from Yahoo, so confirm before trading. No read on futures. Fills can slip past a stop in a fast market. Educational only, not financial advice.</p></div>'''
 open(mail_p, 'w').write(mail)
+# Plain-text fallback next to the HTML email
+lines = [f"Day-trade prep for {DN[D['week'][0][0]]} (levels from the {asof_txt} close)", ""]
+if NEWS:
+    lines += ["IN PLAY ON NEWS"] + [f"{n[0]}: {n[1]}" for n in NEWS] + [""]
+lines.append("TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)")
+for r, k in best:
+    for d in k['dirs']:
+        tr, st, t2 = k[d]
+        lines.append(f"{r['t']}: {'long over' if d=='long' else 'short under'} {f2(tr)} stop {f2(st)} 2R {f2(t2)} ({k['sh']} sh)")
+if page_url: lines += ["", f"Full page: {page_url}"]
+open(mail_p.rsplit('.', 1)[0] + '.txt', 'w').write("\n".join(lines) + "\n")
 print(f"page ok, email ok: {len(best)} names, {len(rows)} flagged, asof {asof}, session {D['session']}, premarket {len(PRE)}")

@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["screen.py", ".github/workflows/screen.yml", "requirements.txt"]
+    paths: ["screen.py", "build.py", "template.txt", ".github/workflows/screen.yml", "requirements.txt"]
 permissions:
   contents: write
 concurrency:
@@ -27,10 +27,11 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: python screen.py
+      - run: python build.py data.json template.txt index.html email.html https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
       - name: Commit data
         run: |
           git config user.name "daytrade-prep bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data.json status.json
+          git add data.json status.json index.html email.html email.txt
           git commit -m "Morning screen $(date -u +%Y-%m-%dT%H:%MZ)" || echo "no changes"
           git pull --rebase origin main && git push origin HEAD:main

@@ -7,4 +7,4 @@ Pulls Yahoo Finance data for the Morning Day-Trade Prep email every weekday befo
 - `status.json` shows when it last ran and what it found.
 
 Run it by hand from the Actions tab → Morning screen → Run workflow.
-- `build.py` + `template.txt` turn `data.json` into the email and the Morning Day-Trade Prep page (run by the Claude scheduled task at 5:17 AM CT).
+- `build.py` + `template.txt` turn `data.json` into `email.html`, `email.txt` and `index.html` in the same workflow run. The Claude scheduled task at 5:17 AM CT just sends the email and refreshes the page.
