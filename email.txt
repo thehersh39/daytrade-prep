@@ -4,33 +4,33 @@ IN PLAY ON NEWS
 HOOD: Earnings after the close today
 KO: Earnings before the open today
 STX: Earnings after the close today
-AMKR: Moved −6.3% last session · Reported after the close · Is Amkor Technology (AMKR) Undervalued Following Mixed Q3 Results And Weak Guidance?
+AIT: Moved −5.3% last session · Earnings before the open today · Applied Industrial Technologies Fiscal Q1 Earnings, Revenue Rise
+ARCC: Earnings before the open today
+AWI: Moved −7.0% last session · Earnings before the open today · Armstrong World Industries Q3 Adjusted Earnings, Net Sales Rise; 2026 Outlook Updated
 BA: Earnings before the open today
-CDNS: Reported after the close
-CLS: Premarket +15.5% · Reported after the close · CLS Stock Soars Premarket After Blowout Q3 — Retail Calls It ‘Very Inexpensive’ As Celestica Touts AI ‘Supe…
+CLS: Moved +10.3% last session · Reported after the close · Celestica Stock Jumps on Q3 Earnings Beat
+CNC: Earnings before the open today
+CTOS: Moved +8.8% last session · Reported after the close · Custom Truck One Source (NYSE:CTOS) misses Q3 2026 sales expectations
+EEFT: Moved −6.2% last session · Earnings before the open today · Euronet Worldwide's Q3 Adjusted Earnings Decline, Revenue Rises; Adjusts 2026 Guidance
 GLW: Earnings before the open today
-GLXY: Moved +6.8% last session · Earnings before the open today
-HSBC: Premarket −6.8% · Earnings before the open today · HSBC Q3 Earnings, Revenue Rise; Launches $1 Billion Share Buyback
-INIO: Premarket +3.3% · Earnings before the open today
+HCA: Earnings before the open today
+HLT: Earnings before the open today
+HRI: Moved +13.7% last session · Earnings before the open today · Herc (NYSE:HRI) beats Q3 2026 sales expectations but full-year sales guidance misses expectations significa…
+HSBC: Moved −6.1% last session · Earnings before the open today · HSBC Shares Slide on Deposit Pressures
+HWKN: Moved +11.4% last session · Reported after the close · Hawkins (HWKN) Beats Q2 Earnings and Revenue Estimates
+JCI: Earnings before the open today
+KNSA: Moved +16.7% last session · Earnings before the open today · Kiniksa Pharmaceuticals' Q3 Net Income, Revenue Rise; Shares Up Pre-Bell
+PNR: Moved +11.9% last session · Earnings before the open today · Pentair's Q3 Adjusted Earnings, Net Sales Decline; Q4 Outlook Issued
 PYPL: Earnings before the open today
-RMBS: Premarket −3.1% · Reported after the close · Rambus falls despite earnings beat on muted guidance outlook
-RRC: Moved +17.7% last session · Earnings after the close today · What Range Resources Holders Saw Early
-SKHY: Earnings after the close today
-SOFI: Earnings before the open today
-SLB: Upgraded to Hold at Freedom Broker
-ASST: Moved −9.1% last session · Tom Lee Says Crypto Faced Same ‘Risk Off’ Forces Behind AI Sell-Off: BMNR, ASST Add To Crypto Treasuries As…
-AXTI: Moved +8.0% last session
-CART: Moved +7.9% last session · Why Did CART, RBRK, RRC Stocks Surge To 52-Week Highs Today?
-DASH: Moved −6.1% last session
-DOCN: Moved +6.8% last session
-EGIEY: Moved −15.6% last session
-ELPC: Moved −19.6% last session
-FICO: Moved −13.2% last session · FICO Stock Faces Pricing Power Questions After Mortgage Score Price Reset
-FIX: Moved +7.2% last session · VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to…
-ITUB: Moved −20.4% last session · Top Analyst Reports for Intel, Novartis & Itau Unibanco
-LITE: Moved +8.2% last session · Lumentum (LITE) Stock Looks Like A Bargain On Its Huge Run
-NU: Moved −17.0% last session · Nu Holdings (NU) Stock May Be 23% Undervalued On Brazil Election Uncertainty
-ORKA: Moved +12.7% last session · Oruka Therapeutics Stock Gets A Lift From Psoriasis Trial Results
+RCL: Moved +6.7% last session · Earnings before the open today · Royal Caribbean Surges 8% as Earnings Beat Lifts Full-Year Outlook; Norwegian Climbs 3%, Carnival Edges Higher
+SHW: Earnings before the open today
+SOFI: Moved +11.3% last session · Earnings before the open today · Earnings live updates: Boeing stock falls on mixed Q3 turnaround picture, SoFi surges
+SPGI: Earnings before the open today
+UPS: Earnings before the open today
+WELL: Moved −5.5% last session · Reported after the close · Why Is Welltower Stock Rising 2.2% After Its Third-Quarter 2026 Earnings?
+WSO: Moved −5.1% last session · Earnings before the open today · Watsco (NYSE:WSO) posts Q3 2026 sales in line with estimates but GAAP-EPS misses
+XYL: Moved −9.1% last session · Earnings before the open today · Xylem's Q3 Adjusted Earnings Increase, Revenue Declines; 2026 Outlook Lowered
+AVGO: Upgraded to Buy at DA Davidson
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 91.61 stop 92.92 2R 88.99 (76 sh)
