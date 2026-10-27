@@ -4,33 +4,33 @@ IN PLAY ON NEWS
 HOOD: Earnings after the close today
 KO: Earnings before the open today
 STX: Earnings after the close today
-AMKR: Moved −6.3% last session · Reported after the close · Amkor (NASDAQ:AMKR) misses Q3 analysts’ revenue estimates
+AMKR: Moved −6.3% last session · Reported after the close · Is Amkor Technology (AMKR) Undervalued Following Mixed Q3 Results And Weak Guidance?
+BA: Earnings before the open today
 CDNS: Reported after the close
-CLS: Moved −5.1% last session · Reported after the close · Celestica: Q3 Earnings Snapshot
+CLS: Premarket +15.5% · Reported after the close · CLS Stock Soars Premarket After Blowout Q3 — Retail Calls It ‘Very Inexpensive’ As Celestica Touts AI ‘Supe…
+GLW: Earnings before the open today
 GLXY: Moved +6.8% last session · Earnings before the open today
-INIO: Moved +9.3% last session · Earnings before the open today
+HSBC: Premarket −6.8% · Earnings before the open today · HSBC Q3 Earnings, Revenue Rise; Launches $1 Billion Share Buyback
+INIO: Premarket +3.3% · Earnings before the open today
 PYPL: Earnings before the open today
-RMBS: Moved +5.5% last session · Reported after the close · Rambus Q3 Non-GAAP Earnings, Revenue Rise; Issues Q4 Outlook
-RRC: Moved +17.7% last session · Earnings after the close today · Range Resources Soars 11% on EQT’s All-Stock Takeover Creating “A Must-Own Energy Company”
+RMBS: Premarket −3.1% · Reported after the close · Rambus falls despite earnings beat on muted guidance outlook
+RRC: Moved +17.7% last session · Earnings after the close today · What Range Resources Holders Saw Early
+SKHY: Earnings after the close today
+SOFI: Earnings before the open today
 SLB: Upgraded to Hold at Freedom Broker
 ASST: Moved −9.1% last session · Tom Lee Says Crypto Faced Same ‘Risk Off’ Forces Behind AI Sell-Off: BMNR, ASST Add To Crypto Treasuries As…
 AXTI: Moved +8.0% last session
-CART: Moved +7.9% last session · Instacart to Wind Down Smart Cart Business Amid Sale Talks
-DASH: Moved −6.1% last session · Update: Market Chatter: DoorDash in Advanced Talks to Acquire Instacart
+CART: Moved +7.9% last session · Why Did CART, RBRK, RRC Stocks Surge To 52-Week Highs Today?
+DASH: Moved −6.1% last session
 DOCN: Moved +6.8% last session
-EGIEY: Moved −20.5% last session
+EGIEY: Moved −15.6% last session
 ELPC: Moved −19.6% last session
-FICO: Moved −13.2% last session · FICO stock falls 14% after Pulte pledges 'more action' on credit score competition
-FIX: Moved +7.2% last session
+FICO: Moved −13.2% last session · FICO Stock Faces Pricing Power Questions After Mortgage Score Price Reset
+FIX: Moved +7.2% last session · VSE Corporation, Viavi Solutions, Moog, Bloom Energy, and Comfort Systems stocks trade up, what you need to…
 ITUB: Moved −20.4% last session · Top Analyst Reports for Intel, Novartis & Itau Unibanco
-LITE: Moved +8.2% last session · Why Lumentum Holdings Stock Soared 8.2% Today
-LMT: Moved +5.1% last session · Lockheed Martin Shares Rise After Morgan Stanley Upgrade
-MELI: Moved −7.8% last session
-NU: Moved −17.0% last session · NU Stock Suffers Worst Day On Record In Brazil Market Rout – Monness Crespi Initiates Coverage With ‘Buy’ R…
-ORKA: Moved +12.7% last session · Oruka Therapeutics Soars 12% as Psoriasis Drug Clears Skin in 61% of High-Dose Patients: “A Paradigm Shift”
-PAGS: Moved −25.2% last session · Why PagSeguro Stock Crashed Today
-PARR: Moved +7.8% last session
-PBR: Moved −14.0% last session
+LITE: Moved +8.2% last session · Lumentum (LITE) Stock Looks Like A Bargain On Its Huge Run
+NU: Moved −17.0% last session · Nu Holdings (NU) Stock May Be 23% Undervalued On Brazil Election Uncertainty
+ORKA: Moved +12.7% last session · Oruka Therapeutics Stock Gets A Lift From Psoriasis Trial Results
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 91.61 stop 92.92 2R 88.99 (76 sh)
@@ -38,16 +38,17 @@ SMCI: short under 32.56 stop 33.23 2R 31.22 (149 sh)
 MRK: short under 139.88 stop 141.08 2R 137.48 (83 sh)
 COP: long over 152.05 stop 151.13 2R 153.89 (108 sh)
 OXY: long over 64.60 stop 64.20 2R 65.40 (250 sh)
-NFLX: short under 62.85 stop 63.40 2R 61.75 (181 sh)
 IGV: long over 111.93 stop 111.21 2R 113.37 (138 sh)
-SLB: long over 53.17 stop 52.77 2R 53.97 (250 sh)
+SLB: long over 53.18 stop 52.78 2R 53.98 (250 sh)
 SLB: short under 51.73 stop 52.13 2R 50.93 (250 sh)
-XOM: long over 184.63 stop 183.65 2R 186.59 (102 sh)
-XLC: short under 103.50 stop 103.94 2R 102.62 (227 sh)
+XOM: long over 184.64 stop 183.66 2R 186.60 (102 sh)
+XLC: short under 103.49 stop 103.93 2R 102.61 (227 sh)
 PGR: long over 229.78 stop 228.30 2R 232.74 (67 sh)
 XLE: long over 69.88 stop 69.51 2R 70.62 (270 sh)
-PEP: long over 137.69 stop 136.88 2R 139.31 (123 sh)
+PEP: long over 137.70 stop 136.89 2R 139.32 (123 sh)
 PEP: short under 134.95 stop 135.76 2R 133.33 (123 sh)
-WMT: long over 121.82 stop 121.17 2R 123.12 (153 sh)
+WMT: long over 121.82 stop 121.18 2R 123.10 (156 sh)
+NEE: long over 82.83 stop 82.44 2R 83.61 (256 sh)
+NEE: short under 81.89 stop 82.28 2R 81.11 (256 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
