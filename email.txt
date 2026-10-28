@@ -2,35 +2,35 @@ Day-trade prep for Wed 10/28 (levels from the Oct 27 close)
 
 IN PLAY ON NEWS
 GOOGL: Earnings after the close today
-HOOD: Premarket −8.2% · Reported after the close · Robinhood shares fall as crypto markets chill drives profit miss
+HOOD: Reported after the close
 KLAC: Earnings after the close today
 MSFT: Earnings after the close today
-STX: Premarket −3.6% · Reported after the close · Seagate Stock Falls 6% on a Record Quarter: “Strong Momentum” Wasn’t Enough
-DINO: Moved −8.8% last session · Earnings before the open today
-ENPH: Premarket −17.1% · Reported after the close · ENPH Stock Plunges Sharply After-Hours On Lower Residential Demand: Here's Why Retail Is Holding Tight
+STX: Reported after the close
+ADP: Earnings before the open today
+APH: Earnings before the open today
+AXGN: Moved +26.8% last session · Earnings before the open today · Axogen Q3 Adjusted Net Income, Revenue Increase; 2026 Revenue Guidance Lifted; Shares Rise
+BSX: Moved −7.5% last session · Earnings before the open today · BSX Stock Crashes To 4-Year Lows: Boston Scientific Sees Q4 Sales Declining, CEO Remains Confident In ‘Long…
+CHE: Moved +10.2% last session · Reported after the close · Jefferies Upgrades Chemed to Buy From Hold, Price Target is $620
+CHRW: Moved −10.6% last session · Earnings before the open today · C.H. Robinson (CHRW) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates
+CSGP: Moved −13.4% last session · Reported after the close · Goldman Sachs Adjusts Price Target on CoStar to $36 From $40
+DAN: Moved −8.5% last session · Earnings before the open today · Dana Q3 Swings to Adjusted Earnings, Net Sales Rise; 2026 Net Sales Guidance Revised
+EAT: Moved +13.2% last session · Earnings before the open today · Brinker Lifts Forecast as Chili’s Drives Profit
+EDU: Moved −10.1% last session · Earnings before the open today · New Oriental (EDU) Q1 2027 Earnings Call Transcript
+ENPH: Moved −16.3% last session · Reported after the close · Downgraded to Perform at Oppenheimer · Enphase Stock Takes a Brutal Hit as Earnings Miss and Outlook Disappoint
+ETSY: Earnings before the open today
+EVR: Moved +10.6% last session · Earnings before the open today · Evercore (EVR) Reports Q3 Earnings: What Key Metrics Have to Say
+FFIV: Moved −18.5% last session · Reported after the close · Downgraded to Neutral at Piper Sandler · F5 (FFIV) Stock Could Be 14% Overvalued Despite Fresh AI Infrastructure News
+FLEX: Earnings before the open today
+GEHC: Moved +7.7% last session · Earnings before the open today · Compared to Estimates, GE HealthCare (GEHC) Q3 Earnings: A Look at Key Metrics
 GEV: Earnings before the open today
-INTA: Moved −8.9% last session · Reported after the close · Intapp shares tumble 9% on weak second quarter guidance
-PSX: Moved −7.0% last session · Earnings before the open today · Zacks Industry Outlook Highlights Marathon Petroleum, PBF Energy and Phillips 66
-SKHY: Premarket +7.3% · Reported after the close · SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI’s ‘Toll Booth’ As Tech Giants Chase Scarce …
-TER: Premarket −3.6% · Reported after the close · Teradyne Q3 Adjusted Earnings, Revenue Rise; Issues Q4 Guidance
-UCTT: Premarket +13.4% · Reported after the close · Ultra Clean Holdings soars 11% on strong Q3 beat, upbeat outlook
-V: Reported after the close
-VRT: Earnings before the open today
-MU: Premarket +3.5% · The Zacks Analyst Blog Highlights IonQ, Rigetti Computing, QTUM, WQTM, CHPX and Micron Technology
-SNDK: Premarket +4.2% · MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
-ABG: Moved +12.7% last session · Asbury Automotive Group (ABG) Stock May Look Cheap After Target Price Increase
-AEHR: Moved +13.0% last session
-AIT: Moved −8.3% last session · Applied Industrial Technologies (AIT) Reports Q1 Earnings: What Key Metrics Have to Say
-ALAB: Moved +10.5% last session · Was There Any Sign Astera Labs Stock Would Run?
-BA: Moved −10.7% last session · President Capital Downgrades Boeing to Neutral From Buy, $192 Price Target
-CHRN: Moved +19.5% last session
-CLS: Moved +12.1% last session · Celestica Stocks Surge 14.6% With $40 Billion Outlook and a Cash-Flow Cut
-CTOS: Moved +16.6% last session · What Custom Truck One Source (CTOS) Said on Its Q3 Earnings Call
-CVI: Moved −7.4% last session · Diesel Tightness Is Putting CVR Energy Stock And Refiners Back In Focus
-DK: Moved −10.4% last session
-EEFT: Moved −7.7% last session · Euronet Worldwide (EEFT) Stock Sinks As Q3 Results Deepen Margin Pressure
-GWRE: Moved −8.1% last session · Guidewire Software Insider Sold Shares Worth $336,942, According to a Recent SEC Filing
-HRI: Moved +22.8% last session · Raised Revenue Outlook Could Change The Case For Herc Holdings Stock
+GNRC: Earnings before the open today
+GSK: Earnings before the open today
+HAYW: Moved +11.9% last session · Earnings before the open today · Hayward Q3 Adjusted EPS, Revenue Rise; 2026 Outlook Raised
+ICLR: Moved +11.9% last session · Reported after the close · ICON Q3 Non-GAAP Earnings, Revenue Fall; Lifts 2026 Guidance
+JMKE: Moved +6.3% last session · Earnings before the open today · Jersey Mike's Reports Fiscal Q3 Results; Launches $100 Million Buyback; Declares Special Dividend
+LH: Moved +11.6% last session · Earnings before the open today · LH Stock Rises on Q3 Earnings and Revenue Beat, '26 View Up
+LII: Moved −8.6% last session · Earnings before the open today · Lennox International Q3 Adjusted Earnings Decline, Net Sales Increase; 2026 Outlook Lowered
+LOGI: Moved −10.3% last session · Reported after the close · Logitech Sinks 11% on Weak Holiday Guidance as Chip Supplier Incident Bites: Fortunately “Q3 Carries the Br…
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 INTC: long over 95.00 stop 93.64 2R 97.72 (73 sh)
