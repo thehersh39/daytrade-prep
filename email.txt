@@ -1,54 +1,58 @@
-Day-trade prep for Tue 10/27 (levels from the Oct 26 close)
+Day-trade prep for Wed 10/28 (levels from the Oct 27 close)
 
 IN PLAY ON NEWS
-HOOD: Earnings after the close today
-KO: Earnings before the open today
-STX: Earnings after the close today
-AIT: Moved −5.3% last session · Earnings before the open today · Applied Industrial Technologies Fiscal Q1 Earnings, Revenue Rise
-ARCC: Earnings before the open today
-AWI: Moved −7.0% last session · Earnings before the open today · Armstrong World Industries Q3 Adjusted Earnings, Net Sales Rise; 2026 Outlook Updated
-BA: Earnings before the open today
-CLS: Moved +10.3% last session · Reported after the close · Celestica Stock Jumps on Q3 Earnings Beat
-CNC: Earnings before the open today
-CTOS: Moved +8.8% last session · Reported after the close · Custom Truck One Source (NYSE:CTOS) misses Q3 2026 sales expectations
-EEFT: Moved −6.2% last session · Earnings before the open today · Euronet Worldwide's Q3 Adjusted Earnings Decline, Revenue Rises; Adjusts 2026 Guidance
-GLW: Earnings before the open today
-HCA: Earnings before the open today
-HLT: Earnings before the open today
-HRI: Moved +13.7% last session · Earnings before the open today · Herc (NYSE:HRI) beats Q3 2026 sales expectations but full-year sales guidance misses expectations significa…
-HSBC: Moved −6.1% last session · Earnings before the open today · HSBC Shares Slide on Deposit Pressures
-HWKN: Moved +11.4% last session · Reported after the close · Hawkins (HWKN) Beats Q2 Earnings and Revenue Estimates
-JCI: Earnings before the open today
-KNSA: Moved +16.7% last session · Earnings before the open today · Kiniksa Pharmaceuticals' Q3 Net Income, Revenue Rise; Shares Up Pre-Bell
-PNR: Moved +11.9% last session · Earnings before the open today · Pentair's Q3 Adjusted Earnings, Net Sales Decline; Q4 Outlook Issued
-PYPL: Earnings before the open today
-RCL: Moved +6.7% last session · Earnings before the open today · Royal Caribbean Surges 8% as Earnings Beat Lifts Full-Year Outlook; Norwegian Climbs 3%, Carnival Edges Higher
-SHW: Earnings before the open today
-SOFI: Moved +11.3% last session · Earnings before the open today · Earnings live updates: Boeing stock falls on mixed Q3 turnaround picture, SoFi surges
-SPGI: Earnings before the open today
-UPS: Earnings before the open today
-WELL: Moved −5.5% last session · Reported after the close · Why Is Welltower Stock Rising 2.2% After Its Third-Quarter 2026 Earnings?
-WSO: Moved −5.1% last session · Earnings before the open today · Watsco (NYSE:WSO) posts Q3 2026 sales in line with estimates but GAAP-EPS misses
-XYL: Moved −9.1% last session · Earnings before the open today · Xylem's Q3 Adjusted Earnings Increase, Revenue Declines; 2026 Outlook Lowered
-AVGO: Upgraded to Buy at DA Davidson
+GOOGL: Earnings after the close today
+HOOD: Premarket −8.2% · Reported after the close · Robinhood shares fall as crypto markets chill drives profit miss
+KLAC: Earnings after the close today
+MSFT: Earnings after the close today
+STX: Premarket −3.6% · Reported after the close · Seagate Stock Falls 6% on a Record Quarter: “Strong Momentum” Wasn’t Enough
+DINO: Moved −8.8% last session · Earnings before the open today
+ENPH: Premarket −17.1% · Reported after the close · ENPH Stock Plunges Sharply After-Hours On Lower Residential Demand: Here's Why Retail Is Holding Tight
+GEV: Earnings before the open today
+INTA: Moved −8.9% last session · Reported after the close · Intapp shares tumble 9% on weak second quarter guidance
+PSX: Moved −7.0% last session · Earnings before the open today · Zacks Industry Outlook Highlights Marathon Petroleum, PBF Energy and Phillips 66
+SKHY: Premarket +7.3% · Reported after the close · SKHY Stock Jumps Premarket: Strategist Says SK Hynix Sits At AI’s ‘Toll Booth’ As Tech Giants Chase Scarce …
+TER: Premarket −3.6% · Reported after the close · Teradyne Q3 Adjusted Earnings, Revenue Rise; Issues Q4 Guidance
+UCTT: Premarket +13.4% · Reported after the close · Ultra Clean Holdings soars 11% on strong Q3 beat, upbeat outlook
+V: Reported after the close
+VRT: Earnings before the open today
+MU: Premarket +3.5% · The Zacks Analyst Blog Highlights IonQ, Rigetti Computing, QTUM, WQTM, CHPX and Micron Technology
+SNDK: Premarket +4.2% · MU, SNDK, Neocloud Stocks Extend Gains On Anthropic Boost, SK Hynix Q3 Stunner; Jim Cramer Urges Caution
+ABG: Moved +12.7% last session · Asbury Automotive Group (ABG) Stock May Look Cheap After Target Price Increase
+AEHR: Moved +13.0% last session
+AIT: Moved −8.3% last session · Applied Industrial Technologies (AIT) Reports Q1 Earnings: What Key Metrics Have to Say
+ALAB: Moved +10.5% last session · Was There Any Sign Astera Labs Stock Would Run?
+BA: Moved −10.7% last session · President Capital Downgrades Boeing to Neutral From Buy, $192 Price Target
+CHRN: Moved +19.5% last session
+CLS: Moved +12.1% last session · Celestica Stocks Surge 14.6% With $40 Billion Outlook and a Cash-Flow Cut
+CTOS: Moved +16.6% last session · What Custom Truck One Source (CTOS) Said on Its Q3 Earnings Call
+CVI: Moved −7.4% last session · Diesel Tightness Is Putting CVR Energy Stock And Refiners Back In Focus
+DK: Moved −10.4% last session
+EEFT: Moved −7.7% last session · Euronet Worldwide (EEFT) Stock Sinks As Q3 Results Deepen Margin Pressure
+GWRE: Moved −8.1% last session · Guidewire Software Insider Sold Shares Worth $336,942, According to a Recent SEC Filing
+HRI: Moved +22.8% last session · Raised Revenue Outlook Could Change The Case For Herc Holdings Stock
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-HOOD: short under 91.61 stop 92.92 2R 88.99 (76 sh)
-SMCI: short under 32.56 stop 33.23 2R 31.22 (149 sh)
-MRK: short under 139.88 stop 141.08 2R 137.48 (83 sh)
-COP: long over 152.05 stop 151.13 2R 153.89 (108 sh)
-OXY: long over 64.60 stop 64.20 2R 65.40 (250 sh)
-IGV: long over 111.93 stop 111.21 2R 113.37 (138 sh)
-SLB: long over 53.18 stop 52.78 2R 53.98 (250 sh)
-SLB: short under 51.73 stop 52.13 2R 50.93 (250 sh)
-XOM: long over 184.64 stop 183.66 2R 186.60 (102 sh)
-XLC: short under 103.49 stop 103.93 2R 102.61 (227 sh)
-PGR: long over 229.78 stop 228.30 2R 232.74 (67 sh)
-XLE: long over 69.88 stop 69.51 2R 70.62 (270 sh)
-PEP: long over 137.70 stop 136.89 2R 139.32 (123 sh)
-PEP: short under 134.95 stop 135.76 2R 133.33 (123 sh)
-WMT: long over 121.82 stop 121.18 2R 123.10 (156 sh)
-NEE: long over 82.83 stop 82.44 2R 83.61 (256 sh)
-NEE: short under 81.89 stop 82.28 2R 81.11 (256 sh)
+INTC: long over 95.00 stop 93.64 2R 97.72 (73 sh)
+INTC: short under 91.84 stop 93.20 2R 89.12 (73 sh)
+HOOD: short under 94.00 stop 95.30 2R 91.40 (76 sh)
+IGV: long over 112.43 stop 111.71 2R 113.87 (138 sh)
+PHM: long over 122.22 stop 121.30 2R 124.06 (108 sh)
+PHM: short under 119.78 stop 120.70 2R 117.94 (108 sh)
+PG: long over 159.58 stop 158.76 2R 161.22 (121 sh)
+XLV: long over 179.77 stop 179.02 2R 181.27 (133 sh)
+NEE: long over 82.47 stop 82.10 2R 83.21 (270 sh)
+NEE: short under 81.73 stop 82.10 2R 80.99 (270 sh)
+RSP: long over 217.72 stop 217.22 2R 218.72 (200 sh)
+RSP: short under 216.36 stop 216.86 2R 215.36 (200 sh)
+XLRE: long over 42.71 stop 42.55 2R 43.03 (625 sh)
+XLRE: short under 42.24 stop 42.40 2R 41.92 (625 sh)
+TLT: long over 81.75 stop 81.55 2R 82.15 (500 sh)
+TLT: short under 81.45 stop 81.65 2R 81.05 (500 sh)
+VST: long over 147.50 stop 146.00 2R 150.50 (66 sh)
+COIN: short under 157.70 stop 159.20 2R 154.70 (66 sh)
+MSTR: long over 142.05 stop 140.55 2R 145.05 (66 sh)
+MSTR: short under 138.64 stop 140.14 2R 135.64 (66 sh)
+PLTR: long over 201.88 stop 200.38 2R 204.88 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
