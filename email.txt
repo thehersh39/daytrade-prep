@@ -3,34 +3,34 @@ Day-trade prep for Thu 10/29 (levels from the Oct 28 close)
 IN PLAY ON NEWS
 AMZN: Earnings after the close today
 COIN: Earnings after the close today
-DHI: Premarket −3.1% · Earnings before the open today
-GOOGL: Premarket −10.1% · Reported after the close
-INTC: Premarket −3.9% · Earnings after the close today · Intel to report Q3 earnings as chip stocks continue to rebound
+DHI: Earnings before the open today
+GOOGL: Reported after the close
+INTC: Earnings after the close today
 KLAC: Reported after the close
 LLY: Earnings before the open today
 MRK: Earnings before the open today
-MSFT: Premarket +3.4% · Reported after the close · Bernstein Adjusts Price Target on Microsoft to $722 From $662
+MSFT: Reported after the close
 MSTR: Earnings after the close today
-SNDK: Premarket −3.5% · Earnings after the close today · SanDisk Heads Into Earnings With Wall Street Seeing 63% Upside
-CMG: Premarket +6.7% · Reported after the close · CMG Stock Rises Overnight: CEO Calls Chipotle A 'Category Leader' After Strong Q3 Revenue, Retail Agrees
-CVNA: Premarket +7.5% · Reported after the close · Carvana Co (CVNA) Q3 2026 Earnings Call Highlights: Record $8 Billion Revenue and 217,385 Units ...
-EBAY: Premarket +4.3% · Reported after the close · eBay Inc (EBAY) (Q3 2026) Earnings Call Highlights: GMV Surges 16% as Focus Categories, eBay ...
-F: Reported after the close
-FDX: Reported after the close
-FTNT: Premarket −25.3% · Reported after the close · Fortinet (FTNT) Q3 2026 Earnings Call Transcript
-GILD: Earnings after the close today
-GOOG: Premarket −9.9% · Reported after the close · BNP Paribas Adjusts Price Target on Alphabet to $410 From $450
-HONA: Moved +5.4% last session · Reported after the close · Honeywell Aerospace (HONA) Q3 2026 Earnings Call Transcript
-NOW: Premarket −17.9% · Reported after the close
-SFM: Premarket −23.2% · Reported after the close · Sprouts Farmers Market (SFM) Q3 2026 Earnings Call Transcript
-SHEL: Premarket +3.5% · Earnings before the open today · Shell to Launch $5 Billion Share Buyback as Earnings Soar
-ARM: Premarket −3.3% · Why Arm’s Q2 Earnings Could Spur a Recovery in Its Stock
-CRWD: Premarket −5.5% · CrowdStrike (CRWD) Stock Looks Overvalued On Its 5x Three Year Run
-MRVL: Premarket −10.2% · Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition
-MU: Premarket −3.5% · INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet
-SMCI: Premarket −3.3% · Super Micro Computer (SMCI) Rises Higher Than Market: Key Facts
-STX: Premarket −3.1% · What Does Seagate Technology Holdings (STX) Mozaic Milestone Mean For AI Storage?
-WDC: Premarket −3.8% · Looking for a Growth Stock? 3 Reasons Why Western Digital (WDC) is a Solid Choice
+SNDK: Earnings after the close today
+ALGM: Moved −10.0% last session · Earnings before the open today · Allegro MicroSystems Fiscal Q2 Adjusted Earnings, Revenue Rise; Issues Fiscal Q3 Outlook
+ALNY: Moved −17.6% last session · Earnings before the open today · Alnylam Pharmaceuticals Q3 Non-GAAP Net Income, Revenue Rise; Fiscal 2026 Net Product Sales Outlook Kept
+BHC: Moved +21.8% last session · Reported after the close · BHC Q3 Earnings Beat on Salix Growth, Stock Gains 9% as Outlook Rises
+BOOT: Moved +12.0% last session · Reported after the close · UBS Adjusts Boot Barn Price Target to $194 From $232, Maintains Buy Rating
+CART: Earnings before the open today
+CAT: Moved −7.3% last session · Earnings before the open today · Caterpillar Drops 7% as Moderate Sales Outlook Overshadows Beat; Deere Sits Out the Selloff, PACCAR Dips
+CMG: Moved +7.9% last session · Reported after the close · Loop Capital Adjusts Price Target on Chipotle Mexican Grill to $50 From $52
+CROX: Moved +26.2% last session · Earnings before the open today · Crocs' Q3 Adjusted Earnings, Revenue Rise; Lifts 2026 Guidance -- Shares Surge 16% Pre-Bell
+CVNA: Moved +14.2% last session · Reported after the close · Carvana stock jumps on strong Q3 revenue as profits climb
+DASH: Moved +6.5% last session · Earnings before the open today · DASH Stock Rockets After DoorDash Announces $17B Instacart Acquisition, Reports Upbeat Q3
+FORM: Moved −10.3% last session · Reported after the close
+FTAI: Moved +13.8% last session · Earnings before the open today · FTAI Aviation Soars 14% on $500 Million Buyback as CEO Sees “Clear Visibility Into 2027”
+FTNT: Moved −22.9% last session · Reported after the close · Fortinet Tumbles 20% as Service Revenue Forecast Cut Overshadows Beat; Palo Alto Drops 5%, CrowdStrike Fall…
+FTRE: Moved −11.2% last session · Earnings before the open today · Fortrea Shares Drop After Reporting Q3 Results
+GEN: Moved +11.5% last session · Reported after the close · GEN Q2 Earnings Beat Estimates on Financial Wellness Strength
+GKOS: Moved +29.7% last session · Reported after the close · Glaukos Soars 26% on “Exceptional” Quarter and $1 Billion 2027 Sales Outlook
+GOOG: Moved −12.1% last session · Reported after the close · Alphabet Is Having Its Worst Earnings Day Ever. Here’s What It Means for Your ETFs
+HII: Moved +10.9% last session · Earnings before the open today · Huntington Ingalls Soars 11% on Earnings Beat: “Approximately 90 Percent” of Shipbuilding Revenue Secured T…
+HONA: Moved −11.6% last session · Reported after the close · Evercore ISI Adjusts Price Target on Honeywell Aerospace to $195 From $210
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 INTC: short under 92.98 stop 94.24 2R 90.46 (79 sh)
