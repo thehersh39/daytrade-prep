@@ -1,58 +1,51 @@
-Day-trade prep for Wed 10/28 (levels from the Oct 27 close)
+Day-trade prep for Thu 10/29 (levels from the Oct 28 close)
 
 IN PLAY ON NEWS
-GOOGL: Earnings after the close today
-HOOD: Reported after the close
-KLAC: Earnings after the close today
-MSFT: Earnings after the close today
-STX: Reported after the close
-ADP: Earnings before the open today
-APH: Earnings before the open today
-AXGN: Moved +26.8% last session · Earnings before the open today · Axogen Q3 Adjusted Net Income, Revenue Increase; 2026 Revenue Guidance Lifted; Shares Rise
-BSX: Moved −7.5% last session · Earnings before the open today · BSX Stock Crashes To 4-Year Lows: Boston Scientific Sees Q4 Sales Declining, CEO Remains Confident In ‘Long…
-CHE: Moved +10.2% last session · Reported after the close · Jefferies Upgrades Chemed to Buy From Hold, Price Target is $620
-CHRW: Moved −10.6% last session · Earnings before the open today · C.H. Robinson (CHRW) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates
-CSGP: Moved −13.4% last session · Reported after the close · Goldman Sachs Adjusts Price Target on CoStar to $36 From $40
-DAN: Moved −8.5% last session · Earnings before the open today · Dana Q3 Swings to Adjusted Earnings, Net Sales Rise; 2026 Net Sales Guidance Revised
-EAT: Moved +13.2% last session · Earnings before the open today · Brinker Lifts Forecast as Chili’s Drives Profit
-EDU: Moved −10.1% last session · Earnings before the open today · New Oriental (EDU) Q1 2027 Earnings Call Transcript
-ENPH: Moved −16.3% last session · Reported after the close · Downgraded to Perform at Oppenheimer · Enphase Stock Takes a Brutal Hit as Earnings Miss and Outlook Disappoint
-ETSY: Earnings before the open today
-EVR: Moved +10.6% last session · Earnings before the open today · Evercore (EVR) Reports Q3 Earnings: What Key Metrics Have to Say
-FFIV: Moved −18.5% last session · Reported after the close · Downgraded to Neutral at Piper Sandler · F5 (FFIV) Stock Could Be 14% Overvalued Despite Fresh AI Infrastructure News
-FLEX: Earnings before the open today
-GEHC: Moved +7.7% last session · Earnings before the open today · Compared to Estimates, GE HealthCare (GEHC) Q3 Earnings: A Look at Key Metrics
-GEV: Earnings before the open today
-GNRC: Earnings before the open today
-GSK: Earnings before the open today
-HAYW: Moved +11.9% last session · Earnings before the open today · Hayward Q3 Adjusted EPS, Revenue Rise; 2026 Outlook Raised
-ICLR: Moved +11.9% last session · Reported after the close · ICON Q3 Non-GAAP Earnings, Revenue Fall; Lifts 2026 Guidance
-JMKE: Moved +6.3% last session · Earnings before the open today · Jersey Mike's Reports Fiscal Q3 Results; Launches $100 Million Buyback; Declares Special Dividend
-LH: Moved +11.6% last session · Earnings before the open today · LH Stock Rises on Q3 Earnings and Revenue Beat, '26 View Up
-LII: Moved −8.6% last session · Earnings before the open today · Lennox International Q3 Adjusted Earnings Decline, Net Sales Increase; 2026 Outlook Lowered
-LOGI: Moved −10.3% last session · Reported after the close · Logitech Sinks 11% on Weak Holiday Guidance as Chip Supplier Incident Bites: Fortunately “Q3 Carries the Br…
+AMZN: Earnings after the close today
+COIN: Earnings after the close today
+DHI: Premarket −3.1% · Earnings before the open today
+GOOGL: Premarket −10.1% · Reported after the close
+INTC: Premarket −3.9% · Earnings after the close today · Intel to report Q3 earnings as chip stocks continue to rebound
+KLAC: Reported after the close
+LLY: Earnings before the open today
+MRK: Earnings before the open today
+MSFT: Premarket +3.4% · Reported after the close · Bernstein Adjusts Price Target on Microsoft to $722 From $662
+MSTR: Earnings after the close today
+SNDK: Premarket −3.5% · Earnings after the close today · SanDisk Heads Into Earnings With Wall Street Seeing 63% Upside
+CMG: Premarket +6.7% · Reported after the close · CMG Stock Rises Overnight: CEO Calls Chipotle A 'Category Leader' After Strong Q3 Revenue, Retail Agrees
+CVNA: Premarket +7.5% · Reported after the close · Carvana Co (CVNA) Q3 2026 Earnings Call Highlights: Record $8 Billion Revenue and 217,385 Units ...
+EBAY: Premarket +4.3% · Reported after the close · eBay Inc (EBAY) (Q3 2026) Earnings Call Highlights: GMV Surges 16% as Focus Categories, eBay ...
+F: Reported after the close
+FDX: Reported after the close
+FTNT: Premarket −25.3% · Reported after the close · Fortinet (FTNT) Q3 2026 Earnings Call Transcript
+GILD: Earnings after the close today
+GOOG: Premarket −9.9% · Reported after the close · BNP Paribas Adjusts Price Target on Alphabet to $410 From $450
+HONA: Moved +5.4% last session · Reported after the close · Honeywell Aerospace (HONA) Q3 2026 Earnings Call Transcript
+NOW: Premarket −17.9% · Reported after the close
+SFM: Premarket −23.2% · Reported after the close · Sprouts Farmers Market (SFM) Q3 2026 Earnings Call Transcript
+SHEL: Premarket +3.5% · Earnings before the open today · Shell to Launch $5 Billion Share Buyback as Earnings Soar
+ARM: Premarket −3.3% · Why Arm’s Q2 Earnings Could Spur a Recovery in Its Stock
+CRWD: Premarket −5.5% · CrowdStrike (CRWD) Stock Looks Overvalued On Its 5x Three Year Run
+MRVL: Premarket −10.2% · Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition
+MU: Premarket −3.5% · INTC, AMD, AVGO, MU Decline On Samsung’s Profit Miss, Lighter Capex From Microsoft, Alphabet
+SMCI: Premarket −3.3% · Super Micro Computer (SMCI) Rises Higher Than Market: Key Facts
+STX: Premarket −3.1% · What Does Seagate Technology Holdings (STX) Mozaic Milestone Mean For AI Storage?
+WDC: Premarket −3.8% · Looking for a Growth Stock? 3 Reasons Why Western Digital (WDC) is a Solid Choice
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-INTC: long over 95.00 stop 93.64 2R 97.72 (73 sh)
-INTC: short under 91.84 stop 93.20 2R 89.12 (73 sh)
-HOOD: short under 94.00 stop 95.30 2R 91.40 (76 sh)
-IGV: long over 112.43 stop 111.71 2R 113.87 (138 sh)
-PHM: long over 122.22 stop 121.30 2R 124.06 (108 sh)
-PHM: short under 119.78 stop 120.70 2R 117.94 (108 sh)
-PG: long over 159.58 stop 158.76 2R 161.22 (121 sh)
-XLV: long over 179.77 stop 179.02 2R 181.27 (133 sh)
-NEE: long over 82.47 stop 82.10 2R 83.21 (270 sh)
-NEE: short under 81.73 stop 82.10 2R 80.99 (270 sh)
-RSP: long over 217.72 stop 217.22 2R 218.72 (200 sh)
-RSP: short under 216.36 stop 216.86 2R 215.36 (200 sh)
-XLRE: long over 42.71 stop 42.55 2R 43.03 (625 sh)
-XLRE: short under 42.24 stop 42.40 2R 41.92 (625 sh)
-TLT: long over 81.75 stop 81.55 2R 82.15 (500 sh)
-TLT: short under 81.45 stop 81.65 2R 81.05 (500 sh)
-VST: long over 147.50 stop 146.00 2R 150.50 (66 sh)
-COIN: short under 157.70 stop 159.20 2R 154.70 (66 sh)
-MSTR: long over 142.05 stop 140.55 2R 145.05 (66 sh)
-MSTR: short under 138.64 stop 140.14 2R 135.64 (66 sh)
-PLTR: long over 201.88 stop 200.38 2R 204.88 (66 sh)
+INTC: short under 92.98 stop 94.24 2R 90.46 (79 sh)
+IGV: long over 112.13 stop 111.42 2R 113.55 (140 sh)
+QCOM: long over 184.15 stop 182.67 2R 187.11 (67 sh)
+NFLX: short under 61.49 stop 62.03 2R 60.41 (185 sh)
+XOM: long over 183.70 stop 182.71 2R 185.68 (101 sh)
+CVX: long over 231.61 stop 230.45 2R 233.93 (86 sh)
+COP: long over 150.49 stop 149.61 2R 152.25 (113 sh)
+OXY: long over 63.70 stop 63.32 2R 64.46 (263 sh)
+PGR: long over 226.68 stop 225.24 2R 229.56 (69 sh)
+XLE: long over 68.95 stop 68.60 2R 69.65 (285 sh)
+XLV: long over 181.33 stop 180.57 2R 182.85 (131 sh)
+WMT: long over 119.33 stop 118.72 2R 120.55 (163 sh)
+GOOGL: short under 322.61 stop 324.11 2R 319.61 (66 sh)
+SPY: long over 773.41 stop 771.91 2R 776.41 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
