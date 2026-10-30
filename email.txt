@@ -2,35 +2,35 @@ Day-trade prep for Fri 10/30 (levels from the Oct 29 close)
 
 IN PLAY ON NEWS
 ABBV: Earnings before the open today
-AMZN: Premarket −7.2% · Reported after the close
-COIN: Premarket −5.1% · Reported after the close · Coinbase reports Q3 revenue decline amid crypto slump
+AMZN: Reported after the close
+COIN: Reported after the close
 CVX: Earnings before the open today
-INTC: Premarket −26.1% · Reported after the close · Downgraded to Neutral at B of A Securities · President Capital Management Downgrades Intel to Neutral From Buy, Cuts Price Target to $100 From $145
-MSTR: Premarket −6.6% · Reported after the close · Strategy Inc (MSTR) (Q3 2026) Earnings Call Highlights: Record $19. ...
-SNDK: Premarket −7.7% · Reported after the close · SNDK Dips Premarket Despite Strong Q1: Analyst Sees Memory Pricing Peak On The Horizon
+INTC: Reported after the close · Downgraded to Neutral at Seaport Global · Upgraded to Outperform at KGI Securities
+MSTR: Reported after the close
+SNDK: Reported after the close
 XOM: Earnings before the open today
-AZN: Premarket +4.1% · Earnings after the close today · AstraZeneca Q3 Adjusted Earnings, Revenue Rise; Reaffirms 2026 Outlook
-BP: Earnings before the open today
-PINS: Premarket −8.5% · Reported after the close · Pinterest CEO Says He’s Not Happy With Its Results — Neither Is The Market
-RBLX: Premarket −17.4% · Reported after the close · Roblox shares slump 17% as user growth and guidance miss expectations
-RDDT: Premarket −22.7% · Reported after the close · KeyBanc Downgrades Reddit to Sector Weight From Overweight
-RIVN: Premarket +7.2% · Reported after the close · Rivian reports upbeat Q3 results, boosts full-year guidance as R2 sales ramp up
-SBUX: Reported after the close
-TWLO: Premarket −17.1% · Reported after the close · Twilio Q3 Adjusted Earnings, Revenue Rise; Q4 Outlook Issued
-PLTR: JP Morgan starts at Overweight
-HONA: Moved −9.6% last session · Downgraded to Market Perform at BMO Capital · What Is Behind The Move In Honeywell Aerospace Stock?
-AMAT: Premarket −4.2% · Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Art…
-AMD: Premarket −8.4% · Is Advanced Micro Devices (AMD) Cheap As Meta Expands Its AI Partnership?
-ARM: Premarket −8.8%
-ASML: Premarket −4.5% · ASML vs. Nvidia: Who Really Captures the AI Chip Boom?
-AVGO: Premarket −3.9% · Stocktwits Wall Street Wrap — Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Dow…
-HOOD: Premarket −5.9% · Compared to Estimates, Robinhood Markets (HOOD) Q3 Earnings: A Look at Key Metrics
-KLAC: Premarket −3.8% · Is KLA (KLAC) Undervalued On Its Earnings Beat And AI Driven Guidance?
-LRCX: Premarket −4.3% · Top Analyst Reports for Lam Research, Lockheed Martin & Equinor
-MRVL: Premarket −5.4% · Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks
-MU: Premarket −5.2% · Learn Why The Bull Case For Micron Stock Could Change Following Memory Shortage Warning
-QCOM: Premarket −4.1% · QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says
-SMCI: Premarket −5.3% · Super Micro Stock Dips as Earnings, Bear Signal Loom
+AN: Moved +6.5% last session · Earnings before the open today · AutoNation Shares Rise 5.6% as Revenue Beats Forecasts Despite Earnings Miss
+AZN: Moved +6.6% last session · Earnings after the close today · AstraZeneca Gaps Up To Three-Month High As CEO Calls Out $20 Billion Potential
+BFAM: Moved −15.5% last session · Reported after the close · Downgraded to Neutral at Baird · KeyBanc Downgrades Bright Horizons Family Solutions to Sector Weight From Overweight
+BTSG: Moved +11.6% last session · Earnings before the open today · BrightSpring Health Services Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Revenue Guidance -- Shares Ris…
+CACC: Moved −17.8% last session · Reported after the close · Credit Acceptance Corp (CACC) (Q3 2026) Earnings Call Highlights: Record Loan Growth and Dealer ...
+CBOE: Moved +6.7% last session · Earnings before the open today · Cboe Global Markets Q3 Adjusted Earnings, Revenue Increased; 2026 Revenue Growth Outlook Increased
+CCJ: Moved −9.2% last session · Earnings before the open today · Cameco: Q3 Earnings Snapshot
+CDNA: Moved +23.1% last session · Reported after the close · CareDx (CDNA) Q3 2026 Earnings Call Transcript
+CPRI: Moved +18.1% last session · Earnings before the open today · Capri Holding Swings to Quarterly Profit
+CVCO: Moved +12.5% last session · Reported after the close · Cavco Industries Fiscal Q2 Earnings, Revenue Rise
+DXCM: Moved +6.1% last session · Reported after the close · Dexcom (DXCM) Q3 2026 Earnings Call Transcript
+EXEL: Moved +7.1% last session · Reported after the close · RBC Raises Price Target on Exelixis to $58 From $51, Keeps Sector Perform Rating
+FDXF: Moved +13.5% last session · Reported after the close · FedEx Shrugged Off Rising Fuel Costs. Then Guidance Rattled the Stock.
+ILMN: Moved −15.8% last session · Reported after the close · Global De Novo Genome Assembly Market 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on AI an…
+MEOH: Moved +12.0% last session · Reported after the close · Methanex (TSX:MX) Adds A Buyback, Is The Stock Still A Bargain?
+RBLX: Moved −18.4% last session · Reported after the close · Roblox shares plunge 16% as weak fourth-quarter outlook overshadows bookings beat
+RDDT: Moved −26.1% last session · Reported after the close · Downgraded to Market Perform at Citizens · Downgraded to Sector Weight at Keybanc · Citizens downgrades Reddit as Google’s AI search shift weighs on traffic
+REGN: Moved +12.2% last session · Earnings before the open today · Regeneron, Sanofi Surge As Dupixent Wallops Sales Forecasts
+RIVN: Moved +5.4% last session · Reported after the close · Upgraded to Buy at Jefferies · Rivian Gains 5% as R2 Ramp Drives Raised Delivery Outlook; Tesla Falls 3%, Lucid Slides 2%, Ford Eases
+TFII: Moved −14.1% last session · Reported after the close · TFI International third-quarter adjusted earnings jump 39% on truckload rebound
+TWLO: Moved −16.7% last session · Reported after the close · Twilio (TWLO) Q3 2026 Earnings Call Transcript
+VLTO: Moved +9.1% last session · Reported after the close · Veralto Q3 Adjusted Earnings, Revenue Rise; Lifts 2026 Outlook
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 INTC: short under 90.82 stop 92.09 2R 88.28 (78 sh)
