@@ -1,51 +1,56 @@
-Day-trade prep for Thu 10/29 (levels from the Oct 28 close)
+Day-trade prep for Fri 10/30 (levels from the Oct 29 close)
 
 IN PLAY ON NEWS
-AMZN: Earnings after the close today
-COIN: Earnings after the close today
-DHI: Earnings before the open today
-GOOGL: Reported after the close
-INTC: Earnings after the close today
-KLAC: Reported after the close
-LLY: Earnings before the open today
-MRK: Earnings before the open today
-MSFT: Reported after the close
-MSTR: Earnings after the close today
-SNDK: Earnings after the close today
-ALGM: Moved −10.0% last session · Earnings before the open today · Allegro MicroSystems Fiscal Q2 Adjusted Earnings, Revenue Rise; Issues Fiscal Q3 Outlook
-ALNY: Moved −17.6% last session · Earnings before the open today · Alnylam Pharmaceuticals Q3 Non-GAAP Net Income, Revenue Rise; Fiscal 2026 Net Product Sales Outlook Kept
-BHC: Moved +21.8% last session · Reported after the close · BHC Q3 Earnings Beat on Salix Growth, Stock Gains 9% as Outlook Rises
-BOOT: Moved +12.0% last session · Reported after the close · UBS Adjusts Boot Barn Price Target to $194 From $232, Maintains Buy Rating
-CART: Earnings before the open today
-CAT: Moved −7.3% last session · Earnings before the open today · Caterpillar Drops 7% as Moderate Sales Outlook Overshadows Beat; Deere Sits Out the Selloff, PACCAR Dips
-CMG: Moved +7.9% last session · Reported after the close · Loop Capital Adjusts Price Target on Chipotle Mexican Grill to $50 From $52
-CROX: Moved +26.2% last session · Earnings before the open today · Crocs' Q3 Adjusted Earnings, Revenue Rise; Lifts 2026 Guidance -- Shares Surge 16% Pre-Bell
-CVNA: Moved +14.2% last session · Reported after the close · Carvana stock jumps on strong Q3 revenue as profits climb
-DASH: Moved +6.5% last session · Earnings before the open today · DASH Stock Rockets After DoorDash Announces $17B Instacart Acquisition, Reports Upbeat Q3
-FORM: Moved −10.3% last session · Reported after the close
-FTAI: Moved +13.8% last session · Earnings before the open today · FTAI Aviation Soars 14% on $500 Million Buyback as CEO Sees “Clear Visibility Into 2027”
-FTNT: Moved −22.9% last session · Reported after the close · Fortinet Tumbles 20% as Service Revenue Forecast Cut Overshadows Beat; Palo Alto Drops 5%, CrowdStrike Fall…
-FTRE: Moved −11.2% last session · Earnings before the open today · Fortrea Shares Drop After Reporting Q3 Results
-GEN: Moved +11.5% last session · Reported after the close · GEN Q2 Earnings Beat Estimates on Financial Wellness Strength
-GKOS: Moved +29.7% last session · Reported after the close · Glaukos Soars 26% on “Exceptional” Quarter and $1 Billion 2027 Sales Outlook
-GOOG: Moved −12.1% last session · Reported after the close · Alphabet Is Having Its Worst Earnings Day Ever. Here’s What It Means for Your ETFs
-HII: Moved +10.9% last session · Earnings before the open today · Huntington Ingalls Soars 11% on Earnings Beat: “Approximately 90 Percent” of Shipbuilding Revenue Secured T…
-HONA: Moved −11.6% last session · Reported after the close · Evercore ISI Adjusts Price Target on Honeywell Aerospace to $195 From $210
+ABBV: Earnings before the open today
+AMZN: Premarket −7.2% · Reported after the close
+COIN: Premarket −5.1% · Reported after the close · Coinbase reports Q3 revenue decline amid crypto slump
+CVX: Earnings before the open today
+INTC: Premarket −26.1% · Reported after the close · Downgraded to Neutral at B of A Securities · President Capital Management Downgrades Intel to Neutral From Buy, Cuts Price Target to $100 From $145
+MSTR: Premarket −6.6% · Reported after the close · Strategy Inc (MSTR) (Q3 2026) Earnings Call Highlights: Record $19. ...
+SNDK: Premarket −7.7% · Reported after the close · SNDK Dips Premarket Despite Strong Q1: Analyst Sees Memory Pricing Peak On The Horizon
+XOM: Earnings before the open today
+AZN: Premarket +4.1% · Earnings after the close today · AstraZeneca Q3 Adjusted Earnings, Revenue Rise; Reaffirms 2026 Outlook
+BP: Earnings before the open today
+PINS: Premarket −8.5% · Reported after the close · Pinterest CEO Says He’s Not Happy With Its Results — Neither Is The Market
+RBLX: Premarket −17.4% · Reported after the close · Roblox shares slump 17% as user growth and guidance miss expectations
+RDDT: Premarket −22.7% · Reported after the close · KeyBanc Downgrades Reddit to Sector Weight From Overweight
+RIVN: Premarket +7.2% · Reported after the close · Rivian reports upbeat Q3 results, boosts full-year guidance as R2 sales ramp up
+SBUX: Reported after the close
+TWLO: Premarket −17.1% · Reported after the close · Twilio Q3 Adjusted Earnings, Revenue Rise; Q4 Outlook Issued
+PLTR: JP Morgan starts at Overweight
+HONA: Moved −9.6% last session · Downgraded to Market Perform at BMO Capital · What Is Behind The Move In Honeywell Aerospace Stock?
+AMAT: Premarket −4.2% · Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Art…
+AMD: Premarket −8.4% · Is Advanced Micro Devices (AMD) Cheap As Meta Expands Its AI Partnership?
+ARM: Premarket −8.8%
+ASML: Premarket −4.5% · ASML vs. Nvidia: Who Really Captures the AI Chip Boom?
+AVGO: Premarket −3.9% · Stocktwits Wall Street Wrap — Tesla, Broadcom, MercadoLibre Get Bullish Calls As Alphabet, Enphase Face Dow…
+HOOD: Premarket −5.9% · Compared to Estimates, Robinhood Markets (HOOD) Q3 Earnings: A Look at Key Metrics
+KLAC: Premarket −3.8% · Is KLA (KLAC) Undervalued On Its Earnings Beat And AI Driven Guidance?
+LRCX: Premarket −4.3% · Top Analyst Reports for Lam Research, Lockheed Martin & Equinor
+MRVL: Premarket −5.4% · Stock Market Today, Oct. 29: Marvell Falls on Lumentum Acquisition Talks
+MU: Premarket −5.2% · Learn Why The Bull Case For Micron Stock Could Change Following Memory Shortage Warning
+QCOM: Premarket −4.1% · QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says
+SMCI: Premarket −5.3% · Super Micro Stock Dips as Earnings, Bear Signal Loom
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-INTC: short under 92.98 stop 94.24 2R 90.46 (79 sh)
-IGV: long over 112.13 stop 111.42 2R 113.55 (140 sh)
-QCOM: long over 184.15 stop 182.67 2R 187.11 (67 sh)
-NFLX: short under 61.49 stop 62.03 2R 60.41 (185 sh)
-XOM: long over 183.70 stop 182.71 2R 185.68 (101 sh)
-CVX: long over 231.61 stop 230.45 2R 233.93 (86 sh)
-COP: long over 150.49 stop 149.61 2R 152.25 (113 sh)
-OXY: long over 63.70 stop 63.32 2R 64.46 (263 sh)
-PGR: long over 226.68 stop 225.24 2R 229.56 (69 sh)
-XLE: long over 68.95 stop 68.60 2R 69.65 (285 sh)
-XLV: long over 181.33 stop 180.57 2R 182.85 (131 sh)
-WMT: long over 119.33 stop 118.72 2R 120.55 (163 sh)
-GOOGL: short under 322.61 stop 324.11 2R 319.61 (66 sh)
-SPY: long over 773.41 stop 771.91 2R 776.41 (66 sh)
+INTC: short under 90.82 stop 92.09 2R 88.28 (78 sh)
+QCOM: long over 185.64 stop 184.14 2R 188.64 (66 sh)
+GDX: short under 80.69 stop 81.41 2R 79.25 (138 sh)
+DHI: long over 146.63 stop 145.46 2R 148.97 (85 sh)
+DHI: short under 140.70 stop 141.87 2R 138.36 (85 sh)
+IGV: long over 109.07 stop 108.31 2R 110.59 (131 sh)
+SLB: long over 54.35 stop 53.95 2R 55.15 (250 sh)
+SLB: short under 53.49 stop 53.89 2R 52.69 (250 sh)
+COP: long over 150.63 stop 149.75 2R 152.39 (113 sh)
+XHB: long over 101.34 stop 100.73 2R 102.56 (163 sh)
+XLV: long over 184.90 stop 184.11 2R 186.48 (126 sh)
+CVX: long over 233.00 stop 231.82 2R 235.36 (84 sh)
+NVDA: long over 215.38 stop 213.89 2R 218.36 (67 sh)
+NVDA: short under 212.03 stop 213.52 2R 209.05 (67 sh)
+XLK: long over 189.39 stop 188.33 2R 191.51 (94 sh)
+XLK: short under 187.64 stop 188.70 2R 185.52 (94 sh)
+WMT: long over 121.77 stop 121.13 2R 123.05 (156 sh)
+HAL: long over 36.21 stop 35.96 2R 36.71 (400 sh)
+HAL: short under 35.55 stop 35.80 2R 35.05 (400 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
