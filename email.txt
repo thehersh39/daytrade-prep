@@ -1,56 +1,52 @@
-Day-trade prep for Fri 10/30 (levels from the Oct 29 close)
+Day-trade prep for Mon 11/2 (levels from the Oct 30 close)
 
 IN PLAY ON NEWS
-ABBV: Earnings before the open today
-AMZN: Reported after the close
-COIN: Reported after the close
-CVX: Earnings before the open today
-INTC: Reported after the close · Downgraded to Neutral at Seaport Global · Upgraded to Outperform at KGI Securities
-MSTR: Reported after the close
-SNDK: Reported after the close
-XOM: Earnings before the open today
-AN: Moved +6.5% last session · Earnings before the open today · AutoNation Shares Rise 5.6% as Revenue Beats Forecasts Despite Earnings Miss
-AZN: Moved +6.6% last session · Earnings after the close today · AstraZeneca Gaps Up To Three-Month High As CEO Calls Out $20 Billion Potential
-BFAM: Moved −15.5% last session · Reported after the close · Downgraded to Neutral at Baird · KeyBanc Downgrades Bright Horizons Family Solutions to Sector Weight From Overweight
-BTSG: Moved +11.6% last session · Earnings before the open today · BrightSpring Health Services Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Revenue Guidance -- Shares Ris…
-CACC: Moved −17.8% last session · Reported after the close · Credit Acceptance Corp (CACC) (Q3 2026) Earnings Call Highlights: Record Loan Growth and Dealer ...
-CBOE: Moved +6.7% last session · Earnings before the open today · Cboe Global Markets Q3 Adjusted Earnings, Revenue Increased; 2026 Revenue Growth Outlook Increased
-CCJ: Moved −9.2% last session · Earnings before the open today · Cameco: Q3 Earnings Snapshot
-CDNA: Moved +23.1% last session · Reported after the close · CareDx (CDNA) Q3 2026 Earnings Call Transcript
-CPRI: Moved +18.1% last session · Earnings before the open today · Capri Holding Swings to Quarterly Profit
-CVCO: Moved +12.5% last session · Reported after the close · Cavco Industries Fiscal Q2 Earnings, Revenue Rise
-DXCM: Moved +6.1% last session · Reported after the close · Dexcom (DXCM) Q3 2026 Earnings Call Transcript
-EXEL: Moved +7.1% last session · Reported after the close · RBC Raises Price Target on Exelixis to $58 From $51, Keeps Sector Perform Rating
-FDXF: Moved +13.5% last session · Reported after the close · FedEx Shrugged Off Rising Fuel Costs. Then Guidance Rattled the Stock.
-ILMN: Moved −15.8% last session · Reported after the close · Global De Novo Genome Assembly Market 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on AI an…
-MEOH: Moved +12.0% last session · Reported after the close · Methanex (TSX:MX) Adds A Buyback, Is The Stock Still A Bargain?
-RBLX: Moved −18.4% last session · Reported after the close · Roblox shares plunge 16% as weak fourth-quarter outlook overshadows bookings beat
-RDDT: Moved −26.1% last session · Reported after the close · Downgraded to Market Perform at Citizens · Downgraded to Sector Weight at Keybanc · Citizens downgrades Reddit as Google’s AI search shift weighs on traffic
-REGN: Moved +12.2% last session · Earnings before the open today · Regeneron, Sanofi Surge As Dupixent Wallops Sales Forecasts
-RIVN: Moved +5.4% last session · Reported after the close · Upgraded to Buy at Jefferies · Rivian Gains 5% as R2 Ramp Drives Raised Delivery Outlook; Tesla Falls 3%, Lucid Slides 2%, Ford Eases
-TFII: Moved −14.1% last session · Reported after the close · TFI International third-quarter adjusted earnings jump 39% on truckload rebound
-TWLO: Moved −16.7% last session · Reported after the close · Twilio (TWLO) Q3 2026 Earnings Call Transcript
-VLTO: Moved +9.1% last session · Reported after the close · Veralto Q3 Adjusted Earnings, Revenue Rise; Lifts 2026 Outlook
+AAPL: Earnings after the close today
+PLTR: Earnings after the close today
+CIFR: Moved −10.0% last session · Earnings before the open today · Has Cipher Digital (CIFR) Fallen Far Enough On Sales?
+EL: Premarket +3.1% · Earnings before the open today · Estee Lauder Signs Cloud, Data Partnership With Microsoft
+TSEM: Moved −11.4% last session · Earnings before the open today · Dear Tower Semiconductor Stock Fans, Mark Your Calendars for November 2
+INTC: Downgraded to Hold at Freedom Broker
+CRWD: Premarket +3.3% · Deutsche Bank Upgrades CrowdStrike to Buy From Hold, $300 Price Target
+AAOI: Moved −12.8% last session · Applied Optoelectronics Plunges 15%, Coherent Tumbles 13% as Hyperscaler Spending Fears Hit AI Optics Stock…
+APP: Premarket +3.5% · AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track
+AUGO: Moved −15.4% last session · Aura Minerals (AUGO) Stock Could Be Undervalued Even After A Huge Run
+BABA: Premarket +3.5% · Apple Made $64.85 Billion in China in 9 Months Without AI. Now Alibaba’s Qwen Is Coming to Siri
+BFAM: Moved −17.9% last session · BFAM Q3 deep dive: Enrollment softness, regulatory headwinds, and margin challenges shape outlook
+BLSH: Moved −16.1% last session
+BTSG: Moved +11.1% last session · BrightSpring Health Services (BTSG) Stock May Look Pricey As Guidance Rises
+CACC: Moved −19.3% last session · Credit Acceptance Stock After A Net Loss And Lower Cash Flow Outlook
+CDLR: Moved +7.8% last session · Cadeler (OB:CADLR) Stock May Be 38% Undervalued On Cash Flow
+CDNA: Moved +22.2% last session · CareDx (CDNA) Stock Still Looks Reasonable Following Its Huge 3 Year Run
+CSGP: Moved +7.2% last session · CSGP Q3 deep dive: Cost controls and product investments shape outlook amid slower bookings
+CVCO: Moved +13.1% last session · Is Cavco Industries (CVCO) Undervalued Following Record Q2 Results?
+FDXF: Moved +14.9% last session · FedEx Freight Holding Company (FDXF) Jumps On Earnings Reset As Valuation Questions Linger
+GDDY: Moved +10.7% last session · What Does GoDaddy (GDDY) Securities Lawsuit Mean For Its Growth Story?
+GPN: Moved +13.0% last session · Zacks Industry Outlook Highlights Visa, Mastercard, PayPal, Global Payments and WEX
+HGV: Moved +7.6% last session · Hilton Grand Vacations (HGV) Turns To Mike Riley For Sales And Marketing Lead
+ILMN: Moved −18.6% last session · Illumina (ILMN) Stock Falls After Q3 Results Lift Guidance
+INTA: Moved +8.0% last session
+MEOH: Moved +14.0% last session · Is Methanex (TSX:MX) Trading Below Fair Value After Its Buyback?
+MHK: Moved +7.2% last session · Mohawk Industries (MHK) Stock Rallies On Q3 Earnings Margin Resilience
+OLN: Moved +9.7% last session · Olin Corp (OLN) (Q3 2026) Earnings Call Highlights: Q4 Guidance Slumps to $80-$100 Million as ...
+PGEN: Premarket −22.2% · PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings
+RBLX: Moved −18.1% last session · Is Roblox (RBLX) Undervalued After Its Q3 Update And Weak Holiday Outlook?
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-INTC: short under 90.82 stop 92.09 2R 88.28 (78 sh)
-QCOM: long over 185.64 stop 184.14 2R 188.64 (66 sh)
-GDX: short under 80.69 stop 81.41 2R 79.25 (138 sh)
-DHI: long over 146.63 stop 145.46 2R 148.97 (85 sh)
-DHI: short under 140.70 stop 141.87 2R 138.36 (85 sh)
-IGV: long over 109.07 stop 108.31 2R 110.59 (131 sh)
-SLB: long over 54.35 stop 53.95 2R 55.15 (250 sh)
-SLB: short under 53.49 stop 53.89 2R 52.69 (250 sh)
-COP: long over 150.63 stop 149.75 2R 152.39 (113 sh)
-XHB: long over 101.34 stop 100.73 2R 102.56 (163 sh)
-XLV: long over 184.90 stop 184.11 2R 186.48 (126 sh)
-CVX: long over 233.00 stop 231.82 2R 235.36 (84 sh)
-NVDA: long over 215.38 stop 213.89 2R 218.36 (67 sh)
-NVDA: short under 212.03 stop 213.52 2R 209.05 (67 sh)
-XLK: long over 189.39 stop 188.33 2R 191.51 (94 sh)
-XLK: short under 187.64 stop 188.70 2R 185.52 (94 sh)
-WMT: long over 121.77 stop 121.13 2R 123.05 (156 sh)
-HAL: long over 36.21 stop 35.96 2R 36.71 (400 sh)
-HAL: short under 35.55 stop 35.80 2R 35.05 (400 sh)
+GLD: short under 354.62 stop 356.09 2R 351.68 (68 sh)
+OXY: long over 64.09 stop 63.71 2R 64.85 (263 sh)
+NFLX: short under 61.62 stop 62.15 2R 60.56 (188 sh)
+COP: long over 154.33 stop 153.44 2R 156.11 (112 sh)
+CVX: long over 236.53 stop 235.35 2R 238.89 (84 sh)
+XLI: short under 166.61 stop 167.30 2R 165.23 (144 sh)
+XLE: long over 70.17 stop 69.81 2R 70.89 (277 sh)
+XLU: long over 43.67 stop 43.51 2R 43.99 (625 sh)
+QCOM: short under 161.67 stop 163.17 2R 158.67 (66 sh)
+VST: long over 139.87 stop 138.37 2R 142.87 (66 sh)
+VST: short under 135.81 stop 137.31 2R 132.81 (66 sh)
+AAPL: long over 349.24 stop 347.74 2R 352.24 (66 sh)
+XOM: long over 188.55 stop 187.52 2R 190.61 (97 sh)
+JPM: short under 335.07 stop 336.57 2R 332.07 (66 sh)
+XLC: short under 99.30 stop 99.77 2R 98.36 (212 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
