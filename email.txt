@@ -1,36 +1,36 @@
 Day-trade prep for Tue 11/3 (levels from the Nov 2 close)
 
 IN PLAY ON NEWS
-AAPL: Premarket −3.6% · Reported after the close · Baird Adjusts Price Target on Apple to $340 From $330
+AAPL: Reported after the close
 AMD: Earnings after the close today
-PLTR: Premarket −7.9% · Reported after the close · Palantir beats Q3 estimates, raises full-year revenue outlook as US commercial sales accelerate
+PLTR: Reported after the close
 SMCI: Earnings after the close today
-ALAB: Moved −11.2% last session · Earnings after the close today · Ahead of Astera Labs Earnings, Here's What Barchart Data Says Comes Next for ALAB Stock
+ADM: Moved −5.0% last session · Earnings before the open today · ADM Raises 2026 Earnings Outlook as Q3 Profit Beats Forecasts Despite Revenue Miss
+AEHR: Moved +25.3% last session · Reported after the close · AEHR Stock Heads For Biggest Single-Day Gain Since July — Analysts Cut Targets Despite Earnings Beat, Raise…
+AEIS: Moved +12.1% last session · Reported after the close · AEIS Q3 Earnings Call Highlights Strong Demand and 2027 Growth
+APO: Moved −5.0% last session · Earnings before the open today · Compared to Estimates, Apollo Global Management (APO) Q3 Earnings: A Look at Key Metrics
+BALL: Moved −6.2% last session · Earnings before the open today · BALL Q3 Earnings Beat on Higher Volumes and Favorable Price/Mix
+BETA: Moved +13.0% last session · Earnings before the open today · BETA Technologies Hits $4B Aircraft Backlog — Raises 2026 Revenue Outlook After Record Q3
 CLX: Reported after the close
-FN: Premarket +9.9% · Reported after the close · Fabrinet (FN) (Q1 2027) Earnings Call Highlights: Record 51% Revenue Growth and $10 Billion ...
-LSCC: Premarket +9.0% · Reported after the close · Should Earnings Beat Require Action From Lattice Semiconductor (LSCC) Investors?
-ON: Reported after the close
+CVI: Moved −13.7% last session · Earnings before the open today · Carl Icahn’s CVR Energy Strikes $4 Billion Deal for Two Marathon Refineries
+DD: Moved +7.7% last session · Earnings before the open today · DD Q3 Earnings Beat on Organic Growth, Raises 2026 Outlook
+DT: Moved −12.7% last session · Earnings before the open today · Dynatrace Earnings Beat. Acquisition Impacts Profit Outlook
+ETN: Moved +7.2% last session · Earnings before the open today · Update: Eaton Shares Rise on Higher Q3 Adjusted Earnings, Net Sales; 2026 Adjusted EPS Outlook Raised
+FISV: Moved +11.1% last session · Earnings before the open today · Fiserv (NASDAQ:FISV) beats expectations in strong Q3 2026, stock jumps 11.4%
+FN: Moved +15.7% last session · Reported after the close · Coherent Soars 6% as Fabrinet’s 51% Revenue Jump Lifts Optics Stocks Ahead of Earnings
+GPK: Moved +18.9% last session · Earnings before the open today · Graphic Packaging Q3 Adjusted Earnings Fall, Revenue Flat; Trims 2026 Guidance
+IT: Moved −13.6% last session · Earnings before the open today · Gartner Beats Q3 Earnings Forecasts as Contract Value Growth Accelerates and Guidance Rises
+LDOS: Earnings before the open today
+LIND: Moved −8.1% last session · Earnings before the open today · Lindblad Expeditions Q3 Income, Revenue Increase; 2026 Revenue Guidance Lifted
+LSCC: Moved +15.3% last session · Reported after the close · LSCC Q3 Earnings Call Highlights AI Demand and Strong 2027 Outlook
+MDGL: Moved +5.8% last session · Earnings before the open today · Madrigal Pharmaceuticals Swings to Q3 Earnings, Revenue Rises
+MTCH: Moved −6.4% last session · Reported after the close · UBS Adjusts Price Target on Match to $43 From $38, Maintains Neutral Rating
+NBIX: Moved +13.1% last session · Reported after the close · Deutsche Bank Raises Price Target on Neurocrine Biosciences to $175 From $165, Keeps Hold Rating
+NVTS: Moved +12.3% last session · Earnings after the close today
+PAY: Moved −8.2% last session · Reported after the close
 PFE: Earnings before the open today
-SHOP: Earnings before the open today
-UPST: Moved −7.4% last session · Earnings before the open today · Why Did Upstart Holdings (UPST) Stock Drop As Attention Builds?
-DHI: Downgraded to Underperform at Raymond James
-MRVL: Downgraded to Neutral at B of A Securities
-AMAT: Premarket +3.1% · Did Earnings Growth Just Shift Applied Materials (AMAT) Investment Narrative?
-KLAC: Premarket +3.5% · KLAC Q3 deep dive: AI and advanced packaging drive growth, supply chain remains in focus
-PGR: Premarket −3.5%
-SNDK: Premarket +3.3% · Micron Falls 4% as Kioxia’s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%
-AIN: Moved +9.7% last session
-ASTS: Moved −11.3% last session · Why AST SpaceMobile Stock Is Down 11.3% And What's Next After Boost Mobile Talks
-AXTI: Moved −12.5% last session
-CBRS: Moved −11.7% last session · Why Cerebras Systems Stock Is Plummeting Today
-CIEN: Moved −11.3% last session
-ENPH: Moved +8.9% last session · Enphase Energy Insider Bought Shares Worth $267,514, According to a Recent SEC Filing
-ESAB: Moved +9.4% last session · ESAB (ESAB) Climbed, What Is Driving Attention Now?
-IDXX: Moved +21.8% last session · IDEXX stock soars 21.9% after earnings beat and higher outlook
-JD: Premarket +3.6% · Why the Market Dipped But JD.com, Inc. (JD) Gained Today
-LBRT: Moved −13.0% last session
-LITE: Moved −18.6% last session · Marvell agrees to acquire Lumentum in $115bn all-stock deal
-LOAR: Moved +9.3% last session · Loar Holdings Soars 9% on Addition to S&P SmallCap 600 Index
+RVTY: Moved +11.8% last session · Earnings before the open today · Revvity Shares Jump Nearly 6% as Q3 Earnings Beat Forecasts and 2026 Guidance Improves
+RYTM: Moved −11.0% last session · Earnings before the open today · Rhythm Pharmaceuticals, Inc. (RYTM) Reports Q3 Loss, Beats Revenue Estimates
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 83.33 stop 84.79 2R 80.41 (68 sh)
