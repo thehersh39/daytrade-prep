@@ -1,52 +1,51 @@
-Day-trade prep for Mon 11/2 (levels from the Oct 30 close)
+Day-trade prep for Tue 11/3 (levels from the Nov 2 close)
 
 IN PLAY ON NEWS
-AAPL: Earnings after the close today
-PLTR: Earnings after the close today
-AXSM: Moved −9.0% last session · Earnings before the open today · Axsome Therapeutics, Inc. Q3 2026 Earnings Call Summary
-IDXX: Moved +20.7% last session · Earnings before the open today · IDEXX Sales Rise 10% as Margin Outlook Slips: Rapid Earnings Reaction
-KRYS: Moved −14.5% last session · Earnings before the open today · Krystal Biotech, Inc. Q3 2026 Earnings Call Summary
-LITE: Moved −14.9% last session · Earnings before the open today · Top Midday Stories: Anthropic Reports Q3 Net Loss of $23.29 Billion; Marvell to Acquire Lumentum for $115 B…
-TEM: Moved +13.9% last session · Earnings before the open today · Tempus AI Soars 10% on Q3 Beat and Raised Guidance as Oncology Sees “Accelerating Unit Growth”
-COIN: Downgraded to Underweight at Morgan Stanley
-CRWD: Upgraded to Buy at Deutsche Bank
-INTC: Downgraded to Hold at Freedom Broker
-ORCL: Moved −6.2% last session · Upgraded to Overweight at Stephens & Co. · Rapidflow Inc, a US-based Oracle Cloud and Technology Partner, Acquires GreenCube to Expand Global Oracle E…
-RIVN: Moved +10.2% last session · Upgraded to Buy at UBS · UBS Upgrades Rivian, Sees 40% Upside After Recent Slide
-AIN: Moved +9.2% last session · How Earnings Beat At Albany International (AIN) Has Changed Its Investment Story
-CAVA: Moved +6.8% last session · Cava and e.l.f. Beauty: Two Consumer Stocks, One Better Buy
-CBRS: Moved −10.2% last session · UBS Cuts Price Target on Cerebras Systems to $250 From $330, Keeps Buy Rating
-CIEN: Moved −8.0% last session · Is Ciena (CIEN) Undervalued Following Strong Q3 Results And Raised Guidance?
-CPRI: Moved +9.3% last session · CPRI Q2 Earnings Beat on Jimmy Choo Growth, FY'27 Outlook Raised
-ECO: Moved −9.0% last session
-ENPH: Moved +10.4% last session · Enphase Energy, Inc. (ENPH) Is a Trending Stock: Facts to Know Before Betting on It
-ESAB: Moved +9.3% last session
-FRO: Moved −8.0% last session
-INTA: Moved +9.2% last session
-LOAR: Moved +11.3% last session
-MUR: Moved −7.5% last session · How Investors May Respond To Murphy Oil Stock After Earnings Estimate Upgrade
-NWL: Moved +13.3% last session · Newell Brands Sinks 11% Despite Raised Sales Outlook as Inflation “Exceeded Our Expectations”
-NXT: Moved +15.1% last session · Here is What to Know Beyond Why Nextpower Inc. (NXT) is a Trending Stock
-P: Moved −7.8% last session · Invesco S&P 500 Equal Weight (RSP) Buys $0.2 Million More Morgan Stanley on Thursday
-PHIN: Moved +10.3% last session · Will Raised 2026 Guidance Change PHINIA Stock Narrative
-PURR: Moved −8.4% last session · Elon Musk Notes 'Interesting' Hyperliquid Deal After Druckenmiller Endorsement
-SFM: Moved +9.2% last session · How Lowered Outlook At Sprouts Farmers Market Stock Has Changed Its Investment Story
+AAPL: Premarket −3.6% · Reported after the close · Baird Adjusts Price Target on Apple to $340 From $330
+AMD: Earnings after the close today
+PLTR: Premarket −7.9% · Reported after the close · Palantir beats Q3 estimates, raises full-year revenue outlook as US commercial sales accelerate
+SMCI: Earnings after the close today
+ALAB: Moved −11.2% last session · Earnings after the close today · Ahead of Astera Labs Earnings, Here's What Barchart Data Says Comes Next for ALAB Stock
+CLX: Reported after the close
+FN: Premarket +9.9% · Reported after the close · Fabrinet (FN) (Q1 2027) Earnings Call Highlights: Record 51% Revenue Growth and $10 Billion ...
+LSCC: Premarket +9.0% · Reported after the close · Should Earnings Beat Require Action From Lattice Semiconductor (LSCC) Investors?
+ON: Reported after the close
+PFE: Earnings before the open today
+SHOP: Earnings before the open today
+UPST: Moved −7.4% last session · Earnings before the open today · Why Did Upstart Holdings (UPST) Stock Drop As Attention Builds?
+DHI: Downgraded to Underperform at Raymond James
+MRVL: Downgraded to Neutral at B of A Securities
+AMAT: Premarket +3.1% · Did Earnings Growth Just Shift Applied Materials (AMAT) Investment Narrative?
+KLAC: Premarket +3.5% · KLAC Q3 deep dive: AI and advanced packaging drive growth, supply chain remains in focus
+PGR: Premarket −3.5%
+SNDK: Premarket +3.3% · Micron Falls 4% as Kioxia’s Cautious Outlook Hits Memory Stocks; Western Digital Drops 5%, SanDisk Slides 3%
+AIN: Moved +9.7% last session
+ASTS: Moved −11.3% last session · Why AST SpaceMobile Stock Is Down 11.3% And What's Next After Boost Mobile Talks
+AXTI: Moved −12.5% last session
+CBRS: Moved −11.7% last session · Why Cerebras Systems Stock Is Plummeting Today
+CIEN: Moved −11.3% last session
+ENPH: Moved +8.9% last session · Enphase Energy Insider Bought Shares Worth $267,514, According to a Recent SEC Filing
+ESAB: Moved +9.4% last session · ESAB (ESAB) Climbed, What Is Driving Attention Now?
+IDXX: Moved +21.8% last session · IDEXX stock soars 21.9% after earnings beat and higher outlook
+JD: Premarket +3.6% · Why the Market Dipped But JD.com, Inc. (JD) Gained Today
+LBRT: Moved −13.0% last session
+LITE: Moved −18.6% last session · Marvell agrees to acquire Lumentum in $115bn all-stock deal
+LOAR: Moved +9.3% last session · Loar Holdings Soars 9% on Addition to S&P SmallCap 600 Index
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-GLD: short under 354.62 stop 356.09 2R 351.68 (68 sh)
-OXY: long over 64.09 stop 63.71 2R 64.85 (263 sh)
-NFLX: short under 61.62 stop 62.15 2R 60.56 (188 sh)
-COP: long over 154.33 stop 153.44 2R 156.11 (112 sh)
-CVX: long over 236.53 stop 235.35 2R 238.89 (84 sh)
-XLI: short under 166.61 stop 167.30 2R 165.23 (144 sh)
-XLE: long over 70.17 stop 69.81 2R 70.89 (277 sh)
-XLU: long over 43.67 stop 43.51 2R 43.99 (625 sh)
-QCOM: short under 161.67 stop 163.17 2R 158.67 (66 sh)
-VST: long over 139.87 stop 138.37 2R 142.87 (66 sh)
-VST: short under 135.81 stop 137.31 2R 132.81 (66 sh)
-AAPL: long over 349.24 stop 347.74 2R 352.24 (66 sh)
-XOM: long over 188.55 stop 187.52 2R 190.61 (97 sh)
-JPM: short under 335.07 stop 336.57 2R 332.07 (66 sh)
-XLC: short under 99.30 stop 99.77 2R 98.36 (212 sh)
+HOOD: short under 83.33 stop 84.79 2R 80.41 (68 sh)
+WMT: long over 127.99 stop 127.30 2R 129.37 (144 sh)
+COP: short under 146.49 stop 147.45 2R 144.57 (104 sh)
+PG: long over 164.41 stop 163.55 2R 166.13 (116 sh)
+NFLX: short under 61.69 stop 62.22 2R 60.63 (188 sh)
+XLE: short under 67.21 stop 67.60 2R 66.43 (256 sh)
+XOM: short under 179.62 stop 180.74 2R 177.38 (89 sh)
+TOL: long over 153.87 stop 152.80 2R 156.01 (93 sh)
+XLP: long over 91.01 stop 90.63 2R 91.77 (263 sh)
+INTC: short under 59.38 stop 60.88 2R 56.38 (66 sh)
+KLAC: short under 152.70 stop 154.20 2R 149.70 (66 sh)
+VST: short under 134.16 stop 135.66 2R 131.16 (66 sh)
+OXY: short under 60.52 stop 60.93 2R 59.70 (243 sh)
+JPM: short under 339.87 stop 341.37 2R 336.87 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
