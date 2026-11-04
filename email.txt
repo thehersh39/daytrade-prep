@@ -1,36 +1,36 @@
 Day-trade prep for Wed 11/4 (levels from the Nov 3 close)
 
 IN PLAY ON NEWS
-AMD: Premarket +6.0% · Reported after the close · US Stock Futures Rise As Democrats Make Midterm Gains — AMD, SMCI, PLTR, SPCX, DJT In Focus
-ARM: Premarket +3.5% · Earnings after the close today · Is Upcoming Earnings Altering The Investment Case For Arm Stock (ARM)?
+AMD: Reported after the close
+ARM: Earnings after the close today
 QCOM: Earnings after the close today
-SMCI: Premarket +8.3% · Reported after the close · Supermicro tops Q1 estimates, offers strong Q2 outlook
-ANET: Premarket +10.9% · Reported after the close · How Investors Are Reacting To Arista Networks (ANET) Earnings Beat
-APP: Moved +7.3% last session · Earnings after the close today · AppLovin Fell 60% Even With Today’s Pop. Tomorrow We Learn if Earnings Fell With It
-CVS: Earnings before the open today
-DOX: Premarket −39.9% · Reported after the close · Downgraded to Perform at Oppenheimer · How T Mobile Loss Will Impact Amdocs Stock
-DUOL: Premarket +14.8% · Reported after the close · Wells Fargo Upgrades Duolingo to Equalweight From Underweight, $120 Price Target
-HUT: Premarket −3.3% · Earnings before the open today · Hut 8 Lost 5% in a Week Before Earnings. B. Riley Still Sees $134
-NVO: Premarket +3.5% · Earnings before the open today · Novo Nordisk Q3 Net Sales Rise; Raises 2026 Sales Guidance
-NVTS: Premarket +9.3% · Reported after the close · Navitas Semiconductor surges on revenue beat and strong outlook
-OUST: Premarket +11.8% · Reported after the close · Ouster rises on revenue beat and solid guidance
-RIOT: Moved +18.4% last session · Earnings before the open today · Why Riot Platforms Stock Is In Focus As $573 Million Loan Deadline Nears
-RUN: Premarket +8.5% · Earnings after the close today · Sunrun Fell 55% While Sales Rose
-SEDG: Premarket +4.2% · Earnings before the open today · Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings
-XYZ: Premarket +8.7% · Reported after the close · Block Inc (XYZ) (Q3 2026) Earnings Call Highlights: Record Margins, Raised Guidance and a ...
-IT: Moved −13.2% last session · Downgraded to Hold at Truist Securities · Gartner Stock In Focus After Earnings Beat And Higher 2026 Outlook
-AMZN: Premarket +3.2%
-DHI: Premarket +3.3%
-TSLA: Premarket −3.9% · A SpaceX-Tesla Merger Seems Inevitable. Here are 3 Things That Could Get in the Way
-AEHR: Premarket +4.0% · Aehr Test Systems (AEHR) (Q1 2027) Earnings Call Highlights: Record Revenue, Raised Guidance ...
-BE: Premarket +6.4% · Bloom Energy (BE) Signed A Carbon Captured Power Deal In California
-BETA: Moved +16.0% last session · Beta Stock Soars as Higher Revenue Outlook Bolsters Electric-Aircraft Hopes
-CIFR: Premarket −5.2% · Cipher Digital (CIFR) Stock Jumps On Q3 Earnings Profit Turn
-CLSK: Premarket −3.7%
-CORZ: Moved +13.9% last session
-CVI: Moved −13.1% last session · CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share
-DT: Moved −14.7% last session · Dynatrace Earnings Beat. Acquisition Impacts Profit Outlook
-ENPH: Premarket +6.8% · Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings
+SMCI: Reported after the close
+ANET: Moved +5.2% last session · Reported after the close · Arista Soars 6% on $18.5 Billion 2027 Outlook After Quarter “Surpassing Even My High Expectations”
+BTU: Moved −19.0% last session · Earnings before the open today · Peabody Energy (BTU) Reports Q3 Loss, Beats Revenue Estimates
+CVS: Moved −12.1% last session · Earnings before the open today · CVS to split into two companies in stunning strategic about-face
+DDOG: Moved −13.8% last session · Earnings before the open today · Datadog Reports 35% Revenue Growth to $1.2 Billion in Q3 2026 and Issues Full-Year Guidance
+DOX: Moved −27.7% last session · Reported after the close · Downgraded to Perform at Oppenheimer · Amdocs Shares Plunge 39.4% as T-Mobile Dispute Triggers Sharp Cut to Fiscal 2027 Outlook
+DUOL: Moved +32.1% last session · Reported after the close · Upgraded to Equal-Weight at Wells Fargo · Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, F…
+ECG: Moved −18.9% last session · Reported after the close · Everus Construction Group Stock Gains Attention After Earnings Beat And Epsilon Deal
+FIS: Moved −23.5% last session · Earnings before the open today · JPMorgan Downgrades Fidelity National Information Services to Neutral From Overweight
+HUT: Moved −21.6% last session · Earnings before the open today · Hut 8 expands buyback authorization to $1 billion alongside AI construction commitments
+KD: Moved +36.4% last session · Earnings before the open today · Kyndryl Q2 Adjusted Earnings Increase, Revenue Decreases; 2026 Revenue Outlook Reaffirmed
+LIVN: Moved +18.6% last session · Earnings before the open today · LivaNova Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Upgraded
+MCD: Moved +5.0% last session · Earnings before the open today · MCD Stock Rises After Q3 Earnings Beat Street Expectations – CEO Cites Improving US Trends
+MDLN: Moved +15.0% last session · Earnings before the open today · Medline (MDLN) Reports Q3 Earnings: What Key Metrics Have to Say
+MOD: Moved −24.4% last session · Reported after the close · Modine (MOD) Misses Q2 Earnings Estimates
+NVO: Moved +6.5% last session · Earnings before the open today · Novo Nordisk (CPSE:NOVO B) Raised Its Outlook, Is The Stock Still Undervalued?
+PCOR: Moved +15.3% last session · Reported after the close · Procore Technologies (PCOR) Could Be 9% Undervalued As Buyback And Earnings Land
+PFGC: Moved +14.6% last session · Earnings before the open today · Performance Food Group (PFGC) Tops Q1 Earnings and Revenue Estimates
+RIOT: Moved +9.4% last session · Earnings before the open today · Riot Platforms, Inc. (RIOT) Beats Q3 Earnings and Revenue Estimates
+SEI: Moved −19.0% last session · Earnings after the close today
+SWK: Moved +14.7% last session · Earnings before the open today · Stanley Black & Decker stock gains on earnings beat, guidance raise
+TREX: Moved +13.8% last session · Earnings before the open today · Trex's Q3 Adjusted Earnings, Net Sales Increase; 2026 Net Sales Outlook Raised
+TRMB: Moved −18.8% last session · Earnings before the open today · Trimble cuts growth outlook as European freight market slows
+UBER: Moved +8.5% last session · Earnings before the open today · Uber Beats Wall Street, but Its Earnings Come With a Catch
+UFPT: Moved +13.7% last session · Reported after the close · UFP Technologies (UFPT) Q3 Earnings and Revenues Surpass Estimates
+UNM: Moved −19.2% last session · Reported after the close · Unum Group (UNM) On Its Q3 Loss And Reinsurance Deal Still Looks Undervalued
+XYZ: Moved +14.2% last session · Reported after the close · Block Offers Solid, Early 2027 Outlook As Cash App Shines
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 83.93 stop 85.25 2R 81.29 (75 sh)
