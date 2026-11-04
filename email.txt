@@ -1,51 +1,52 @@
-Day-trade prep for Tue 11/3 (levels from the Nov 2 close)
+Day-trade prep for Wed 11/4 (levels from the Nov 3 close)
 
 IN PLAY ON NEWS
-AAPL: Reported after the close
-AMD: Earnings after the close today
-PLTR: Reported after the close
-SMCI: Earnings after the close today
-ADM: Moved −5.0% last session · Earnings before the open today · ADM Raises 2026 Earnings Outlook as Q3 Profit Beats Forecasts Despite Revenue Miss
-AEHR: Moved +25.3% last session · Reported after the close · AEHR Stock Heads For Biggest Single-Day Gain Since July — Analysts Cut Targets Despite Earnings Beat, Raise…
-AEIS: Moved +12.1% last session · Reported after the close · AEIS Q3 Earnings Call Highlights Strong Demand and 2027 Growth
-APO: Moved −5.0% last session · Earnings before the open today · Compared to Estimates, Apollo Global Management (APO) Q3 Earnings: A Look at Key Metrics
-BALL: Moved −6.2% last session · Earnings before the open today · BALL Q3 Earnings Beat on Higher Volumes and Favorable Price/Mix
-BETA: Moved +13.0% last session · Earnings before the open today · BETA Technologies Hits $4B Aircraft Backlog — Raises 2026 Revenue Outlook After Record Q3
-CLX: Reported after the close
-CVI: Moved −13.7% last session · Earnings before the open today · Carl Icahn’s CVR Energy Strikes $4 Billion Deal for Two Marathon Refineries
-DD: Moved +7.7% last session · Earnings before the open today · DD Q3 Earnings Beat on Organic Growth, Raises 2026 Outlook
-DT: Moved −12.7% last session · Earnings before the open today · Dynatrace Earnings Beat. Acquisition Impacts Profit Outlook
-ETN: Moved +7.2% last session · Earnings before the open today · Update: Eaton Shares Rise on Higher Q3 Adjusted Earnings, Net Sales; 2026 Adjusted EPS Outlook Raised
-FISV: Moved +11.1% last session · Earnings before the open today · Fiserv (NASDAQ:FISV) beats expectations in strong Q3 2026, stock jumps 11.4%
-FN: Moved +15.7% last session · Reported after the close · Coherent Soars 6% as Fabrinet’s 51% Revenue Jump Lifts Optics Stocks Ahead of Earnings
-GPK: Moved +18.9% last session · Earnings before the open today · Graphic Packaging Q3 Adjusted Earnings Fall, Revenue Flat; Trims 2026 Guidance
-IT: Moved −13.6% last session · Earnings before the open today · Gartner Beats Q3 Earnings Forecasts as Contract Value Growth Accelerates and Guidance Rises
-LDOS: Earnings before the open today
-LIND: Moved −8.1% last session · Earnings before the open today · Lindblad Expeditions Q3 Income, Revenue Increase; 2026 Revenue Guidance Lifted
-LSCC: Moved +15.3% last session · Reported after the close · LSCC Q3 Earnings Call Highlights AI Demand and Strong 2027 Outlook
-MDGL: Moved +5.8% last session · Earnings before the open today · Madrigal Pharmaceuticals Swings to Q3 Earnings, Revenue Rises
-MTCH: Moved −6.4% last session · Reported after the close · UBS Adjusts Price Target on Match to $43 From $38, Maintains Neutral Rating
-NBIX: Moved +13.1% last session · Reported after the close · Deutsche Bank Raises Price Target on Neurocrine Biosciences to $175 From $165, Keeps Hold Rating
-NVTS: Moved +12.3% last session · Earnings after the close today
-PAY: Moved −8.2% last session · Reported after the close
-PFE: Earnings before the open today
-RVTY: Moved +11.8% last session · Earnings before the open today · Revvity Shares Jump Nearly 6% as Q3 Earnings Beat Forecasts and 2026 Guidance Improves
-RYTM: Moved −11.0% last session · Earnings before the open today · Rhythm Pharmaceuticals, Inc. (RYTM) Reports Q3 Loss, Beats Revenue Estimates
+AMD: Premarket +6.0% · Reported after the close · US Stock Futures Rise As Democrats Make Midterm Gains — AMD, SMCI, PLTR, SPCX, DJT In Focus
+ARM: Premarket +3.5% · Earnings after the close today · Is Upcoming Earnings Altering The Investment Case For Arm Stock (ARM)?
+QCOM: Earnings after the close today
+SMCI: Premarket +8.3% · Reported after the close · Supermicro tops Q1 estimates, offers strong Q2 outlook
+ANET: Premarket +10.9% · Reported after the close · How Investors Are Reacting To Arista Networks (ANET) Earnings Beat
+APP: Moved +7.3% last session · Earnings after the close today · AppLovin Fell 60% Even With Today’s Pop. Tomorrow We Learn if Earnings Fell With It
+CVS: Earnings before the open today
+DOX: Premarket −39.9% · Reported after the close · Downgraded to Perform at Oppenheimer · How T Mobile Loss Will Impact Amdocs Stock
+DUOL: Premarket +14.8% · Reported after the close · Wells Fargo Upgrades Duolingo to Equalweight From Underweight, $120 Price Target
+HUT: Premarket −3.3% · Earnings before the open today · Hut 8 Lost 5% in a Week Before Earnings. B. Riley Still Sees $134
+NVO: Premarket +3.5% · Earnings before the open today · Novo Nordisk Q3 Net Sales Rise; Raises 2026 Sales Guidance
+NVTS: Premarket +9.3% · Reported after the close · Navitas Semiconductor surges on revenue beat and strong outlook
+OUST: Premarket +11.8% · Reported after the close · Ouster rises on revenue beat and solid guidance
+RIOT: Moved +18.4% last session · Earnings before the open today · Why Riot Platforms Stock Is In Focus As $573 Million Loan Deadline Nears
+RUN: Premarket +8.5% · Earnings after the close today · Sunrun Fell 55% While Sales Rose
+SEDG: Premarket +4.2% · Earnings before the open today · Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings
+XYZ: Premarket +8.7% · Reported after the close · Block Inc (XYZ) (Q3 2026) Earnings Call Highlights: Record Margins, Raised Guidance and a ...
+IT: Moved −13.2% last session · Downgraded to Hold at Truist Securities · Gartner Stock In Focus After Earnings Beat And Higher 2026 Outlook
+AMZN: Premarket +3.2%
+DHI: Premarket +3.3%
+TSLA: Premarket −3.9% · A SpaceX-Tesla Merger Seems Inevitable. Here are 3 Things That Could Get in the Way
+AEHR: Premarket +4.0% · Aehr Test Systems (AEHR) (Q1 2027) Earnings Call Highlights: Record Revenue, Raised Guidance ...
+BE: Premarket +6.4% · Bloom Energy (BE) Signed A Carbon Captured Power Deal In California
+BETA: Moved +16.0% last session · Beta Stock Soars as Higher Revenue Outlook Bolsters Electric-Aircraft Hopes
+CIFR: Premarket −5.2% · Cipher Digital (CIFR) Stock Jumps On Q3 Earnings Profit Turn
+CLSK: Premarket −3.7%
+CORZ: Moved +13.9% last session
+CVI: Moved −13.1% last session · CVR Energy Prices $500 Million Common Stock Offering at $47.55 a Share
+DT: Moved −14.7% last session · Dynatrace Earnings Beat. Acquisition Impacts Profit Outlook
+ENPH: Premarket +6.8% · Enphase Surges 9%, Sunrun Climbs 7%, SolarEdge Rallies 6% as Solar Rebound Extends Into Earnings
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-HOOD: short under 83.33 stop 84.79 2R 80.41 (68 sh)
-WMT: long over 127.99 stop 127.30 2R 129.37 (144 sh)
-COP: short under 146.49 stop 147.45 2R 144.57 (104 sh)
-PG: long over 164.41 stop 163.55 2R 166.13 (116 sh)
-NFLX: short under 61.69 stop 62.22 2R 60.63 (188 sh)
-XLE: short under 67.21 stop 67.60 2R 66.43 (256 sh)
-XOM: short under 179.62 stop 180.74 2R 177.38 (89 sh)
-TOL: long over 153.87 stop 152.80 2R 156.01 (93 sh)
-XLP: long over 91.01 stop 90.63 2R 91.77 (263 sh)
-INTC: short under 59.38 stop 60.88 2R 56.38 (66 sh)
-KLAC: short under 152.70 stop 154.20 2R 149.70 (66 sh)
-VST: short under 134.16 stop 135.66 2R 131.16 (66 sh)
-OXY: short under 60.52 stop 60.93 2R 59.70 (243 sh)
-JPM: short under 339.87 stop 341.37 2R 336.87 (66 sh)
+HOOD: short under 83.93 stop 85.25 2R 81.29 (75 sh)
+OXY: long over 60.83 stop 60.41 2R 61.67 (238 sh)
+MRK: short under 143.42 stop 144.68 2R 140.90 (79 sh)
+XLK: short under 174.75 stop 175.99 2R 172.27 (80 sh)
+GLD: short under 358.89 stop 360.34 2R 355.99 (68 sh)
+PHM: long over 130.04 stop 128.92 2R 132.28 (89 sh)
+PHM: short under 126.51 stop 127.63 2R 124.27 (89 sh)
+LOW: long over 216.30 stop 214.88 2R 219.14 (70 sh)
+SO: long over 94.36 stop 93.95 2R 95.18 (243 sh)
+XLY: long over 118.44 stop 117.95 2R 119.42 (204 sh)
+WMT: long over 126.90 stop 126.22 2R 128.26 (147 sh)
+CVX: long over 227.61 stop 226.38 2R 230.07 (81 sh)
+TOL: long over 153.05 stop 151.97 2R 155.21 (92 sh)
+NEE: long over 85.03 stop 84.61 2R 85.87 (238 sh)
+XLU: long over 43.75 stop 43.60 2R 44.05 (666 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
