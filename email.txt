@@ -1,52 +1,51 @@
-Day-trade prep for Wed 11/4 (levels from the Nov 3 close)
+Day-trade prep for Thu 11/5 (levels from the Nov 4 close)
 
 IN PLAY ON NEWS
-AMD: Reported after the close
-ARM: Earnings after the close today
-QCOM: Earnings after the close today
-SMCI: Reported after the close
-ANET: Moved +5.2% last session · Reported after the close · Arista Soars 6% on $18.5 Billion 2027 Outlook After Quarter “Surpassing Even My High Expectations”
-BTU: Moved −19.0% last session · Earnings before the open today · Peabody Energy (BTU) Reports Q3 Loss, Beats Revenue Estimates
-CVS: Moved −12.1% last session · Earnings before the open today · CVS to split into two companies in stunning strategic about-face
-DDOG: Moved −13.8% last session · Earnings before the open today · Datadog Reports 35% Revenue Growth to $1.2 Billion in Q3 2026 and Issues Full-Year Guidance
-DOX: Moved −27.7% last session · Reported after the close · Downgraded to Perform at Oppenheimer · Amdocs Shares Plunge 39.4% as T-Mobile Dispute Triggers Sharp Cut to Fiscal 2027 Outlook
-DUOL: Moved +32.1% last session · Reported after the close · Upgraded to Equal-Weight at Wells Fargo · Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Adobe, Apple, Duolingo, Exxon Mobil, Fiserv, F…
-ECG: Moved −18.9% last session · Reported after the close · Everus Construction Group Stock Gains Attention After Earnings Beat And Epsilon Deal
-FIS: Moved −23.5% last session · Earnings before the open today · JPMorgan Downgrades Fidelity National Information Services to Neutral From Overweight
-HUT: Moved −21.6% last session · Earnings before the open today · Hut 8 expands buyback authorization to $1 billion alongside AI construction commitments
-KD: Moved +36.4% last session · Earnings before the open today · Kyndryl Q2 Adjusted Earnings Increase, Revenue Decreases; 2026 Revenue Outlook Reaffirmed
-LIVN: Moved +18.6% last session · Earnings before the open today · LivaNova Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Upgraded
-MCD: Moved +5.0% last session · Earnings before the open today · MCD Stock Rises After Q3 Earnings Beat Street Expectations – CEO Cites Improving US Trends
-MDLN: Moved +15.0% last session · Earnings before the open today · Medline (MDLN) Reports Q3 Earnings: What Key Metrics Have to Say
-MOD: Moved −24.4% last session · Reported after the close · Modine (MOD) Misses Q2 Earnings Estimates
-NVO: Moved +6.5% last session · Earnings before the open today · Novo Nordisk (CPSE:NOVO B) Raised Its Outlook, Is The Stock Still Undervalued?
-PCOR: Moved +15.3% last session · Reported after the close · Procore Technologies (PCOR) Could Be 9% Undervalued As Buyback And Earnings Land
-PFGC: Moved +14.6% last session · Earnings before the open today · Performance Food Group (PFGC) Tops Q1 Earnings and Revenue Estimates
-RIOT: Moved +9.4% last session · Earnings before the open today · Riot Platforms, Inc. (RIOT) Beats Q3 Earnings and Revenue Estimates
-SEI: Moved −19.0% last session · Earnings after the close today
-SWK: Moved +14.7% last session · Earnings before the open today · Stanley Black & Decker stock gains on earnings beat, guidance raise
-TREX: Moved +13.8% last session · Earnings before the open today · Trex's Q3 Adjusted Earnings, Net Sales Increase; 2026 Net Sales Outlook Raised
-TRMB: Moved −18.8% last session · Earnings before the open today · Trimble cuts growth outlook as European freight market slows
-UBER: Moved +8.5% last session · Earnings before the open today · Uber Beats Wall Street, but Its Earnings Come With a Catch
-UFPT: Moved +13.7% last session · Reported after the close · UFP Technologies (UFPT) Q3 Earnings and Revenues Surpass Estimates
-UNM: Moved −19.2% last session · Reported after the close · Unum Group (UNM) On Its Q3 Loss And Reinsurance Deal Still Looks Undervalued
-XYZ: Moved +14.2% last session · Reported after the close · Block Offers Solid, Early 2027 Outlook As Cash App Shines
+ARM: Premarket −3.9% · Reported after the close · Arm Sinks 19% in a Week as Intel’s Warning Hits Chip Stocks. Is It a Buy?
+COP: Earnings before the open today
+DUK: Earnings before the open today
+QCOM: Premarket −10.0% · Reported after the close · Qualcomm tops Q4 estimates, but Q1 earnings outlook falls short
+SO: Earnings before the open today
+ADMA: Premarket +23.1% · Reported after the close · Adma Biologics (ADMA) Q3 Earnings and Revenues Beat Estimates
+APP: Premarket +16.4% · Reported after the close · AppLovin Stock Rockets 23% After Hours as CEO Calls Last Quarter’s Miss ‘Our Own Foot Fault’
+BROS: Premarket −13.7% · Reported after the close · What Dutch Bros (BROS) Said on Its Q3 Earnings Call
+CAVA: Premarket −12.1% · Reported after the close · What CAVA Group (CAVA) Said on Its Q3 Earnings Call
+COHR: Moved −6.0% last session · Reported after the close · Coherent (NYSE:COHR) beats Q3 CY2026 sales expectations, provides optimistic revenue guidance for next quarter
+ELF: Premarket +5.6% · Reported after the close · e.l.f. Beauty (NYSE:ELF) surprises with strong Q3 CY2026 and raises full-year guidance
+FICO: Premarket −8.6% · Reported after the close · RBC Downgrades Fair Isaac to Sector Perform, Price Target is $770
+HUBS: Premarket −9.9% · Reported after the close · HubSpot falls on weak fourth quarter revenue guidance
+JOBY: Premarket +5.1% · Reported after the close · Joby Aviation, Inc. (JOBY) Reports Q3 Loss, Beats Revenue Estimates
+MELI: Premarket −5.4% · Reported after the close · Update: MercadoLibre Shares Drop Pre-Bell Following Q3 Earnings Miss
+SEZL: Premarket +25.2% · Reported after the close · What Sezzle (SEZL) Said on Its Q3 Earnings Call
+SNAP: Premarket −9.0% · Reported after the close · Snap tumbles on revenue, user growth miss; announces metric shift
+SONY: Premarket +4.5% · Earnings before the open today · Sony raises annual profit forecast after strong Q2 results
+TM: Premarket +8.7% · Earnings before the open today · Toyota Motor Splits Regional Management Structure, Names New CEOs; Set-up New Robotics Unit
+XNCR: Moved +14.3% last session · Reported after the close · Xencor (XNCR) Stock Trades At A Premium To Its Sales
+Z: Premarket −12.7% · Reported after the close · Zillow (NASDAQ:ZG) misses Q3 2026 sales expectations, stock drops 15.6%
+FIS: Moved −23.7% last session · Downgraded to Market Perform at William Blair · Is Fidelity National Information Services (FIS) Cheap On Lower Guidance And A CFO Exit?
+MTRN: Moved −17.7% last session · Upgraded to Buy at Seaport Global · Materion Corp (MTRN) Q3 2026 Earnings Call Highlights: Record Sales, Raised Guidance and ...
+BABA: Premarket +5.1% · Alibaba and Tencent Face Stunning Nvidia Chip Shortfall Despite Millions of Orders
+BTU: Moved −17.6% last session · What Peabody Energy (BTU) Said on Its Q3 Earnings Call
+CIFR: Moved −20.0% last session · IREN Fell 4% on Cipher’s Miss, Then Jumped 10%. Here’s What Its November 5 Report Has to Settle
+DOX: Moved −30.1% last session · Amdocs Ltd (DOX) (Q4 2026) Earnings Call Highlights: Solid Fiscal 2026 Results, AT&T aOS ...
+DUOL: Moved +26.0% last session · Wall Street Bets: Navitas, Duolingo And Fiserv Get Upgrades While CleanSpark Faces Texas Headwinds
+ECG: Moved −29.3% last session · Everus Construction Group Inc (ECG) (Q3 2026) Earnings Call Highlights: Record Backlog and ...
+FLYW: Moved +13.9% last session · Flywire Insider Sold Shares Worth $390,501, According to a Recent SEC Filing
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-HOOD: short under 83.93 stop 85.25 2R 81.29 (75 sh)
-OXY: long over 60.83 stop 60.41 2R 61.67 (238 sh)
-MRK: short under 143.42 stop 144.68 2R 140.90 (79 sh)
-XLK: short under 174.75 stop 175.99 2R 172.27 (80 sh)
-GLD: short under 358.89 stop 360.34 2R 355.99 (68 sh)
-PHM: long over 130.04 stop 128.92 2R 132.28 (89 sh)
-PHM: short under 126.51 stop 127.63 2R 124.27 (89 sh)
-LOW: long over 216.30 stop 214.88 2R 219.14 (70 sh)
-SO: long over 94.36 stop 93.95 2R 95.18 (243 sh)
-XLY: long over 118.44 stop 117.95 2R 119.42 (204 sh)
-WMT: long over 126.90 stop 126.22 2R 128.26 (147 sh)
-CVX: long over 227.61 stop 226.38 2R 230.07 (81 sh)
-TOL: long over 153.05 stop 151.97 2R 155.21 (92 sh)
-NEE: long over 85.03 stop 84.61 2R 85.87 (238 sh)
-XLU: long over 43.75 stop 43.60 2R 44.05 (666 sh)
+XLY: long over 122.97 stop 122.42 2R 124.07 (181 sh)
+GDX: long over 85.03 stop 84.21 2R 86.67 (121 sh)
+XLB: long over 53.97 stop 53.77 2R 54.37 (500 sh)
+XLV: long over 190.26 stop 189.46 2R 191.86 (125 sh)
+DHI: long over 157.86 stop 156.40 2R 160.78 (68 sh)
+PG: long over 168.22 stop 167.34 2R 169.98 (113 sh)
+XLP: long over 92.51 stop 92.11 2R 93.31 (250 sh)
+RSP: long over 223.55 stop 222.97 2R 224.71 (172 sh)
+XLF: long over 59.22 stop 59.01 2R 59.64 (476 sh)
+PHM: long over 137.94 stop 136.70 2R 140.42 (80 sh)
+XHB: long over 108.10 stop 107.37 2R 109.56 (136 sh)
+MRK: long over 150.47 stop 149.24 2R 152.93 (81 sh)
+KBH: long over 53.55 stop 53.07 2R 54.51 (208 sh)
+KO: long over 96.58 stop 96.12 2R 97.50 (217 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
