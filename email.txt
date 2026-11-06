@@ -1,36 +1,36 @@
 Day-trade prep for Fri 11/6 (levels from the Nov 5 close)
 
 IN PLAY ON NEWS
-VST: Premarket +3.1% · Earnings before the open today · Ahead of Vistra Earnings, Here's What Barchart Data Says Comes Next for VST Stock
-AAOI: Premarket +5.0% · Reported after the close · Applied Optoelectronics tumbles on weak fourth quarter guidance
-ABNB: Premarket +12.1% · Reported after the close · Airbnb Enters $7.1 Million AI Deal With Lab Founded by CEO Brian Chesky
-AXON: Premarket −10.2% · Reported after the close · Axon Enterprise Q3 Non-GAAP Earnings, Revenue Rise; 2026 Revenue Growth Outlook Lowered
-DKNG: Premarket −20.3% · Reported after the close · DraftKings Plunges on 2027 Forecast That Misses Estimates
-FROG: Premarket +20.6% · Reported after the close · JFrog Q3 Non-GAAP Earnings, Revenue Rise; Guides Q4, 2026 Guidance Raised; Shares Gain After Hours
-IONQ: Premarket +7.8% · Reported after the close · IonQ (IONQ) Stock May Trade Above Fair Value Following Its Elisity Deal
-IREN: Premarket +15.0% · Reported after the close · Update: Iren Fiscal Q1 Swings to Loss, Revenue Falls; Microsoft AI Infrastructure Deliveries Delayed
-NET: Premarket +15.5% · Reported after the close
-TEAM: Premarket −13.5% · Reported after the close · Atlassian (TEAM) Q1 2027 Earnings Call Transcript
-CVX: Upgraded to Hold at Freedom Broker
-AMAT: Premarket +7.7% · Applied Materials Stocks Fall 12% Before a $10.25 Billion Revenue Test
-AMD: Premarket +7.5% · Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.
-ARM: Premarket +6.5% · Arm (ARM) Stock Price Slides After Q2 Results Stoke Valuation Doubts
-ASML: Premarket +5.9% · ASML Stock In Focus As EUV Machine Orders Stretch Into 2030
-AVGO: Premarket +4.9% · Broadcom Stock Has Had Only 2 Losing Years Since 2009. 2026 Is on Pace to Be the 3rd.
-CRWD: Premarket +3.4% · Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners
-INTC: Premarket +5.2% · Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff
-KLAC: Premarket +7.0% · KLA Declares Regular Cash Dividend
-LRCX: Premarket +10.4% · Lam Research Corporation Announces $25 Billion Share Repurchase Authorization and Declares Quarterly Dividend
-MRVL: Premarket +7.5% · Why Marvell Stock Is Falling Today
-MU: Premarket +8.3% · Micron Shares Suffer Brutal 17% Rout as Chip Selloff Deepens
-NVDA: Premarket +4.5% · Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink
-SMCI: Premarket +5.2% · Supermicro Stock In Focus After Earnings Beat And Higher 2027 Sales Outlook
-SNDK: Premarket +9.0% · Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink
-STX: Premarket +5.8% · Seagate Sinks 16% as Lawmaker Urges “A Pause on Advanced AI Development”
-TSM: Premarket +7.0% · Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Diffe…
-WDC: Premarket +5.8% · Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink
-ADMA: Moved +26.0% last session · Q3 Earnings Beat Might Change The Case For ADMA Biologics Stock
-ALAB: Premarket +9.2% · BMO Makes Major Bullish Call on Astera Labs
+VST: Earnings before the open today
+ABNB: Moved +9.5% last session · Reported after the close · Airbnb Soars 11% on Raised Outlook: AI Is “the Best Thing That Ever Happened to Airbnb”
+AXON: Moved −17.2% last session · Reported after the close · Axon Sinks 17% on Revenue Miss, Guidance Cut and $1.2 Billion Skydio Bet on “Millions of Drones”
+BKD: Moved −14.8% last session · Earnings before the open today
+CGON: Moved +13.8% last session · Earnings before the open today · CG Oncology, Inc. (CGON) Reports Q3 Loss, Beats Revenue Estimates
+CHTR: Earnings before the open today
+DIOD: Moved +12.1% last session · Reported after the close · Diodes Q3 Adjusted Earnings, Revenue Rise; Q4 Adjusted EPS, Revenue Guidance Set
+DKNG: Moved −29.0% last session · Reported after the close · DraftKings Plunges 27% on Weak 2027 Forecast and Prediction-Market Spending; Flutter Sinks 8%, Penn Enterta…
+FIVN: Moved −18.9% last session · Reported after the close · Downgraded to In-Line at Evercore ISI Group · Evercore ISI Downgrades Five9 to In Line From Outperform
+FROG: Moved +31.4% last session · Reported after the close · RBC Raises Price Target on JFrog to $121 From $118, Keeps Outperform Rating
+GMED: Moved −11.8% last session · Reported after the close · Downgraded to Market Perform at BMO Capital · Update: BMO Capital Downgrades Globus Medical to Market Perform From Outperform, Cuts Price Target to $78 F…
+HALO: Moved −13.2% last session · Reported after the close · Halozyme Says US FDA Approves Rybrevant Faspro Co-Formulated With Enhanze to Treat Head, Neck Cancer
+HUM: Earnings before the open today
+IONQ: Moved +11.3% last session · Reported after the close · IonQ Soars 10% on Beat and Raised Guidance to “An Industry Record” Above $500 Million
+IREN: Moved +21.8% last session · Reported after the close · IREN Soars 19% as AI Cloud Revenue Nearly Triples, $4 Billion ARR “Fully Contracted and Fully Funded”
+IRTC: Moved −33.0% last session · Reported after the close · iRhythm Holdings to Participate in Upcoming Investor Conferences
+KRMN: Moved +24.2% last session · Reported after the close · Karman Holdings (KRMN) Wins Mars Mission Parachute Design Contract
+LASR: Moved +23.7% last session · Reported after the close
+MCHP: Moved −10.9% last session · Reported after the close
+MRNA: Moved +7.7% last session · Earnings before the open today · Moderna Raises Full-Year Revenue Growth Outlook Following Surprise Third-Quarter Profit
+NET: Moved +12.0% last session · Reported after the close · UBS Adjusts Price Target on Cloudflare to $300 From $350, Keeps Neutral Rating
+NMIH: Moved −12.0% last session · Reported after the close
+NTRA: Moved −14.2% last session · Reported after the close
+OKLO: Moved +17.4% last session · Earnings before the open today · Oklo, US Forged Rings Sign Deal for Aurora Reactor Components
+OUT: Moved −7.9% last session · Reported after the close
+TEAM: Moved −15.7% last session · Reported after the close · Atlassian Sinks 12% as Slower Growth Outlook Overshadows Beat: “Enterprise AI Has Hit an Inflection Point”
+TMDX: Moved +19.8% last session · Reported after the close · TransMedics Stock Gains Attention After Revenue Guidance Raise
+UI: Moved +13.9% last session · Earnings before the open today · Ubiquiti Soars 15% on Record $1 Billion Quarter as Revenue Jumps 40%
+WK: Moved −16.2% last session · Reported after the close
+WULF: Earnings before the open today
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 XLK: short under 162.09 stop 163.45 2R 159.37 (73 sh)
