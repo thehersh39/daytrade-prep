@@ -1,51 +1,52 @@
-Day-trade prep for Thu 11/5 (levels from the Nov 4 close)
+Day-trade prep for Fri 11/6 (levels from the Nov 5 close)
 
 IN PLAY ON NEWS
-ARM: Reported after the close
-COP: Earnings before the open today
-DUK: Earnings before the open today
-QCOM: Reported after the close
-SO: Earnings before the open today
-AAOI: Moved −15.8% last session · Earnings after the close today
-ACHC: Moved +11.6% last session · Reported after the close · Acadia Healthcare (NASDAQ:ACHC) exceeds Q3 2026 expectations, full-year outlook slightly exceeds expectations
-ADMA: Moved +25.4% last session · Reported after the close · Adma Biologics (ADMA) Q3 Earnings and Revenues Beat Estimates
-APP: Moved +29.4% last session · Reported after the close · AppLovin Soars 30% on Record Quarter and Strong Outlook; Magnite Surges 17%, Trade Desk Falls 2%
-ARDT: Moved +17.8% last session · Reported after the close · Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates
-ARQT: Moved −19.3% last session · Reported after the close · Arcutis Biotherapeutics, Inc. (ARQT) Misses Q3 Earnings Estimates
-BROS: Moved −19.3% last session · Reported after the close · Dutch Bros (BROS) Q3 2026 Earnings Call Transcript
-CAI: Moved −18.7% last session · Reported after the close · 14% Below Fair Value? Caris Life Sciences (CAI) On Raised 2026 Guidance
-DAVE: Moved −18.7% last session · Reported after the close · DAVE Q3 Earnings Call Highlights Higher Outlook and Credit Gains
-ECPG: Moved +14.7% last session · Reported after the close · Encore Capital Group Inc (ECPG) Q3 2026 Earnings Call Highlights: Record Collections, 76% EPS ...
-EPAM: Moved +15.9% last session · Earnings before the open today · EPAM Systems Q3 Non-GAAP Earnings, Revenue Rise; Updates 2026 Guidance
-FOUR: Moved −15.6% last session · Earnings before the open today · Shift4 Payments' Q3 Non-GAAP Earnings, Gross Revenue Increase; 2026 Non-GAAP EPS Outlook Trimmed -- Shares …
-FSLY: Moved −23.7% last session · Reported after the close · Fastly (FSLY) Q3 2026 Earnings Call Transcript
-GIL: Moved −24.0% last session · Earnings before the open today · Gildan Activewear (GIL) Misses Q3 Earnings and Revenue Estimates
-MELI: Moved −13.3% last session · Reported after the close · MercadoLibre (MELI) Q3 2026 Earnings Call Transcript
-MGNI: Moved +19.3% last session · Reported after the close · AppLovin Soars 30% on Record Quarter and Strong Outlook; Magnite Surges 17%, Trade Desk Falls 2%
-PBH: Moved −16.6% last session · Earnings before the open today · Prestige Consumer Healthcare (PBH) Beats Q2 Earnings and Revenue Estimates
-PGNY: Moved +13.6% last session · Reported after the close · Progyny Inc (PGNY) (Q3 2026) Earnings Call Highlights: Record Selling Season Adds 1. ...
-RELY: Moved −21.3% last session · Reported after the close · RELY Q3 Earnings Call Highlights Growth and Higher Outlook
-SEZL: Moved +18.1% last session · Reported after the close · Sezzle Stock Gains Attention After Earnings Beat And Higher Full Year Guidance
-TM: Moved +10.3% last session · Earnings before the open today · Toyota stock surges as hybrid sales, weaker yen boost profit forecast
-U: Moved +10.8% last session · Earnings before the open today · Unity Soars 8% as Vector Ad Engine Delivers “First GAAP Profitable Quarter Since Our IPO”
-VCEL: Moved +13.7% last session · Earnings before the open today · Vericel Shares Rise After Higher Q3 Results, Raised 2026 Revenue Outlook
-VERX: Moved +10.2% last session · Reported after the close · Vertex Inc (VERX) Q3 2026 Earnings Call Highlights: Revenue Tops Guidance as Cloud Growth ...
-WRBY: Moved +23.6% last session · Earnings before the open today · Warby Parker Shares Rise After Q3 Earnings Beat
+VST: Premarket +3.1% · Earnings before the open today · Ahead of Vistra Earnings, Here's What Barchart Data Says Comes Next for VST Stock
+AAOI: Premarket +5.0% · Reported after the close · Applied Optoelectronics tumbles on weak fourth quarter guidance
+ABNB: Premarket +12.1% · Reported after the close · Airbnb Enters $7.1 Million AI Deal With Lab Founded by CEO Brian Chesky
+AXON: Premarket −10.2% · Reported after the close · Axon Enterprise Q3 Non-GAAP Earnings, Revenue Rise; 2026 Revenue Growth Outlook Lowered
+DKNG: Premarket −20.3% · Reported after the close · DraftKings Plunges on 2027 Forecast That Misses Estimates
+FROG: Premarket +20.6% · Reported after the close · JFrog Q3 Non-GAAP Earnings, Revenue Rise; Guides Q4, 2026 Guidance Raised; Shares Gain After Hours
+IONQ: Premarket +7.8% · Reported after the close · IonQ (IONQ) Stock May Trade Above Fair Value Following Its Elisity Deal
+IREN: Premarket +15.0% · Reported after the close · Update: Iren Fiscal Q1 Swings to Loss, Revenue Falls; Microsoft AI Infrastructure Deliveries Delayed
+NET: Premarket +15.5% · Reported after the close
+TEAM: Premarket −13.5% · Reported after the close · Atlassian (TEAM) Q1 2027 Earnings Call Transcript
+CVX: Upgraded to Hold at Freedom Broker
+AMAT: Premarket +7.7% · Applied Materials Stocks Fall 12% Before a $10.25 Billion Revenue Test
+AMD: Premarket +7.5% · Palantir and AMD Just Reported Earnings. History Says This Will Happen to Both Stocks Next.
+ARM: Premarket +6.5% · Arm (ARM) Stock Price Slides After Q2 Results Stoke Valuation Doubts
+ASML: Premarket +5.9% · ASML Stock In Focus As EUV Machine Orders Stretch Into 2030
+AVGO: Premarket +4.9% · Broadcom Stock Has Had Only 2 Losing Years Since 2009. 2026 Is on Pace to Be the 3rd.
+CRWD: Premarket +3.4% · Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners
+INTC: Premarket +5.2% · Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff
+KLAC: Premarket +7.0% · KLA Declares Regular Cash Dividend
+LRCX: Premarket +10.4% · Lam Research Corporation Announces $25 Billion Share Repurchase Authorization and Declares Quarterly Dividend
+MRVL: Premarket +7.5% · Why Marvell Stock Is Falling Today
+MU: Premarket +8.3% · Micron Shares Suffer Brutal 17% Rout as Chip Selloff Deepens
+NVDA: Premarket +4.5% · Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink
+SMCI: Premarket +5.2% · Supermicro Stock In Focus After Earnings Beat And Higher 2027 Sales Outlook
+SNDK: Premarket +9.0% · Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink
+STX: Premarket +5.8% · Seagate Sinks 16% as Lawmaker Urges “A Pause on Advanced AI Development”
+TSM: Premarket +7.0% · Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Diffe…
+WDC: Premarket +5.8% · Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink
+ADMA: Moved +26.0% last session · Q3 Earnings Beat Might Change The Case For ADMA Biologics Stock
+ALAB: Premarket +9.2% · BMO Makes Major Bullish Call on Astera Labs
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-XLY: long over 122.97 stop 122.42 2R 124.07 (181 sh)
-GDX: long over 85.03 stop 84.21 2R 86.67 (121 sh)
-XLB: long over 53.97 stop 53.77 2R 54.37 (500 sh)
-XLV: long over 190.26 stop 189.46 2R 191.86 (125 sh)
-DHI: long over 157.86 stop 156.40 2R 160.78 (68 sh)
-PG: long over 168.22 stop 167.34 2R 169.98 (113 sh)
-XLP: long over 92.51 stop 92.11 2R 93.31 (250 sh)
-RSP: long over 223.55 stop 222.97 2R 224.71 (172 sh)
-XLF: long over 59.22 stop 59.01 2R 59.64 (476 sh)
-PHM: long over 137.94 stop 136.70 2R 140.42 (80 sh)
-XHB: long over 108.10 stop 107.37 2R 109.56 (136 sh)
-MRK: long over 150.47 stop 149.24 2R 152.93 (81 sh)
-KBH: long over 53.55 stop 53.07 2R 54.51 (208 sh)
-KO: long over 96.58 stop 96.12 2R 97.50 (217 sh)
+XLK: short under 162.09 stop 163.45 2R 159.37 (73 sh)
+XLI: short under 161.99 stop 162.79 2R 160.39 (125 sh)
+HOOD: short under 75.49 stop 76.81 2R 72.85 (75 sh)
+IWM: short under 270.47 stop 271.62 2R 268.17 (86 sh)
+SLB: short under 49.55 stop 50.00 2R 48.65 (222 sh)
+IGV: short under 98.48 stop 99.24 2R 96.96 (131 sh)
+COP: long over 140.84 stop 139.71 2R 143.10 (88 sh)
+COP: short under 135.29 stop 136.42 2R 133.03 (88 sh)
+XLV: short under 184.77 stop 185.67 2R 182.97 (111 sh)
+RSP: short under 216.19 stop 216.86 2R 214.85 (149 sh)
+XLB: short under 51.87 stop 52.10 2R 51.41 (434 sh)
+XLF: short under 57.40 stop 57.64 2R 56.92 (416 sh)
+KLAC: short under 128.12 stop 129.62 2R 125.12 (66 sh)
+SOXX: short under 130.70 stop 132.20 2R 127.70 (66 sh)
+NVDA: short under 181.41 stop 182.91 2R 178.41 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
