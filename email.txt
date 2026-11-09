@@ -3,34 +3,34 @@ Day-trade prep for Mon 11/9 (levels from the Nov 6 close)
 IN PLAY ON NEWS
 CEG: Earnings before the open today
 OXY: Earnings after the close today
-ASTS: Moved +7.1% last session · Earnings after the close today · ASTS Stock Rebounds Overnight Ahead Of Earnings — CEO Touts Satellite Progress As Blacklift Rocket Reveal N…
-B: Earnings before the open today
-KKR: Premarket +4.2% · Earnings before the open today
-MNDY: Moved −6.3% last session · Earnings before the open today · monday.com (MNDY) Stock May Trade At A Discount To Earnings
-RKLB: Moved +15.4% last session · Earnings after the close today · RKLB Stock Climbs Overnight Ahead Of Earnings — Bulls Bet Neutron Delay Is Priced In Amid Fresh Progress
-TTD: Earnings after the close today
-TTWO: Earnings after the close today · Macquarie starts at Outperform
-ZETA: Premarket +3.4% · Earnings after the close today · ZETA, RBA & ESE: Can These Business Services Stocks Beat Q3 Earnings?
-AMD: Premarket +3.3% · Upgraded to Outperform at Oppenheimer · Oppenheimer Upgrades Advanced Micro Devices to Outperform From Market Perform, Price Target is $600
-DKNG: Moved −21.3% last session · Downgraded to Hold at Stifel · DraftKings Faces Three Analyst Downgrades — JPMorgan Says It’s ‘Increasingly Difficult To Recommend’ The Stock
-HALO: Moved −15.7% last session · Downgraded to Market Perform at Leerink Partners · Halozyme Therapeutics (HALO) Following Record Results And Higher Guidance Is The Stock Still Undervalued
-IREN: Premarket −4.5% · Upgraded to Buy at Jones Trading · Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift?
-ASML: Premarket +3.2% · 14 ETFs Add to ASML (ASML) Holdings on Nov. 5
-MSTR: Premarket −3.5% · Bitcoin Trades $200 Above Strategy’s Average Cost of $75,451. What Happens to MSTR if BTC Closes Below It?
-NVDA: Premarket −5.1% · President Capital Adjusts Price Target on Nvidia to $295 From $330
-AGLT: Moved −14.0% last session · Agility Robotics (AGLT) Stock Keeps Valuation Questions Open Despite Nasdaq Debut
-AXON: Moved −18.2% last session · AXON Q3 2026 deep dive: large drone investment and federal deal delays shape outlook
-BKD: Moved −16.7% last session · Brookdale Senior Living Inc (BKD) Q3 2026 Earnings Call Highlights: Adjusted EBITDA Climbs 12% ...
-BMNR: Premarket −4.6% · 1 Top Cryptocurrency to Buy Before It Soars by 11,000%, According to Bitmine's Tom Lee
-CDLR: Premarket +7.7%
-CIFR: Moved +17.9% last session · Cipher Digital (CIFR) Stock Fair Value Falls As Analysts Trim Targets On Texas Risks
-ECPG: Moved −9.5% last session · Why Encore Capital Group (ECPG) stock is up today
-FIVN: Moved −17.6% last session · FIVN Q3 2026 deep dive: AI growth accelerates, Level AI acquisition signals strategic shift
-FLY: Moved +36.8% last session · Strength Seen in Firefly Aerospace (FLY): Can Its 36.8% Jump Turn into More Strength?
-FROG: Moved +35.3% last session · FROG Q3 2026 deep dive: AI and security demand fuel cloud and enterprise expansion
-GMED: Moved −12.8% last session · Globus Medical Guidance Cut Disappointing, RBC Says
-HUT: Moved +14.6% last session · Hut 8 Stock Has The Bull Case Changed After Texas AI Project Concerns
-INFQ: Moved +19.5% last session · Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday
+ASTS: Moved +13.5% last session · Earnings after the close today · AST SpaceMobile shares jump ahead of Q3 results as dealmaking gathers pace
+CECO: Moved +23.7% last session · Earnings before the open today · CECO Environmental Reports Third Quarter 2026 Results
+CNH: Moved +13.6% last session · Earnings before the open today · CNH Industrial Q3 Adjusted Earnings Rise, Revenue Falls; Raises 2026 Adjusted EPS Outlook
+FRVO: Moved +22.4% last session · Earnings before the open today · Fervo Energy Q3 Earnings Call Highlights
+HIMS: Moved −10.6% last session · Earnings after the close today · Biotech Beats SPY And QQQ In Market Rout — Now Hims Earnings And Summit’s FDA Test Take Center Stage
+IBRX: Moved −16.7% last session · Earnings before the open today · ImmunityBio shares slump 19% as revenue misses and going-concern warning hits sentiment
+IONS: Moved −24.4% last session · Earnings before the open today · Ionis Pharmaceuticals Reports 55% Rise in Q3 Revenue to $243 Million, Cuts TRYNGOLZA Sales Guidance
+KKR: Earnings before the open today
+LIF: Moved −9.9% last session · Earnings after the close today
+MNDY: Moved −6.9% last session · Earnings before the open today · What monday.com (MNDY) Said on Its Q3 Earnings Call
+RKLB: Moved +9.9% last session · Earnings after the close today · SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards
+TTD: Moved +16.6% last session · Earnings after the close today
+AMD: Upgraded to Outperform at Oppenheimer
+COAG: Moved −8.5% last session · LifeSci Capital starts at Outperform · Hemab Initiates Phase 3 Trial of Sutacimig as Potential Prophylactic Treatment in Glanzmann Thrombasthenia
+ARWR: Moved −17.0% last session · Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduc…
+CLMT: Moved −6.4% last session · Calumet Inc (CLMT) Q3 2026 Earnings Call Highlights: Record $347 Million EBITDA, Debt ...
+COHR: Moved +18.1% last session · Coherent Stock Earnings Beat Has The Bull Case Changed?
+MPWR: Moved +14.8% last session · Reed Semiconductor Prevails in Patent Lawsuit Brought by Monolithic Power Systems
+OKLO: Moved +14.0% last session · Oklo Seeing Solid Execution as it Shifts From Design, Wedbush Says
+QXO: Moved +20.5% last session · Why Did QXO Stock Soar Monday?
+SMTC: Moved +13.1% last session · Semtech Announces Third Quarter of Fiscal Year 2027 Conference Call
+SSL: Moved −6.8% last session
+STRL: Moved +14.4% last session · Sterling Infrastructure (STRL) Lifts 2026 Guidance, Is It A Bargain After The Sell Off?
+STUB: Moved −5.5% last session · Stubhub Holdings Inc (STUB) Q3 2026 Earnings Report Preview: What To Look For
+TTMI: Moved +13.8% last session · TTM Technologies (TTMI) Stock May Be Undervalued As Fresh Buybacks Begin
+VIR: Moved +13.6% last session · Vir Stock Soars After Late-Stage Trial Win. Why Biotech Could Be Headed for the FDA
+VSAT: Moved +13.1% last session · Viasat Secures NASA Contract With Potential Value of $460.9 Million
+WIX: Moved −5.3% last session
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 XLK: short under 163.63 stop 165.01 2R 160.87 (72 sh)
