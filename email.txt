@@ -1,54 +1,52 @@
-Day-trade prep for Mon 11/9 (levels from the Nov 6 close)
+Day-trade prep for Tue 11/10 (levels from the Nov 9 close)
 
 IN PLAY ON NEWS
-CEG: Earnings before the open today
-OXY: Earnings after the close today
-ASTS: Moved +13.5% last session · Earnings after the close today · AST SpaceMobile shares jump ahead of Q3 results as dealmaking gathers pace
-CECO: Moved +23.7% last session · Earnings before the open today · CECO Environmental Reports Third Quarter 2026 Results
-CNH: Moved +13.6% last session · Earnings before the open today · CNH Industrial Q3 Adjusted Earnings Rise, Revenue Falls; Raises 2026 Adjusted EPS Outlook
-FRVO: Moved +22.4% last session · Earnings before the open today · Fervo Energy Q3 Earnings Call Highlights
-HIMS: Moved −10.6% last session · Earnings after the close today · Biotech Beats SPY And QQQ In Market Rout — Now Hims Earnings And Summit’s FDA Test Take Center Stage
-IBRX: Moved −16.7% last session · Earnings before the open today · ImmunityBio shares slump 19% as revenue misses and going-concern warning hits sentiment
-IONS: Moved −24.4% last session · Earnings before the open today · Ionis Pharmaceuticals Reports 55% Rise in Q3 Revenue to $243 Million, Cuts TRYNGOLZA Sales Guidance
-KKR: Earnings before the open today
-LIF: Moved −9.9% last session · Earnings after the close today
-MNDY: Moved −6.9% last session · Earnings before the open today · What monday.com (MNDY) Said on Its Q3 Earnings Call
-RKLB: Moved +9.9% last session · Earnings after the close today · SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards
-TTD: Moved +16.6% last session · Earnings after the close today
-AMD: Upgraded to Outperform at Oppenheimer
-COAG: Moved −8.5% last session · LifeSci Capital starts at Outperform · Hemab Initiates Phase 3 Trial of Sutacimig as Potential Prophylactic Treatment in Glanzmann Thrombasthenia
-ARWR: Moved −17.0% last session · Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduc…
-CLMT: Moved −6.4% last session · Calumet Inc (CLMT) Q3 2026 Earnings Call Highlights: Record $347 Million EBITDA, Debt ...
-COHR: Moved +18.1% last session · Coherent Stock Earnings Beat Has The Bull Case Changed?
-MPWR: Moved +14.8% last session · Reed Semiconductor Prevails in Patent Lawsuit Brought by Monolithic Power Systems
-OKLO: Moved +14.0% last session · Oklo Seeing Solid Execution as it Shifts From Design, Wedbush Says
-QXO: Moved +20.5% last session · Why Did QXO Stock Soar Monday?
-SMTC: Moved +13.1% last session · Semtech Announces Third Quarter of Fiscal Year 2027 Conference Call
-SSL: Moved −6.8% last session
-STRL: Moved +14.4% last session · Sterling Infrastructure (STRL) Lifts 2026 Guidance, Is It A Bargain After The Sell Off?
-STUB: Moved −5.5% last session · Stubhub Holdings Inc (STUB) Q3 2026 Earnings Report Preview: What To Look For
-TTMI: Moved +13.8% last session · TTM Technologies (TTMI) Stock May Be Undervalued As Fresh Buybacks Begin
-VIR: Moved +13.6% last session · Vir Stock Soars After Late-Stage Trial Win. Why Biotech Could Be Headed for the FDA
-VSAT: Moved +13.1% last session · Viasat Secures NASA Contract With Potential Value of $460.9 Million
-WIX: Moved −5.3% last session
+OXY: Reported after the close
+AAON: Premarket +20.9% · Reported after the close · Aaon soars on earnings beat and raised outlook
+ASTS: Moved +14.1% last session · Reported after the close · ASTS Stock Retreats On Q3 Sales Miss – But AST SpaceMobile’s $1B Revenue Opportunity, AI Partnerships Keep …
+FLY: Moved +17.1% last session · Earnings after the close today · Why Firefly Stock Soared Today
+HIMS: Moved −11.8% last session · Reported after the close · Hims & Hers Stock Extends Losses After Earnings Stumble
+ONTO: Premarket +6.2% · Reported after the close · Onto Innovation surges on strong Q3 beat and guidance
+QBTS: Moved +7.4% last session · Earnings before the open today · D-Wave and Rigetti Face High Stakes After Quantum Peers Raise the Earnings Bar
+SANM: Premarket +20.0% · Reported after the close · Sanmina soars on earnings beat and strong guidance
+SE: Earnings before the open today
+SKYD: Moved +8.6% last session · Reported after the close · SKYD Stock In Focus: Skydance CEO Ellison Maps Out Streaming Merger As DC Studios Gets New Leadership
+TTD: Moved +15.5% last session · Reported after the close · TTD Stock Rises Overnight After Q3 Beat: Trade Desk CEO Says AI Creates ‘More Data, More Choices And More C…
+TTWO: Premarket +4.3% · Reported after the close · Take-Two Stock Jumps as CEO Calls the Next Grand Theft Auto ‘Uncharted Territory’
+WIX: Moved −8.3% last session · Earnings before the open today · Wix.com Fiscal Q3 Adjusted Earnings Fall, Revenue Rises
+MNDY: Moved −9.1% last session · Downgraded to Hold at Canaccord Genuity · monday.com (MNDY) Q3 2026 Earnings Call Transcript
+ACAD: Moved −22.3% last session · Acadia Pharmaceuticals (ACAD) Cuts 2026 R And D Guidance, Is It Still 46% Undervalued?
+ARWR: Moved −15.3% last session · Is Arrowhead Pharmaceuticals (ARWR) Worth Its Price After UK Approval?
+ASAN: Moved −5.6% last session
+CECO: Moved +19.0% last session
+CLMT: Moved −9.0% last session
+COHR: Premarket −3.6% · Coherent Corp. (COHR) is Surging This Much — Here’s Why
+DBX: Moved −6.0% last session · Dropbox Upsizes and Prices $1.1 Billion Private Convertible Senior Bond Offering
+FPS: Moved +16.0% last session · Forgent Power Solutions (FPS) is Soaring Double Digits — Here’s Why
+FRVO: Moved +26.1% last session · Fervo Energy (FRVO) is Surging This Much. What’s Powering the Rally?
+IBRX: Moved −17.7% last session · ImmunityBio shares slump 19% as revenue misses and going-concern warning hits sentiment
+IMVT: Moved +15.1% last session · Immunovant (IMVT) Q2 2027 Earnings Call Transcript
+IONS: Moved −21.4% last session · Ionis Stock In Focus After Revenue Beat And Reaffirmed 2026 Outlook
+LGN: Moved +15.2% last session
+MPWR: Moved +16.6% last session · Monolithic Power Systems and Photronics shares skyrocket, what you need to know
+NOK: Moved +6.8% last session · Changes in Nokia Corporation's own shares
+PRAX: Moved +19.9% last session · Praxis Precision Medicines (PRAX) Stock Looks Rich Against Its Book Value
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-XLK: short under 163.63 stop 165.01 2R 160.87 (72 sh)
-HOOD: short under 77.93 stop 79.24 2R 75.31 (76 sh)
-GDX: long over 87.65 stop 86.74 2R 89.47 (109 sh)
-GDX: short under 83.99 stop 84.90 2R 82.17 (109 sh)
-KO: long over 96.33 stop 95.84 2R 97.31 (204 sh)
-IGV: long over 99.98 stop 99.23 2R 101.48 (133 sh)
-IGV: short under 98.15 stop 98.90 2R 96.65 (133 sh)
-SO: long over 92.58 stop 92.10 2R 93.54 (208 sh)
-XHB: long over 103.78 stop 102.99 2R 105.36 (126 sh)
-XLC: short under 103.16 stop 103.70 2R 102.08 (185 sh)
-VST: long over 125.85 stop 124.35 2R 128.85 (66 sh)
-SOXX: short under 133.75 stop 135.25 2R 130.75 (66 sh)
-NVDA: short under 185.17 stop 186.67 2R 182.17 (66 sh)
-KLAC: short under 135.61 stop 137.11 2R 132.61 (66 sh)
-PLTR: long over 164.02 stop 162.52 2R 167.02 (66 sh)
-PLTR: short under 157.19 stop 158.69 2R 154.19 (66 sh)
-MSTR: short under 125.54 stop 127.04 2R 122.54 (66 sh)
+MRK: long over 148.85 stop 147.60 2R 151.35 (80 sh)
+KO: long over 96.08 stop 95.59 2R 97.06 (204 sh)
+XOM: long over 165.60 stop 164.34 2R 168.12 (79 sh)
+XOM: short under 162.79 stop 164.05 2R 160.27 (79 sh)
+WMT: long over 126.04 stop 125.24 2R 127.64 (125 sh)
+PG: long over 168.79 stop 167.81 2R 170.75 (102 sh)
+IWM: long over 283.84 stop 282.58 2R 286.36 (79 sh)
+XLY: long over 121.86 stop 121.20 2R 123.18 (151 sh)
+SO: long over 94.10 stop 93.61 2R 95.08 (204 sh)
+RSP: long over 221.95 stop 221.21 2R 223.43 (135 sh)
+AAPL: long over 352.38 stop 350.88 2R 355.38 (66 sh)
+DHI: long over 157.84 stop 156.34 2R 160.84 (66 sh)
+LOW: long over 234.48 stop 232.98 2R 237.48 (66 sh)
+ABBV: long over 294.62 stop 293.12 2R 297.62 (66 sh)
+JNJ: long over 282.78 stop 281.28 2R 285.78 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
