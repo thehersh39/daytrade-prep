@@ -2,35 +2,35 @@ Day-trade prep for Tue 11/10 (levels from the Nov 9 close)
 
 IN PLAY ON NEWS
 OXY: Reported after the close
-AAON: Premarket +20.9% · Reported after the close · Aaon soars on earnings beat and raised outlook
-ASTS: Moved +14.1% last session · Reported after the close · ASTS Stock Retreats On Q3 Sales Miss – But AST SpaceMobile’s $1B Revenue Opportunity, AI Partnerships Keep …
-FLY: Moved +17.1% last session · Earnings after the close today · Why Firefly Stock Soared Today
-HIMS: Moved −11.8% last session · Reported after the close · Hims & Hers Stock Extends Losses After Earnings Stumble
-ONTO: Premarket +6.2% · Reported after the close · Onto Innovation surges on strong Q3 beat and guidance
-QBTS: Moved +7.4% last session · Earnings before the open today · D-Wave and Rigetti Face High Stakes After Quantum Peers Raise the Earnings Bar
-SANM: Premarket +20.0% · Reported after the close · Sanmina soars on earnings beat and strong guidance
+AAON: Moved +21.9% last session · Reported after the close · AAON (AAON) Q3 2026 Earnings Call Transcript
+CRWV: Earnings after the close today
+CSQR: Moved +15.3% last session · Reported after the close · Csquare (CSQR) Q3 2026 Earnings Call Transcript
+EMBJ: Moved +7.8% last session · Earnings before the open today · Embraer Raises 2026 Revenue Guidance to $8.4–$8.6 Billion and Increases Free Cash Flow Outlook
+EQPT: Moved −21.1% last session · Reported after the close
+HIMS: Moved −16.4% last session · Reported after the close · Hims & Hers stock sinks after Q3 results, outlook disappoints
+LEGN: Moved −13.0% last session · Earnings before the open today · Legend Biotech Swings to Q3 Adjusted Net Income, Revenue Increases
+LINE: Moved −12.2% last session · Reported after the close · Lineage sees cold storage inventories stabilize after capacity reductions
+MARA: Moved +10.5% last session · Reported after the close · MARA Holdings Jumps 11% on $500 Million Buyback, Riot Platforms Climbs 2% on Jefferies Upgrade Despite Bitc…
+NOVT: Moved −14.6% last session · Reported after the close · Novanta (NOVT) Q3 Earnings and Revenues Surpass Estimates
+ONON: Moved −7.8% last session · Earnings before the open today · Cantor Fitzgerald starts at Overweight
+QBTS: Moved −8.3% last session · Earnings before the open today · D-Wave Sinks 8% as Q3 Loss Misses and Quarterly Bookings Fall 19% After Quantum Rally
+QLYS: Moved −10.7% last session · Reported after the close · Qualys (QLYS) Raises Guidance, Is The Stock Already Overvalued?
+SANM: Reported after the close
 SE: Earnings before the open today
-SKYD: Moved +8.6% last session · Reported after the close · SKYD Stock In Focus: Skydance CEO Ellison Maps Out Streaming Merger As DC Studios Gets New Leadership
-TTD: Moved +15.5% last session · Reported after the close · TTD Stock Rises Overnight After Q3 Beat: Trade Desk CEO Says AI Creates ‘More Data, More Choices And More C…
-TTWO: Premarket +4.3% · Reported after the close · Take-Two Stock Jumps as CEO Calls the Next Grand Theft Auto ‘Uncharted Territory’
-WIX: Moved −8.3% last session · Earnings before the open today · Wix.com Fiscal Q3 Adjusted Earnings Fall, Revenue Rises
-MNDY: Moved −9.1% last session · Downgraded to Hold at Canaccord Genuity · monday.com (MNDY) Q3 2026 Earnings Call Transcript
-ACAD: Moved −22.3% last session · Acadia Pharmaceuticals (ACAD) Cuts 2026 R And D Guidance, Is It Still 46% Undervalued?
-ARWR: Moved −15.3% last session · Is Arrowhead Pharmaceuticals (ARWR) Worth Its Price After UK Approval?
-ASAN: Moved −5.6% last session
-CECO: Moved +19.0% last session
-CLMT: Moved −9.0% last session
-COHR: Premarket −3.6% · Coherent Corp. (COHR) is Surging This Much — Here’s Why
-DBX: Moved −6.0% last session · Dropbox Upsizes and Prices $1.1 Billion Private Convertible Senior Bond Offering
-FPS: Moved +16.0% last session · Forgent Power Solutions (FPS) is Soaring Double Digits — Here’s Why
-FRVO: Moved +26.1% last session · Fervo Energy (FRVO) is Surging This Much. What’s Powering the Rally?
-IBRX: Moved −17.7% last session · ImmunityBio shares slump 19% as revenue misses and going-concern warning hits sentiment
-IMVT: Moved +15.1% last session · Immunovant (IMVT) Q2 2027 Earnings Call Transcript
-IONS: Moved −21.4% last session · Ionis Stock In Focus After Revenue Beat And Reaffirmed 2026 Outlook
-LGN: Moved +15.2% last session
-MPWR: Moved +16.6% last session · Monolithic Power Systems and Photronics shares skyrocket, what you need to know
-NOK: Moved +6.8% last session · Changes in Nokia Corporation's own shares
-PRAX: Moved +19.9% last session · Praxis Precision Medicines (PRAX) Stock Looks Rich Against Its Book Value
+SKYD: Moved −8.8% last session · Reported after the close · Skydance Plans to Cut $6 Billion in Costs After Swallowing Warner Bros.
+TTWO: Moved +6.3% last session · Reported after the close · Take-Two stock rises on 'unprecedented' preorders for 'Grand Theft Auto VI'
+USAR: Moved −11.0% last session · Reported after the close · USAR Q3 Earnings Call Highlights Rare Earth Expansion Plans
+ZETA: Moved +7.2% last session · Reported after the close · ZETA Q3 Earnings Call Highlights AI Growth and Higher Outlook
+ACAD: Moved +5.5% last session · Acadia Pharmaceuticals (ACAD) Cuts 2026 R And D Guidance, Is It Still 46% Undervalued?
+BEAM: Moved −11.1% last session · Beam Therapeutics Says Risto-Cel Meets Primary Endpoints in Sickle Cell Disease Trial
+CXW: Moved +5.1% last session
+FA: Moved −10.2% last session · First Advantage Prices Secondary Offering of 15 Million Shares; Stock Falls
+GEV: Moved −6.4% last session
+IONS: Moved −8.8% last session · Ionis Stock In Focus After Revenue Beat And Reaffirmed 2026 Outlook
+MBX: Moved +5.4% last session · MBX Biosciences Reports Third Quarter 2026 Financial Results and Corporate Highlights
+NG: Moved −9.2% last session
+PLSE: Moved −9.9% last session
+PPTA: Moved −8.6% last session
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 MRK: long over 148.85 stop 147.60 2R 151.35 (80 sh)
