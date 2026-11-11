@@ -1,52 +1,53 @@
-Day-trade prep for Tue 11/10 (levels from the Nov 9 close)
+Day-trade prep for Wed 11/11 (levels from the Nov 10 close)
 
 IN PLAY ON NEWS
-OXY: Reported after the close
-AAON: Moved +21.9% last session · Reported after the close · AAON (AAON) Q3 2026 Earnings Call Transcript
-CRWV: Earnings after the close today
-CSQR: Moved +15.3% last session · Reported after the close · Csquare (CSQR) Q3 2026 Earnings Call Transcript
-EMBJ: Moved +7.8% last session · Earnings before the open today · Embraer Raises 2026 Revenue Guidance to $8.4–$8.6 Billion and Increases Free Cash Flow Outlook
-EQPT: Moved −21.1% last session · Reported after the close
-HIMS: Moved −16.4% last session · Reported after the close · Hims & Hers stock sinks after Q3 results, outlook disappoints
-LEGN: Moved −13.0% last session · Earnings before the open today · Legend Biotech Swings to Q3 Adjusted Net Income, Revenue Increases
-LINE: Moved −12.2% last session · Reported after the close · Lineage sees cold storage inventories stabilize after capacity reductions
-MARA: Moved +10.5% last session · Reported after the close · MARA Holdings Jumps 11% on $500 Million Buyback, Riot Platforms Climbs 2% on Jefferies Upgrade Despite Bitc…
-NOVT: Moved −14.6% last session · Reported after the close · Novanta (NOVT) Q3 Earnings and Revenues Surpass Estimates
-ONON: Moved −7.8% last session · Earnings before the open today · Cantor Fitzgerald starts at Overweight
-QBTS: Moved −8.3% last session · Earnings before the open today · D-Wave Sinks 8% as Q3 Loss Misses and Quarterly Bookings Fall 19% After Quantum Rally
-QLYS: Moved −10.7% last session · Reported after the close · Qualys (QLYS) Raises Guidance, Is The Stock Already Overvalued?
-SANM: Reported after the close
-SE: Earnings before the open today
-SKYD: Moved −8.8% last session · Reported after the close · Skydance Plans to Cut $6 Billion in Costs After Swallowing Warner Bros.
-TTWO: Moved +6.3% last session · Reported after the close · Take-Two stock rises on 'unprecedented' preorders for 'Grand Theft Auto VI'
-USAR: Moved −11.0% last session · Reported after the close · USAR Q3 Earnings Call Highlights Rare Earth Expansion Plans
-ZETA: Moved +7.2% last session · Reported after the close · ZETA Q3 Earnings Call Highlights AI Growth and Higher Outlook
-ACAD: Moved +5.5% last session · Acadia Pharmaceuticals (ACAD) Cuts 2026 R And D Guidance, Is It Still 46% Undervalued?
-BEAM: Moved −11.1% last session · Beam Therapeutics Says Risto-Cel Meets Primary Endpoints in Sickle Cell Disease Trial
-CXW: Moved +5.1% last session
-FA: Moved −10.2% last session · First Advantage Prices Secondary Offering of 15 Million Shares; Stock Falls
-GEV: Moved −6.4% last session
-IONS: Moved −8.8% last session · Ionis Stock In Focus After Revenue Beat And Reaffirmed 2026 Outlook
-MBX: Moved +5.4% last session · MBX Biosciences Reports Third Quarter 2026 Financial Results and Corporate Highlights
-NG: Moved −9.2% last session
-PLSE: Moved −9.9% last session
-PPTA: Moved −8.6% last session
+CRWV: Premarket +14.1% · Reported after the close · CoreWeave outlook; OpenAI’s revenue reportedly spikes - what’s moving markets
+AMAT: Premarket +5.6% · Applied Materials (AMAT) Stock Gets Fair Value Trim As Margin Caution Offsets AI Demand
+AMD: Premarket +5.7% · AMD, Samsung Electronics Collaborate on Semiconductor Manufacturing Test Technology
+ARM: Premarket +6.6% · Arm Sinks 10% in a Week on Phone Royalties and SoftBank: “Circular Financing Concerns”
+ASML: Premarket +4.0%
+AVGO: Premarket +4.2% · Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom
+INTC: Premarket +6.0% · Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?
+LRCX: Premarket +5.9% · Lam Research's Gross Margin Hits 52.4%: Can it Climb Further?
+MRVL: Premarket +7.8% · Marvell Technology And 2 Other Growth Stocks To Watch
+MU: Premarket +6.7% · ‘When Greed Is Good,’ Says Top Investor About Micron Stock
+NVDA: Premarket +5.5%
+SMCI: Premarket +7.2% · Supermicro Announces Participation in Upcoming Investor Events
+SNDK: Premarket +8.6% · Why Sandisk Stock Dropped Again on Tuesday
+STX: Premarket +8.2% · Kratos And Seagate Just Announced A Partnership – A Look At The Key Highlights
+TSM: Premarket +5.2% · TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise
+VST: Premarket +3.7% · VST Q3 Earnings Beat on Strong Power Pricing, Revenues Rise Y/Y
+WDC: Premarket +7.0% · Zacks.com featured highlights include Arista, Western Digital and Quanta
+AAON: Moved +19.3% last session · AAON (AAON) Raised Its Full Year Outlook After Record Q3
+ACAD: Moved +10.8% last session
+ANET: Premarket +5.0% · Arista Networks Insider Sold Shares Worth $43,928,304, According to a Recent SEC Filing
+ASTS: Premarket +3.3% · $10,000 in AST SpaceMobile Stock at Its Record High Is Worth About $2,770 Today. Here's What Gets That Mone…
+BE: Premarket +8.4% · Bloom Energy (BE) Lands a Major AI Data Center Deal as Revenue Surges
+CHTR: Moved +10.6% last session · Charter Soars 11% on $1.5 Billion Tender Offer for Long-Dated Notes
+COHR: Premarket +8.3% · Microsoft Pushes Trump to Halt a Ban on Chinese Optics. Coherent Is Already “Basically Booked Out”
+CRSP: Moved −9.8% last session
+CSQR: Moved +14.7% last session
+CXW: Moved +5.9% last session
+DELL: Premarket +7.4% · Dell Sinks 12% in a Week on Texas Data Center Fears: “A Moratorium, a Ban”
+DPC: Moved −8.7% last session
+EMBJ: Moved +7.0% last session · Embraer Stocks Rise 5.51% as Record $35.7 Billion Backlog Comes With Higher Guidance
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-MRK: long over 148.85 stop 147.60 2R 151.35 (80 sh)
-KO: long over 96.08 stop 95.59 2R 97.06 (204 sh)
-XOM: long over 165.60 stop 164.34 2R 168.12 (79 sh)
-XOM: short under 162.79 stop 164.05 2R 160.27 (79 sh)
-WMT: long over 126.04 stop 125.24 2R 127.64 (125 sh)
-PG: long over 168.79 stop 167.81 2R 170.75 (102 sh)
-IWM: long over 283.84 stop 282.58 2R 286.36 (79 sh)
-XLY: long over 121.86 stop 121.20 2R 123.18 (151 sh)
-SO: long over 94.10 stop 93.61 2R 95.08 (204 sh)
-RSP: long over 221.95 stop 221.21 2R 223.43 (135 sh)
-AAPL: long over 352.38 stop 350.88 2R 355.38 (66 sh)
-DHI: long over 157.84 stop 156.34 2R 160.84 (66 sh)
-LOW: long over 234.48 stop 232.98 2R 237.48 (66 sh)
-ABBV: long over 294.62 stop 293.12 2R 297.62 (66 sh)
-JNJ: long over 282.78 stop 281.28 2R 285.78 (66 sh)
+GDX: short under 85.94 stop 86.92 2R 83.98 (102 sh)
+XLY: long over 121.28 stop 120.62 2R 122.60 (151 sh)
+XLK: short under 166.28 stop 167.74 2R 163.36 (68 sh)
+MRK: long over 149.24 stop 147.97 2R 151.78 (78 sh)
+WMT: long over 126.35 stop 125.55 2R 127.95 (125 sh)
+PGR: long over 232.00 stop 230.68 2R 234.64 (75 sh)
+XLV: long over 189.25 stop 188.30 2R 191.15 (105 sh)
+IWM: long over 281.38 stop 280.08 2R 283.98 (76 sh)
+IWM: short under 277.86 stop 279.16 2R 275.26 (76 sh)
+XLI: long over 169.09 stop 168.21 2R 170.85 (113 sh)
+XLI: short under 166.63 stop 167.51 2R 164.87 (113 sh)
+XLB: long over 52.91 stop 52.65 2R 53.43 (384 sh)
+RSP: long over 221.21 stop 220.45 2R 222.73 (131 sh)
+NVDA: short under 165.84 stop 167.34 2R 162.84 (66 sh)
+COIN: short under 129.36 stop 130.86 2R 126.36 (66 sh)
+VST: short under 129.25 stop 130.75 2R 126.25 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
