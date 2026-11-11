@@ -1,36 +1,36 @@
 Day-trade prep for Wed 11/11 (levels from the Nov 10 close)
 
 IN PLAY ON NEWS
-CRWV: Premarket +14.1% · Reported after the close · CoreWeave outlook; OpenAI’s revenue reportedly spikes - what’s moving markets
-AMAT: Premarket +5.6% · Applied Materials (AMAT) Stock Gets Fair Value Trim As Margin Caution Offsets AI Demand
-AMD: Premarket +5.7% · AMD, Samsung Electronics Collaborate on Semiconductor Manufacturing Test Technology
-ARM: Premarket +6.6% · Arm Sinks 10% in a Week on Phone Royalties and SoftBank: “Circular Financing Concerns”
-ASML: Premarket +4.0%
-AVGO: Premarket +4.2% · Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom
-INTC: Premarket +6.0% · Intel Corporation (INTC) Is Showing Signs of a Turnaround: Could the Agentic AI Era Change Its Future?
-LRCX: Premarket +5.9% · Lam Research's Gross Margin Hits 52.4%: Can it Climb Further?
-MRVL: Premarket +7.8% · Marvell Technology And 2 Other Growth Stocks To Watch
-MU: Premarket +6.7% · ‘When Greed Is Good,’ Says Top Investor About Micron Stock
-NVDA: Premarket +5.5%
-SMCI: Premarket +7.2% · Supermicro Announces Participation in Upcoming Investor Events
-SNDK: Premarket +8.6% · Why Sandisk Stock Dropped Again on Tuesday
-STX: Premarket +8.2% · Kratos And Seagate Just Announced A Partnership – A Look At The Key Highlights
-TSM: Premarket +5.2% · TSM Stock Jumps Premarket After Board Approves $1B Investment In Anthropic And OpenAI, Dividend Raise
-VST: Premarket +3.7% · VST Q3 Earnings Beat on Strong Power Pricing, Revenues Rise Y/Y
-WDC: Premarket +7.0% · Zacks.com featured highlights include Arista, Western Digital and Quanta
-AAON: Moved +19.3% last session · AAON (AAON) Raised Its Full Year Outlook After Record Q3
-ACAD: Moved +10.8% last session
-ANET: Premarket +5.0% · Arista Networks Insider Sold Shares Worth $43,928,304, According to a Recent SEC Filing
-ASTS: Premarket +3.3% · $10,000 in AST SpaceMobile Stock at Its Record High Is Worth About $2,770 Today. Here's What Gets That Mone…
-BE: Premarket +8.4% · Bloom Energy (BE) Lands a Major AI Data Center Deal as Revenue Surges
-CHTR: Moved +10.6% last session · Charter Soars 11% on $1.5 Billion Tender Offer for Long-Dated Notes
-COHR: Premarket +8.3% · Microsoft Pushes Trump to Halt a Ban on Chinese Optics. Coherent Is Already “Basically Booked Out”
-CRSP: Moved −9.8% last session
-CSQR: Moved +14.7% last session
-CXW: Moved +5.9% last session
-DELL: Premarket +7.4% · Dell Sinks 12% in a Week on Texas Data Center Fears: “A Moratorium, a Ban”
-DPC: Moved −8.7% last session
-EMBJ: Moved +7.0% last session · Embraer Stocks Rise 5.51% as Record $35.7 Billion Backlog Comes With Higher Guidance
+ATRO: Reported after the close
+AZTA: Moved +18.4% last session · Reported after the close · Azenta Fiscal Q4 Adjusted Earnings, Revenue Rise; 2027 Guidance Set
+BGSI: Moved −13.0% last session · Earnings before the open today · Boyd Group Services Q3 Adjusted Earnings Drop YoY
+CRWV: Moved +23.5% last session · Reported after the close · CoreWeave is Soaring After Beating Estimates and Raising Its Guidance. Tech Stocks Are Climbing Too.
+RGTI: Moved −5.2% last session · Reported after the close
+RUM: Moved +15.8% last session · Earnings before the open today · Rumble Rises 6% After Third-Quarter Revenue Beat; Trump Media Jumps 9%, Meta Stays Flat
+AAPL: Upgraded to Buy at China Renaissance
+NVDA: Downgraded to Neutral at Baird
+FORM: Moved +13.1% last session · Jefferies starts at Buy
+AAOI: Moved +16.9% last session · Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Cli…
+AEHR: Moved +13.4% last session
+ANET: Moved +7.0% last session · Arista Networks Insider Sold Shares Worth $43,928,304, According to a Recent SEC Filing
+APLD: Moved +10.0% last session · CoreWeave Has “a Sentiment Problem.” Its Landlord Applied Digital Has $11 Billion Riding on It
+AXTI: Moved +23.8% last session · AXT (AXTI) Stock Seems Reasonably Valued As Record Revenue Reshapes Earnings
+BE: Moved +17.4% last session · CoreWeave Boosts AI Trade. Bloom Energy, Other Power Stocks Are Big Winners.
+CECO: Moved +14.0% last session
+COGT: Moved −5.5% last session
+COHR: Moved +14.4% last session · Microsoft Pushes Trump to Halt a Ban on Chinese Optics. Coherent Is Already “Basically Booked Out”
+DELL: Moved +12.8% last session · Dell Technologies to Support University of Alabama High Performance Computing Center
+GLXY: Moved +14.9% last session
+IREN: Moved +8.7% last session
+LEGN: Moved −6.6% last session · RBC Cuts Price Target on Legend Biotech to $50 From $56, Keeps Outperform Rating
+LITE: Moved +15.8% last session · Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Cli…
+MIR: Moved −6.0% last session
+MXL: Moved +14.9% last session
+NBIS: Moved +17.4% last session
+ORCL: Moved +8.7% last session · Bernstein’s $325 Target Says Oracle’s Selloff Went Too Far
+SEPN: Moved −9.9% last session
+SKHY: Moved +11.1% last session
+SMMT: Moved −5.6% last session
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 GDX: short under 85.94 stop 86.92 2R 83.98 (102 sh)
