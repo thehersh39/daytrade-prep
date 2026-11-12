@@ -1,12 +1,12 @@
 {
- "pulled_utc": "2026-11-11T16:00:31.997324Z",
- "session": "20261111",
- "asof": "20261110",
- "flagged": 37,
+ "pulled_utc": "2026-11-12T10:58:43.420818Z",
+ "session": "20261112",
+ "asof": "20261111",
+ "flagged": 41,
  "charts": 14,
- "premarket": 0,
- "news": 47,
+ "premarket": 33,
+ "news": 52,
  "missing": [
-  "SMCI"
+  "PHM"
  ]
 }

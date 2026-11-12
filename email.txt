@@ -1,53 +1,54 @@
-Day-trade prep for Wed 11/11 (levels from the Nov 10 close)
+Day-trade prep for Thu 11/12 (levels from the Nov 11 close)
 
 IN PLAY ON NEWS
-ATRO: Reported after the close
-AZTA: Moved +18.4% last session · Reported after the close · Azenta Fiscal Q4 Adjusted Earnings, Revenue Rise; 2027 Guidance Set
-BGSI: Moved −13.0% last session · Earnings before the open today · Boyd Group Services Q3 Adjusted Earnings Drop YoY
-CRWV: Moved +23.5% last session · Reported after the close · CoreWeave is Soaring After Beating Estimates and Raising Its Guidance. Tech Stocks Are Climbing Too.
-RGTI: Moved −5.2% last session · Reported after the close
-RUM: Moved +15.8% last session · Earnings before the open today · Rumble Rises 6% After Third-Quarter Revenue Beat; Trump Media Jumps 9%, Meta Stays Flat
-AAPL: Upgraded to Buy at China Renaissance
-NVDA: Downgraded to Neutral at Baird
-FORM: Moved +13.1% last session · Jefferies starts at Buy
-AAOI: Moved +16.9% last session · Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Cli…
-AEHR: Moved +13.4% last session
-ANET: Moved +7.0% last session · Arista Networks Insider Sold Shares Worth $43,928,304, According to a Recent SEC Filing
-APLD: Moved +10.0% last session · CoreWeave Has “a Sentiment Problem.” Its Landlord Applied Digital Has $11 Billion Riding on It
-AXTI: Moved +23.8% last session · AXT (AXTI) Stock Seems Reasonably Valued As Record Revenue Reshapes Earnings
-BE: Moved +17.4% last session · CoreWeave Boosts AI Trade. Bloom Energy, Other Power Stocks Are Big Winners.
-CECO: Moved +14.0% last session
-COGT: Moved −5.5% last session
-COHR: Moved +14.4% last session · Microsoft Pushes Trump to Halt a Ban on Chinese Optics. Coherent Is Already “Basically Booked Out”
-DELL: Moved +12.8% last session · Dell Technologies to Support University of Alabama High Performance Computing Center
-GLXY: Moved +14.9% last session
-IREN: Moved +8.7% last session
-LEGN: Moved −6.6% last session · RBC Cuts Price Target on Legend Biotech to $50 From $56, Keeps Outperform Rating
-LITE: Moved +15.8% last session · Applied Optoelectronics Surges 12%, Lumentum Jumps 11% as CoreWeave’s Results Revive AI Trade; Coherent Cli…
-MIR: Moved −6.0% last session
-MXL: Moved +14.9% last session
-NBIS: Moved +17.4% last session
-ORCL: Moved +8.7% last session · Bernstein’s $325 Target Says Oracle’s Selloff Went Too Far
-SEPN: Moved −9.9% last session
-SKHY: Moved +11.1% last session
-SMMT: Moved −5.6% last session
+AMAT: Earnings after the close today
+CSCO: Earnings after the close today
+CTVA: Premarket −8.2% · Reported after the close · Corteva Reports Third-Quarter 2026 Results; Updates FY 2026 Outlook
+ECO: Premarket −3.3% · Reported after the close · Okeanis Eco Tankers Q3 Earnings, Revenue Rise; Quarterly Dividend Raised
+FPS: Premarket +3.8% · Earnings before the open today · FPS Declines 42% in a Month: Time to Buy the Stock Now?
+LGN: Moved +15.7% last session · Earnings before the open today
+NBIS: Moved +15.4% last session · Earnings before the open today · NVDA Turmoil Weighs On Nasdaq Futures — INTC, BABA, NBIS, ONDS In Focus
+NU: Earnings after the close today
+TTEK: Premarket +9.0% · Reported after the close · Update: Tetra Tech Jump Pre-Bell as Fiscal Q4 Adjusted Earnings Beat, Net Sales in Line; Fiscal 2027 Guidan…
+TWST: Moved −7.2% last session · Earnings before the open today · Twist Bioscience Stock Has The Bull Case Changed After MRD Panel Launch?
+NVDA: Premarket −6.3% · Downgraded to Perform at Oppenheimer · Nvidia Outlook Damps Asian Stock Markets
+AMD: Premarket +3.6% · William Blair Upgrades Advanced Micro Devices to Outperform From Market Perform
+MSTR: Premarket −4.8% · Bitcoin Price Slides Toward $73K as Nvidia Plunges 9% and MSCI Drops Saylor’s Strategy
+MU: Premarket −3.5% · Great News for Nvidia, Micron, Broadcom, and AMD Stock Investors -- Wall Street Made a Mistake
+SMCI: Premarket −5.3% · Super Micro Computer (SMCI) Unveils H15 Servers As Export Scrutiny Draws Focus
+SNDK: Premarket −3.9% · Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang’s Ousting Outweigh CoreWeave’s Strong Outlook —…
+AAOI: Premarket −4.9% · Applied Optoelectronics (AAOI) Stock Could Still Be Undervalued On Its Huge Five Year Run
+AXGN: Moved +15.2% last session · Axogen (AXGN) Stock Could Be 22% Overvalued On Cash Flow Expectations
+AXTI: Premarket −4.7% · What Propelled AXT Inc.’s (AXTI) 19.5% Rally?
+AZTA: Moved +20.8% last session · Azenta (AZTA) Following Earnings And Deals Has Its Valuation Story Changed
+BABA: Premarket −4.2% · Nvidia’s Megaspeed Probe Leads to Alibaba, Whose Singapore Unit Made $4.1 Billion in Prepayments
+BE: Moved +13.0% last session · BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI’s Power Crunch – But Retail Traders …
+BGSI: Moved −12.8% last session · Boyd Group Services Inc. (BGSI) Misses Q3 Earnings and Revenue Estimates
+COGT: Moved −7.1% last session
+CRWV: Premarket −6.2% · CoreWeave rolls out in-cluster PostgreSQL for AI teams
+EGO: Moved −5.7% last session
+EQPT: Moved +18.1% last session
+FRVO: Moved +13.7% last session
+GLOB: Moved −5.1% last session · Globant Shares Fall After Guggenheim Downgrade
+GLXY: Premarket −3.4% · Morgan Stanley cuts Galaxy stock target after Democrat wins Texas
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-GDX: short under 85.94 stop 86.92 2R 83.98 (102 sh)
-XLY: long over 121.28 stop 120.62 2R 122.60 (151 sh)
-XLK: short under 166.28 stop 167.74 2R 163.36 (68 sh)
-MRK: long over 149.24 stop 147.97 2R 151.78 (78 sh)
-WMT: long over 126.35 stop 125.55 2R 127.95 (125 sh)
-PGR: long over 232.00 stop 230.68 2R 234.64 (75 sh)
-XLV: long over 189.25 stop 188.30 2R 191.15 (105 sh)
-IWM: long over 281.38 stop 280.08 2R 283.98 (76 sh)
-IWM: short under 277.86 stop 279.16 2R 275.26 (76 sh)
-XLI: long over 169.09 stop 168.21 2R 170.85 (113 sh)
-XLI: short under 166.63 stop 167.51 2R 164.87 (113 sh)
-XLB: long over 52.91 stop 52.65 2R 53.43 (384 sh)
-RSP: long over 221.21 stop 220.45 2R 222.73 (131 sh)
-NVDA: short under 165.84 stop 167.34 2R 162.84 (66 sh)
-COIN: short under 129.36 stop 130.86 2R 126.36 (66 sh)
-VST: short under 129.25 stop 130.75 2R 126.25 (66 sh)
+LEN: long over 86.43 stop 85.49 2R 88.31 (106 sh)
+SO: long over 93.86 stop 93.40 2R 94.78 (217 sh)
+XOM: long over 166.80 stop 165.57 2R 169.26 (81 sh)
+XOM: short under 164.41 stop 165.64 2R 161.95 (81 sh)
+COP: long over 137.99 stop 136.85 2R 140.27 (87 sh)
+COP: short under 135.38 stop 136.52 2R 133.10 (87 sh)
+TOL: long over 151.45 stop 150.11 2R 154.13 (74 sh)
+KBH: long over 50.25 stop 49.73 2R 51.29 (192 sh)
+PEP: long over 144.07 stop 143.19 2R 145.83 (113 sh)
+MRK: long over 147.67 stop 146.53 2R 149.95 (87 sh)
+XHB: long over 103.28 stop 102.48 2R 104.88 (125 sh)
+IGV: short under 101.44 stop 102.23 2R 99.86 (126 sh)
+CVX: long over 213.49 stop 212.13 2R 216.21 (73 sh)
+CVX: short under 210.83 stop 212.19 2R 208.11 (73 sh)
+XLY: long over 121.52 stop 120.87 2R 122.82 (153 sh)
+NEE: long over 86.25 stop 85.82 2R 87.11 (232 sh)
+XLV: long over 189.33 stop 188.40 2R 191.19 (107 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
