@@ -2,35 +2,35 @@ Day-trade prep for Thu 11/12 (levels from the Nov 11 close)
 
 IN PLAY ON NEWS
 AMAT: Earnings after the close today
-CSCO: Earnings after the close today
-CTVA: Premarket −8.2% · Reported after the close · Corteva Reports Third-Quarter 2026 Results; Updates FY 2026 Outlook
-ECO: Premarket −3.3% · Reported after the close · Okeanis Eco Tankers Q3 Earnings, Revenue Rise; Quarterly Dividend Raised
-FPS: Premarket +3.8% · Earnings before the open today · FPS Declines 42% in a Month: Time to Buy the Stock Now?
-LGN: Moved +15.7% last session · Earnings before the open today
-NBIS: Moved +15.4% last session · Earnings before the open today · NVDA Turmoil Weighs On Nasdaq Futures — INTC, BABA, NBIS, ONDS In Focus
-NU: Earnings after the close today
-TTEK: Premarket +9.0% · Reported after the close · Update: Tetra Tech Jump Pre-Bell as Fiscal Q4 Adjusted Earnings Beat, Net Sales in Line; Fiscal 2027 Guidan…
-TWST: Moved −7.2% last session · Earnings before the open today · Twist Bioscience Stock Has The Bull Case Changed After MRD Panel Launch?
-NVDA: Premarket −6.3% · Downgraded to Perform at Oppenheimer · Nvidia Outlook Damps Asian Stock Markets
-AMD: Premarket +3.6% · William Blair Upgrades Advanced Micro Devices to Outperform From Market Perform
-MSTR: Premarket −4.8% · Bitcoin Price Slides Toward $73K as Nvidia Plunges 9% and MSCI Drops Saylor’s Strategy
-MU: Premarket −3.5% · Great News for Nvidia, Micron, Broadcom, and AMD Stock Investors -- Wall Street Made a Mistake
-SMCI: Premarket −5.3% · Super Micro Computer (SMCI) Unveils H15 Servers As Export Scrutiny Draws Focus
-SNDK: Premarket −3.9% · Nasdaq 100 Futures Drop As Reports Relating To Jensen Huang’s Ousting Outweigh CoreWeave’s Strong Outlook —…
-AAOI: Premarket −4.9% · Applied Optoelectronics (AAOI) Stock Could Still Be Undervalued On Its Huge Five Year Run
-AXGN: Moved +15.2% last session · Axogen (AXGN) Stock Could Be 22% Overvalued On Cash Flow Expectations
-AXTI: Premarket −4.7% · What Propelled AXT Inc.’s (AXTI) 19.5% Rally?
-AZTA: Moved +20.8% last session · Azenta (AZTA) Following Earnings And Deals Has Its Valuation Story Changed
-BABA: Premarket −4.2% · Nvidia’s Megaspeed Probe Leads to Alibaba, Whose Singapore Unit Made $4.1 Billion in Prepayments
-BE: Moved +13.0% last session · BE Stock Clocked Best Single-Day Gain Since July As CoreWeave Flags AI’s Power Crunch – But Retail Traders …
-BGSI: Moved −12.8% last session · Boyd Group Services Inc. (BGSI) Misses Q3 Earnings and Revenue Estimates
-COGT: Moved −7.1% last session
-CRWV: Premarket −6.2% · CoreWeave rolls out in-cluster PostgreSQL for AI teams
-EGO: Moved −5.7% last session
-EQPT: Moved +18.1% last session
-FRVO: Moved +13.7% last session
-GLOB: Moved −5.1% last session · Globant Shares Fall After Guggenheim Downgrade
-GLXY: Premarket −3.4% · Morgan Stanley cuts Galaxy stock target after Democrat wins Texas
+BLTE: Moved +7.4% last session · Earnings before the open today · Belite Bio's Q3 Adjusted Loss Widens
+CLBT: Moved −8.0% last session · Earnings before the open today · Cellebrite DI Q3 Non-GAAP Earnings, Revenue Rise; 2026 Revenue Guidance Lowered
+CTVA: Moved −19.2% last session · Reported after the close · Corteva shares plunge 23% as earnings miss and weaker Brazil demand force guidance cut
+DGII: Moved −11.8% last session · Reported after the close · Digi shares slide as 2027 revenue outlook points to slower growth
+DPC: Moved +6.1% last session · Earnings before the open today · DPC Holdings (DPC) Q3 2026 Earnings Call Transcript
+FIGR: Moved +10.9% last session · Earnings before the open today · Figure Technology Solutions Q3 EPS, Revenue Rise; Shares Gain Premarket
+LUNR: Moved +17.0% last session · Earnings before the open today · LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B
+MBGL: Moved +13.5% last session · Earnings before the open today · Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million
+NBIS: Moved −17.8% last session · Earnings before the open today · Applied Digital Sinks 8% as Nebius Outlook and NVIDIA CEO Exit Hit AI Data Center Stocks; Cipher Digital Fa…
+TWST: Moved −9.3% last session · Earnings before the open today · Full-Year Revenue Guidance and Strong Quarter Drove Twist Bioscience Corporation (TWST) Higher in Q3
+YETI: Moved −8.8% last session · Earnings before the open today · Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views
+AMD: Upgraded to Outperform at William Blair
+COP: Downgraded to Market Perform at Bernstein
+NVDA: Downgraded to Hold at StoneX · Downgraded to Market Perform at William Blair
+PTRN: Moved +5.6% last session · Upgraded to Buy at Jefferies · Jefferies Upgrades Pattern to Buy From Hold, Price Target is $27
+BABA: Moved −6.7% last session · Alibaba Stocks Slide 7.53% on Report U.S. Is Finalizing Remote AI Chip Curbs
+BZ: Moved −23.3% last session
+CDLR: Moved +5.8% last session
+CHA: Moved +5.5% last session · Chagee Announces Declaration of Special Cash Dividend and Three-Year Annual Dividend Policy
+CLS: Moved +7.4% last session · CLS vs. SANM: Which Stock is Better Positioned for the AI Boom?
+GDS: Moved −12.1% last session
+HUBS: Moved +8.1% last session · HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul
+HWC: Moved −10.2% last session · Hancock Whitney to Acquire Trustmark in $3.2 Billion Deal
+JBS: Moved −10.1% last session · JBS NV (JBS) Q3 2026 Earnings Call Highlights: US Beef Turns Positive as Leverage Tops Target
+MANE: Moved −10.3% last session
+PLBL: Moved +17.1% last session
+SANM: Moved +6.0% last session · CLS vs. SANM: Which Stock is Better Positioned for the AI Boom?
+SEPN: Moved −9.0% last session
+STVN: Moved +5.2% last session
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 LEN: long over 86.43 stop 85.49 2R 88.31 (106 sh)
@@ -39,6 +39,7 @@ XOM: long over 166.80 stop 165.57 2R 169.26 (81 sh)
 XOM: short under 164.41 stop 165.64 2R 161.95 (81 sh)
 COP: long over 137.99 stop 136.85 2R 140.27 (87 sh)
 COP: short under 135.38 stop 136.52 2R 133.10 (87 sh)
+PHM: long over 130.04 stop 128.79 2R 132.54 (80 sh)
 TOL: long over 151.45 stop 150.11 2R 154.13 (74 sh)
 KBH: long over 50.25 stop 49.73 2R 51.29 (192 sh)
 PEP: long over 144.07 stop 143.19 2R 145.83 (113 sh)
@@ -49,6 +50,5 @@ CVX: long over 213.49 stop 212.13 2R 216.21 (73 sh)
 CVX: short under 210.83 stop 212.19 2R 208.11 (73 sh)
 XLY: long over 121.52 stop 120.87 2R 122.82 (153 sh)
 NEE: long over 86.25 stop 85.82 2R 87.11 (232 sh)
-XLV: long over 189.33 stop 188.40 2R 191.19 (107 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
