@@ -1,54 +1,53 @@
-Day-trade prep for Thu 11/12 (levels from the Nov 11 close)
+Day-trade prep for Fri 11/13 (levels from the Nov 12 close)
 
 IN PLAY ON NEWS
-AMAT: Earnings after the close today
-BLTE: Moved +7.4% last session · Earnings before the open today · Belite Bio's Q3 Adjusted Loss Widens
-CLBT: Moved −8.0% last session · Earnings before the open today · Cellebrite DI Q3 Non-GAAP Earnings, Revenue Rise; 2026 Revenue Guidance Lowered
-CTVA: Moved −19.2% last session · Reported after the close · Corteva shares plunge 23% as earnings miss and weaker Brazil demand force guidance cut
-DGII: Moved −11.8% last session · Reported after the close · Digi shares slide as 2027 revenue outlook points to slower growth
-DPC: Moved +6.1% last session · Earnings before the open today · DPC Holdings (DPC) Q3 2026 Earnings Call Transcript
-FIGR: Moved +10.9% last session · Earnings before the open today · Figure Technology Solutions Q3 EPS, Revenue Rise; Shares Gain Premarket
-LUNR: Moved +17.0% last session · Earnings before the open today · LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B
-MBGL: Moved +13.5% last session · Earnings before the open today · Mobility Global Raises FY2026 EBITDA Guidance as Q3 Revenue Increases 7.4% to $478 Million
-NBIS: Moved −17.8% last session · Earnings before the open today · Applied Digital Sinks 8% as Nebius Outlook and NVIDIA CEO Exit Hit AI Data Center Stocks; Cipher Digital Fa…
-TWST: Moved −9.3% last session · Earnings before the open today · Full-Year Revenue Guidance and Strong Quarter Drove Twist Bioscience Corporation (TWST) Higher in Q3
-YETI: Moved −8.8% last session · Earnings before the open today · Yeti Lowers Full-Year Outlook as Third-Quarter Sales Miss Street Views
-AMD: Upgraded to Outperform at William Blair
-COP: Downgraded to Market Perform at Bernstein
-NVDA: Downgraded to Hold at StoneX · Downgraded to Market Perform at William Blair
-PTRN: Moved +5.6% last session · Upgraded to Buy at Jefferies · Jefferies Upgrades Pattern to Buy From Hold, Price Target is $27
-BABA: Moved −6.7% last session · Alibaba Stocks Slide 7.53% on Report U.S. Is Finalizing Remote AI Chip Curbs
-BZ: Moved −23.3% last session
-CDLR: Moved +5.8% last session
-CHA: Moved +5.5% last session · Chagee Announces Declaration of Special Cash Dividend and Three-Year Annual Dividend Policy
-CLS: Moved +7.4% last session · CLS vs. SANM: Which Stock is Better Positioned for the AI Boom?
-GDS: Moved −12.1% last session
-HUBS: Moved +8.1% last session · HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul
-HWC: Moved −10.2% last session · Hancock Whitney to Acquire Trustmark in $3.2 Billion Deal
-JBS: Moved −10.1% last session · JBS NV (JBS) Q3 2026 Earnings Call Highlights: US Beef Turns Positive as Leverage Tops Target
-MANE: Moved −10.3% last session
-PLBL: Moved +17.1% last session
-SANM: Moved +6.0% last session · CLS vs. SANM: Which Stock is Better Positioned for the AI Boom?
-SEPN: Moved −9.0% last session
-STVN: Moved +5.2% last session
+AMAT: Reported after the close
+CBRS: Premarket +16.7% · Reported after the close · Update: Cerebras Shares Up Pre-Bell on Upbeat Q4 Guidance, Upgraded Full-Year Outlook
+CSCO: Reported after the close
+NU: Premarket +3.3% · Reported after the close · NU Stock Rises Overnight On Strong Q3 Results: CEO Says New Banking Status Makes Proposition ‘Even More Com…
+BLTE: Moved +9.0% last session · Belite Bio (BLTE) Q3 2026 Earnings Call Transcript
+BZ: Moved −25.3% last session · Kanzhun (BZ) Could Be 43% Undervalued Following Soft Revenue Guidance
+CDLR: Moved +5.3% last session
+CHA: Moved +9.6% last session
+CLBT: Moved −14.3% last session · Cellebrite (CLBT) Q3 2026 Earnings Call Transcript
+CTVA: Moved −24.3% last session · Corteva (CTVA) Cuts Guidance And Delays Filing, Is The Reset Now Fully Priced In?
+DGII: Moved −12.7% last session · Digi shares slide as 2027 revenue outlook points to slower growth
+DPC: Moved +8.4% last session · DPC Q3 Earnings Call Highlights
+FIGR: Moved +6.1% last session · Figure Tech (FIGR) Q3 2026 Earnings Call Transcript
+FPS: Moved −9.8% last session · What Forgent Power Solutions (FPS) Said on Its Q1 Earnings Call
+FRVO: Moved −10.0% last session
+GDS: Moved −11.4% last session
+GPN: Moved −12.0% last session · CD&R, GTCR put Global Payments takeover talks on hold- report
+HUBS: Moved +6.4% last session · HubSpot names new CEO, CFO in company ‘re-founding’
+HWC: Moved −10.2% last session · Piper Sandler Downgrades Hancock Whitney to Neutral From Overweight, Price Target is $71.50
+IBP: Moved +6.8% last session · Deutsche Bank Upgrades Installed Building Products to Buy From Hold, Price Target is $260
+IRTC: Moved +5.5% last session · Update: IRhythm Shares Rise After Board Approves $200 Million Share Repurchase Program
+LIFE: Moved −10.9% last session
+LMND: Moved +5.7% last session
+LQDA: Moved +5.3% last session
+LUNR: Moved +7.0% last session · LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B
+MANE: Moved −13.6% last session · Veradermics to Present at the Jefferies Global Healthcare Conference in London
+MBGL: Moved +16.1% last session · Mobility Global Q3 Earnings Call Highlights
+MOD: Premarket +26.7% · Modine Manufacturing Shares Jump on Samsung Electronics Buyout Talks
+NBIS: Moved −16.8% last session · Michael Burry vindicated as Nebius stock drops over 17% — and he's warning of a coming chip glut
+PANW: Premarket +3.4% · KeyBanc Upgrades Palo Alto Networks to Overweight, Price Target is $380
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-LEN: long over 86.43 stop 85.49 2R 88.31 (106 sh)
-SO: long over 93.86 stop 93.40 2R 94.78 (217 sh)
-XOM: long over 166.80 stop 165.57 2R 169.26 (81 sh)
-XOM: short under 164.41 stop 165.64 2R 161.95 (81 sh)
-COP: long over 137.99 stop 136.85 2R 140.27 (87 sh)
-COP: short under 135.38 stop 136.52 2R 133.10 (87 sh)
-PHM: long over 130.04 stop 128.79 2R 132.54 (80 sh)
-TOL: long over 151.45 stop 150.11 2R 154.13 (74 sh)
-KBH: long over 50.25 stop 49.73 2R 51.29 (192 sh)
-PEP: long over 144.07 stop 143.19 2R 145.83 (113 sh)
-MRK: long over 147.67 stop 146.53 2R 149.95 (87 sh)
-XHB: long over 103.28 stop 102.48 2R 104.88 (125 sh)
-IGV: short under 101.44 stop 102.23 2R 99.86 (126 sh)
-CVX: long over 213.49 stop 212.13 2R 216.21 (73 sh)
-CVX: short under 210.83 stop 212.19 2R 208.11 (73 sh)
-XLY: long over 121.52 stop 120.87 2R 122.82 (153 sh)
-NEE: long over 86.25 stop 85.82 2R 87.11 (232 sh)
+COP: long over 140.96 stop 139.88 2R 143.12 (92 sh)
+HAL: long over 33.13 stop 32.86 2R 33.67 (370 sh)
+HAL: short under 32.37 stop 32.64 2R 31.83 (370 sh)
+NFLX: short under 62.53 stop 62.99 2R 61.61 (217 sh)
+IWM: short under 277.99 stop 279.33 2R 275.31 (74 sh)
+PGR: long over 237.47 stop 236.21 2R 239.99 (79 sh)
+XLC: short under 107.36 stop 107.91 2R 106.26 (181 sh)
+XLP: long over 92.17 stop 91.76 2R 92.99 (243 sh)
+PG: long over 170.00 stop 169.19 2R 171.62 (123 sh)
+KO: long over 98.40 stop 97.94 2R 99.32 (217 sh)
+COIN: short under 129.58 stop 131.08 2R 126.58 (66 sh)
+KLAC: long over 161.79 stop 160.29 2R 164.79 (66 sh)
+KLAC: short under 155.31 stop 156.81 2R 152.31 (66 sh)
+SLB: short under 50.16 stop 50.57 2R 49.34 (243 sh)
+AAPL: long over 359.42 stop 357.92 2R 362.42 (66 sh)
+PEP: long over 144.63 stop 143.79 2R 146.31 (119 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
