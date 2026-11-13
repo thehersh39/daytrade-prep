@@ -2,35 +2,35 @@ Day-trade prep for Fri 11/13 (levels from the Nov 12 close)
 
 IN PLAY ON NEWS
 AMAT: Reported after the close
-CBRS: Premarket +16.7% · Reported after the close · Update: Cerebras Shares Up Pre-Bell on Upbeat Q4 Guidance, Upgraded Full-Year Outlook
-CSCO: Reported after the close
-NU: Premarket +3.3% · Reported after the close · NU Stock Rises Overnight On Strong Q3 Results: CEO Says New Banking Status Makes Proposition ‘Even More Com…
-BLTE: Moved +9.0% last session · Belite Bio (BLTE) Q3 2026 Earnings Call Transcript
-BZ: Moved −25.3% last session · Kanzhun (BZ) Could Be 43% Undervalued Following Soft Revenue Guidance
-CDLR: Moved +5.3% last session
-CHA: Moved +9.6% last session
-CLBT: Moved −14.3% last session · Cellebrite (CLBT) Q3 2026 Earnings Call Transcript
-CTVA: Moved −24.3% last session · Corteva (CTVA) Cuts Guidance And Delays Filing, Is The Reset Now Fully Priced In?
-DGII: Moved −12.7% last session · Digi shares slide as 2027 revenue outlook points to slower growth
-DPC: Moved +8.4% last session · DPC Q3 Earnings Call Highlights
-FIGR: Moved +6.1% last session · Figure Tech (FIGR) Q3 2026 Earnings Call Transcript
-FPS: Moved −9.8% last session · What Forgent Power Solutions (FPS) Said on Its Q1 Earnings Call
-FRVO: Moved −10.0% last session
-GDS: Moved −11.4% last session
-GPN: Moved −12.0% last session · CD&R, GTCR put Global Payments takeover talks on hold- report
-HUBS: Moved +6.4% last session · HubSpot names new CEO, CFO in company ‘re-founding’
-HWC: Moved −10.2% last session · Piper Sandler Downgrades Hancock Whitney to Neutral From Overweight, Price Target is $71.50
-IBP: Moved +6.8% last session · Deutsche Bank Upgrades Installed Building Products to Buy From Hold, Price Target is $260
-IRTC: Moved +5.5% last session · Update: IRhythm Shares Rise After Board Approves $200 Million Share Repurchase Program
-LIFE: Moved −10.9% last session
-LMND: Moved +5.7% last session
-LQDA: Moved +5.3% last session
-LUNR: Moved +7.0% last session · LUNR CEO Highlights ‘Record’ Q3 – Revenue Hits $269M, Backlog Reaches $1.9B
-MANE: Moved −13.6% last session · Veradermics to Present at the Jefferies Global Healthcare Conference in London
-MBGL: Moved +16.1% last session · Mobility Global Q3 Earnings Call Highlights
-MOD: Premarket +26.7% · Modine Manufacturing Shares Jump on Samsung Electronics Buyout Talks
-NBIS: Moved −16.8% last session · Michael Burry vindicated as Nebius stock drops over 17% — and he's warning of a coming chip glut
-PANW: Premarket +3.4% · KeyBanc Upgrades Palo Alto Networks to Overweight, Price Target is $380
+CBRS: Moved +5.6% last session · Reported after the close · Cerebras stock surges on Q3 results, outlook raise, hyperscaler deals
+CSCO: Moved −5.6% last session · Reported after the close · Cisco Slides 5% Despite Raising AI Outlook to $9 Billion as Citi Says Growth May Have Peaked; Hewlett Packa…
+HTFL: Moved −16.0% last session · Reported after the close · HeartFlow (HTFL) Reports Q3 Loss, Beats Revenue Estimates
+LFTO: Moved +21.9% last session · Reported after the close · Liftoff Mobile (LFTO) Stock Sees Modest Fair Value Cut As Analysts Trim Targets
+NU: Moved +9.6% last session · Reported after the close · NU Stock Rises Overnight On Strong Q3 Results: CEO Says New Banking Status Makes Proposition ‘Even More Com…
+STN: Moved +14.2% last session · Reported after the close · Stantec Q3 Adjusted Earnings Jumps Near 24% YoY, Beats Forecast
+WSE: Moved +8.4% last session · Reported after the close · Wise jumps 10% as Jefferies highlights Belgian settlement and North American bank wins
+AAOI: Moved −9.9% last session
+ALNY: Moved +5.8% last session · Alnylam Pharmaceuticals Insider Bought Shares Worth $299,526, According to a Recent SEC Filing
+APLD: Moved −9.5% last session · Applied Digital Sinks 8% as Nebius Outlook and NVIDIA CEO Exit Hit AI Data Center Stocks; Cipher Digital Fa…
+AXTI: Moved −9.8% last session
+CLBT: Moved +7.3% last session · Cellebrite (CLBT) Q3 2026 Earnings Call Transcript
+COHR: Moved −9.9% last session · Coherent (COHR) Stock Looks About Right Despite Its Huge Three Year Run
+CRWV: Moved −11.0% last session · Here’s Who’s Getting Dragged Down Further as Huang Exits: CoreWeave Vs. Super Micro Computer
+CVLT: Moved −10.3% last session · Commvault Names Danielle Abrahamsen Interim CFO as Gary Merrill Departs, Reaffirms Guidance
+HUT: Moved −10.0% last session
+IONQ: Moved −7.4% last session · IonQ Sinks 8% as Inder Singh Exits “Effective Immediately” in Finance Leadership Shake-Up
+IREN: Moved −9.5% last session · IREN Is the Real Loser in Nvidia’s Pullback: Nvidia Is Its $3.4 Billion Customer
+KEP: Moved −9.0% last session
+MOD: Moved +25.3% last session · Samsung Eyeing Deal To Buy Data Center Supplier Modine; Stock Soars 35%
+MXL: Moved −11.1% last session
+NBIS: Moved −12.8% last session · Could Nebius Actually Climb 136%? Or Is Rosenblatt Totally Wrong?
+OUST: Moved −10.5% last session
+TSEM: Moved −9.7% last session
+CEG: Has Constellation Energy (CEG) Fallen Below Fair Value After Raising Earnings Guidance?
+CRWD: CrowdStrike and Palo Alto Networks Climb 3% as Microsoft Outage Disrupts Outlook and Teams
+HD: Stifel downgrades Lowe’s to Sell, stays cautious on Home Depot ahead of earnings
+INTC: Intel’s CEO Says AI Is Now Buying Almost as Many CPUs as GPUs
+LLY: Eli Lilly Stocks Rise as China Approves Orforglipron Weight-Loss Pill
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 COP: long over 140.96 stop 139.88 2R 143.12 (92 sh)
