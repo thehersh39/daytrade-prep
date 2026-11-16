@@ -1,10 +1,12 @@
 {
- "pulled_utc": "2026-11-13T16:04:23.419887Z",
- "session": "20261113",
- "asof": "20261112",
- "flagged": 23,
+ "pulled_utc": "2026-11-16T11:05:13.328527Z",
+ "session": "20261116",
+ "asof": "20261113",
+ "flagged": 32,
  "charts": 14,
- "premarket": 0,
- "news": 36,
- "missing": []
+ "premarket": 29,
+ "news": 65,
+ "missing": [
+  "IGV"
+ ]
 }
