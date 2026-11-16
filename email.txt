@@ -1,36 +1,36 @@
 Day-trade prep for Mon 11/16 (levels from the Nov 13 close)
 
 IN PLAY ON NEWS
-ALM: Premarket −4.0% · Reported after the close · Almonty Industries (ALM) is Surging. Here’s What’s Happening
-BIDU: Earnings before the open today
-XPEV: Premarket +3.3% · Earnings before the open today · XPeng Q3 Net Loss Widens, Revenue Rises; Q4 Revenue Outlook Set
-AMAT: Premarket −3.6% · Big Tech Will Spend “Well Over $1 Trillion” in 2027, Says Applied Materials CFO
-AMD: Premarket −4.3% · Advanced Micro Devices vs. Broadcom: One Stock Has a $27 Billion Advantage Investors Shouldn't Ignore
-ARM: Premarket −4.4% · Astera Labs vs. Arm: Which Technology Stock Is a Better Buy for 2027?
-AVGO: Premarket −3.1% · Advanced Micro Devices vs. Broadcom: One Stock Has a $27 Billion Advantage Investors Shouldn't Ignore
-COIN: Premarket −6.3% · Coinbase CEO Brian Armstrong Credits SEC, CFTC Chiefs For Ending ‘Turf Wars’ Over Stock Perps
-HOOD: Premarket −5.3% · The Single Most Important Metric For Robinhood Stock
-INTC: Premarket −4.3% · Intel (INTC) Stock Sees Fair Value Falls After Guidance And Operational Issues
-KLAC: Premarket −3.8% · KLA (KLAC) Stock Looks About Right Following Its 278% Five Year Run
-LRCX: Premarket −3.5% · Zacks.com featured highlights include Ralph Lauren, Expedia, NVIDIA and Lam Research
-MRVL: Premarket −4.3% · Marvell CEO Defends $115 Billion Lumentum Deal: “Sometimes Being Unorthodox” Pays Off
-MSTR: Premarket −7.1% · Nvidia Earnings Could Set The Tone For Bitcoin, MSTR: Here’s What Retail Traders Are Watching
-MU: Premarket −4.4% · Market Chatter: Micron, Samsung, SK Hynix Fail to Get DRAM Price-Fixing Lawsuit Dismissed
-SMCI: Premarket −3.6% · Super Micro Is Priced Like It “Goes Bankrupt Next Quarter” Despite $16B of Equity
-SNDK: Premarket −5.1% · Sandisk Splits Its Stock 8-for-1 on Nov. 19. Flash Memory Prices Still Matter More Than the Share Count.
-STX: Premarket −4.4% · The Risk Morgan Stanley Watches at Seagate (STX)
-TSM: Premarket −4.2%
-WDC: Premarket −4.0% · Western Digital Corp. (WDC) Faces Growing AI Spending Concerns After 17% Selloff
-ASTS: Premarket −3.4% · ASTS, RKLB, LUNR And FLY Fall After ULA Rocket Failure Strands 40 Amazon Satellites — Why One Analyst Wants…
-BE: Premarket −4.6% · BE Stock Falls Overnight: Retail Flags Valuation Concerns As Forward P/E Nears 18-Month Low
-BETA: Moved −7.3% last session
-BROS: Moved +6.5% last session · Dutch Bros vs. Wendy's: Which Stock Is a Better Buy?
-CBRS: Premarket −3.8% · Cerebras beats estimates, but its biggest customer is waiting
-CGON: Moved +6.1% last session
-CHA: Moved +6.4% last session
-CVLT: Moved −8.5% last session
-DELL: Premarket −4.7% · Citigroup Adjusts Price Target on Dell Technologies to $550 From $600
-FN: Premarket −3.8%
+BEKE: Moved +6.6% last session · Earnings before the open today · What KE (BEKE) Said on Its Q3 Earnings Call
+HTHT: Moved +9.7% last session · Earnings before the open today · H World Group (HTHT) Beats Q3 Earnings and Revenue Estimates
+POWL: Moved +6.4% last session · Earnings after the close today
+TSN: Moved +7.1% last session · Earnings before the open today · What Tyson Foods (TSN) Said on Its Q4 Earnings Call
+XPEV: Moved +5.3% last session · Earnings before the open today · XPeng revenue rises 19% as company forecasts stronger fourth-quarter growth
+AAOI: Moved −9.2% last session
+ASST: Moved −10.8% last session
+ASTS: Moved −11.4% last session · AST SpaceMobile Drops 7% as Tech Selloff Hits Space Stocks; Rocket Lab Falls 4%, SpaceX Dips Despite Histor…
+AXTI: Moved −9.9% last session · AXTQ 2X Short AXT ETF Surges 15% as AXT Retraces From 147% Year-to-Date Rally; Coherent Drops 8%
+BILL: Moved +5.1% last session · William Blair upgrades Bill Holdings on margin and monetization tailwinds
+BLLN: Moved −9.3% last session · BillionToOne: 3 Key Takeaways for Long-Term Investors
+BLSH: Moved −9.4% last session · 'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares
+CGON: Moved +17.7% last session
+FRSH: Moved +5.6% last session · Freshworks And 2 Other AI Stocks To Watch
+GDS: Moved −14.1% last session · Is GDS Holdings (NasdaqGM:GDS) Undervalued Given Its AI Data Center Scale?
+GUNN: Moved −12.0% last session
+HUBS: Moved +6.8% last session · Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM
+HUT: Moved −9.6% last session · Why is Hut 8 Corp. (HUT) Under Pressure Despite $26.6 Billion in AI Data Center Contracts?
+IREN: Moved −10.5% last session · IREN Limited Plummets 67% in 6 Months: Two Wall Street Firms Now Expect Returns Above 400%
+KVYO: Moved +6.9% last session
+LUNR: Moved −9.7% last session · Intuitive Machines Is No Longer Just About the Moon, CEO Sees Bigger Space Opportunity
+MBGL: Moved +5.5% last session · Mobility Global (MBGL) Stock May Be 42% Undervalued On Fresh Buyback News
+MOH: Moved +8.5% last session · Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher
+NVTS: Moved −11.6% last session
+PAYP: Moved −9.6% last session
+PLBL: Moved +6.8% last session
+SEZL: Moved +5.1% last session · New Path to Credit: 86% of On-Time Sezzle Up Users Without a Credit Score Had One Within Four Months
+SMMT: Moved −15.3% last session · Summit Therapeutics (SMMT) Faces An FDA Reset, Is The Downside Already Priced In?
+TU: Moved +7.7% last session · Quebecor Makes Bid for Telus in Canadian Telecom Deal
+USAR: Moved −10.6% last session · USA Rare Earth Tumbles 10% on William Blair Downgrade Over Feedstock Issues; Critical Metals Plunges 13%, M…
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 76.59 stop 77.86 2R 74.05 (78 sh)
