@@ -1,55 +1,51 @@
-Day-trade prep for Mon 11/16 (levels from the Nov 13 close)
+Day-trade prep for Tue 11/17 (levels from the Nov 16 close)
 
 IN PLAY ON NEWS
-BEKE: Moved +6.6% last session · Earnings before the open today · What KE (BEKE) Said on Its Q3 Earnings Call
-HTHT: Moved +9.7% last session · Earnings before the open today · H World Group (HTHT) Beats Q3 Earnings and Revenue Estimates
-POWL: Moved +6.4% last session · Earnings after the close today
-TSN: Moved +7.1% last session · Earnings before the open today · What Tyson Foods (TSN) Said on Its Q4 Earnings Call
-XPEV: Moved +5.3% last session · Earnings before the open today · XPeng revenue rises 19% as company forecasts stronger fourth-quarter growth
-AAOI: Moved −9.2% last session
-ASST: Moved −10.8% last session
-ASTS: Moved −11.4% last session · AST SpaceMobile Drops 7% as Tech Selloff Hits Space Stocks; Rocket Lab Falls 4%, SpaceX Dips Despite Histor…
-AXTI: Moved −9.9% last session · AXTQ 2X Short AXT ETF Surges 15% as AXT Retraces From 147% Year-to-Date Rally; Coherent Drops 8%
-BILL: Moved +5.1% last session · William Blair upgrades Bill Holdings on margin and monetization tailwinds
-BLLN: Moved −9.3% last session · BillionToOne: 3 Key Takeaways for Long-Term Investors
-BLSH: Moved −9.4% last session · 'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares
-CGON: Moved +17.7% last session
-FRSH: Moved +5.6% last session · Freshworks And 2 Other AI Stocks To Watch
-GDS: Moved −14.1% last session · Is GDS Holdings (NasdaqGM:GDS) Undervalued Given Its AI Data Center Scale?
-GUNN: Moved −12.0% last session
-HUBS: Moved +6.8% last session · Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM
-HUT: Moved −9.6% last session · Why is Hut 8 Corp. (HUT) Under Pressure Despite $26.6 Billion in AI Data Center Contracts?
-IREN: Moved −10.5% last session · IREN Limited Plummets 67% in 6 Months: Two Wall Street Firms Now Expect Returns Above 400%
-KVYO: Moved +6.9% last session
-LUNR: Moved −9.7% last session · Intuitive Machines Is No Longer Just About the Moon, CEO Sees Bigger Space Opportunity
-MBGL: Moved +5.5% last session · Mobility Global (MBGL) Stock May Be 42% Undervalued On Fresh Buyback News
-MOH: Moved +8.5% last session · Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher
-NVTS: Moved −11.6% last session
-PAYP: Moved −9.6% last session
-PLBL: Moved +6.8% last session
-SEZL: Moved +5.1% last session · New Path to Credit: 86% of On-Time Sezzle Up Users Without a Credit Score Had One Within Four Months
-SMMT: Moved −15.3% last session · Summit Therapeutics (SMMT) Faces An FDA Reset, Is The Downside Already Priced In?
-TU: Moved +7.7% last session · Quebecor Makes Bid for Telus in Canadian Telecom Deal
-USAR: Moved −10.6% last session · USA Rare Earth Tumbles 10% on William Blair Downgrade Over Feedstock Issues; Critical Metals Plunges 13%, M…
+HD: Earnings before the open today
+NVDA: Earnings after the close today
+ACM: Premarket +6.1% · Reported after the close · AECOM rises on earnings beat and strong guidance
+DIS: Earnings before the open today
+JD: Premarket −3.0% · Earnings before the open today · JD.com beats profit expectations on cost cuts
+KLAR: Earnings before the open today
+POWL: Moved +5.9% last session · Reported after the close · Powell Industries beats estimates on strong order growth
+MRVL: Premarket +3.9% · Marvell Technology (MRVL) Adds Three Directors After AI Memory Reveal At SC26
+ASST: Moved −11.9% last session · Strive Inc. (ASST) Gets Beaten by This Million-Dollar Move
+ASTS: Moved −12.3% last session · Social Buzz: Wallstreetbets Stocks Mostly Higher Pre-Bell Tuesday; AMD, AST SpaceMobile to Advance
+BBWI: Moved −9.9% last session · Bath & Body Works (BBWI) Stock Still Looks Undervalued On Cash Flow
+BILL: Moved +5.8% last session
+BLSH: Moved −12.2% last session · 'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares
+CGON: Moved +14.0% last session
+FLY: Moved −10.8% last session · A $1.3 Billion Reason to Buy Firefly Aerospace Stock Here
+GDS: Moved −14.7% last session · GDS Holdings (GDS) Plunges Double Digits. Here’s What Happened
+GUNN: Moved −10.6% last session
+HNGE: Moved +5.1% last session
+HTHT: Moved +8.9% last session · H World Group (HTHT) Stock May Be 17% Undervalued On Raised 2026 Outlook
+HUBS: Moved +6.8% last session · CEO Halligan Backs His HubSpot Turnaround With $5 Million of Stock
+IREN: Moved −9.8% last session · IREN Stock Rises Overnight As Intel Reveals Stake, Anthropic IPO Buzz Catches On
+LUNR: Moved −9.8% last session · Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors
+MOH: Moved +11.3% last session · Medicaid Work Requirement Delay Pushes Molina, Centene Stocks Higher
+NTRA: Premarket +4.7% · Why Is Natera Stock Up Nearly 41% Since May?
+NVTS: Moved −12.0% last session · Investors Are Fleeing Navitas Semiconductor (NVTS). Here’s Why
+PAYP: Moved −10.5% last session
+QLYS: Moved +5.2% last session
+RUM: Moved −11.4% last session · Trump Media Sinks 12% Ahead of Convertible-Note Deadline and TAE Merger Vote; Rumble Tumbles 11%, Meta Decl…
+SMMT: Moved −16.5% last session · Summit Therapeutics (SMMT) Hits 52-Week Low After FDA Setback
+TEM: Premarket +4.5%
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-HOOD: short under 76.59 stop 77.86 2R 74.05 (78 sh)
-SMCI: short under 25.87 stop 26.54 2R 24.53 (149 sh)
-PHM: long over 127.58 stop 126.33 2R 130.08 (80 sh)
-TOL: long over 148.34 stop 146.96 2R 151.10 (72 sh)
-ITB: long over 94.38 stop 93.53 2R 96.08 (117 sh)
-LEN: long over 84.20 stop 83.25 2R 86.10 (105 sh)
-LEN: short under 82.80 stop 83.75 2R 80.90 (105 sh)
-XLP: long over 92.37 stop 91.96 2R 93.19 (243 sh)
-XLV: long over 189.18 stop 188.25 2R 191.04 (107 sh)
-COP: long over 142.63 stop 141.56 2R 144.77 (93 sh)
-COP: short under 140.44 stop 141.51 2R 138.30 (93 sh)
-KBH: long over 48.66 stop 48.14 2R 49.70 (192 sh)
-KBH: short under 47.61 stop 48.13 2R 46.57 (192 sh)
-NFLX: short under 62.10 stop 62.54 2R 61.22 (227 sh)
-CVX: long over 219.96 stop 218.64 2R 222.60 (75 sh)
-PEP: long over 145.83 stop 144.97 2R 147.55 (116 sh)
-XLE: long over 64.99 stop 64.56 2R 65.85 (232 sh)
-XLE: short under 64.14 stop 64.57 2R 63.28 (232 sh)
+SMCI: short under 24.91 stop 25.57 2R 23.59 (151 sh)
+HOOD: short under 70.81 stop 72.13 2R 68.17 (75 sh)
+PG: long over 173.62 stop 172.76 2R 175.34 (116 sh)
+COP: long over 141.29 stop 140.23 2R 143.41 (94 sh)
+SO: long over 94.79 stop 94.28 2R 95.81 (196 sh)
+NFLX: short under 60.46 stop 60.92 2R 59.54 (217 sh)
+PEP: long over 148.30 stop 147.44 2R 150.02 (116 sh)
+IWM: short under 271.92 stop 273.32 2R 269.12 (71 sh)
+XLI: short under 165.27 stop 166.16 2R 163.49 (112 sh)
+PGR: long over 239.49 stop 238.24 2R 241.99 (80 sh)
+INTC: short under 54.87 stop 56.37 2R 51.87 (66 sh)
+SOXX: short under 140.83 stop 142.33 2R 137.83 (66 sh)
+XLK: short under 164.11 stop 165.61 2R 161.11 (66 sh)
+HD: long over 349.78 stop 348.28 2R 352.78 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
