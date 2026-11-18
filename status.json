@@ -1,12 +1,12 @@
 {
- "pulled_utc": "2026-11-17T17:32:00.756962Z",
- "session": "20261117",
- "asof": "20261116",
- "flagged": 38,
- "charts": 14,
- "premarket": 0,
- "news": 45,
+ "pulled_utc": "2026-11-18T11:33:06.629706Z",
+ "session": "20261118",
+ "asof": "20261117",
+ "flagged": 14,
+ "charts": 9,
+ "premarket": 12,
+ "news": 60,
  "missing": [
-  "SMH"
+  "CB"
  ]
 }

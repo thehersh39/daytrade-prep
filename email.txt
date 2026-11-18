@@ -1,51 +1,46 @@
-Day-trade prep for Tue 11/17 (levels from the Nov 16 close)
+Day-trade prep for Wed 11/18 (levels from the Nov 17 close)
 
 IN PLAY ON NEWS
-HD: Earnings before the open today
-NVDA: Earnings after the close today
-ACM: Moved +13.0% last session · Reported after the close · AECOM shares jump more than 12% as 2027 earnings outlook beats estimates
-AS: Moved +6.7% last session · Earnings before the open today · Amer Sports (AS) Stock Could Be About Right As EPS Outlook Improves
-DIS: Earnings before the open today
-ESLT: Moved +7.7% last session · Earnings before the open today · Elbit Systems Sees Continued Demand, Highlights Record Backlog – What The CEO Said About Potential End Of U…
-JD: Moved −7.2% last session · Earnings before the open today · JD.com returns to revenue growth as third-quarter profit misses estimates
-KLAR: Earnings before the open today
-MNSO: Moved +6.0% last session · Earnings before the open today · MINISO Reports 14.3% Third-Quarter Revenue Growth to RMB6.63 Billion, Beating Analyst Estimates
-TME: Moved +5.6% last session · Earnings before the open today · Tencent Music posts mixed Q3 as revenue misses, profit beats forecasts
-BILL: Moved +7.7% last session · Bill Holdings shares surge on reports of looming TPG take-private deal
-CGON: Moved −6.2% last session · Is CG Oncology (CGON) Fully Valued As Phase 3 Trial Success Lifts Its Outlook?
-CRM: Moved −9.6% last session · How much Salesforce stock does CEO Marc Benioff actually own?
-CVLT: Moved −6.5% last session
-DLO: Moved −6.4% last session
-IDYA: Moved −11.4% last session · IDEAYA Biosciences Announces Successful US FDA Type C Meeting on Phase 2/3 Registrational Trial Designs to …
-INTU: Moved −6.6% last session · SmartVault Enhances Its AI-powered Client Intake Solution, SmartRequestAI®, with Deeper Integration Capabil…
-NOW: Moved −6.5% last session
-QBTS: Moved −6.3% last session · Rigetti Drops 7% as Quantum Stocks Extend Monday’s Selloff; IonQ and D-Wave Fall 6%
-RGTI: Moved −7.0% last session · Rigetti Drops 7% as Quantum Stocks Extend Monday’s Selloff; IonQ and D-Wave Fall 6%
-RYTM: Moved +6.2% last session · Rhythm Pharmaceuticals Says Rare Obesity Drug Delivers Sustained Two-Year BMI Reductions
-SA: Moved +6.5% last session
-SLS: Moved +170.4% last session · Sellas Life Sciences shares surge 175% after cancer vaccine succeeds in late-stage trial
-SMMT: Moved −8.4% last session · Summit Therapeutics (SMMT) Hits 52-Week Low After FDA Setback
-SNAP: Moved +7.7% last session · Snap Promised Specs This Fall. Five Weeks Left and the $2,195 Glasses Still Have No Ship Date
-SSL: Moved −7.2% last session
-TENB: Moved −6.5% last session
-TNGX: Moved −6.5% last session
-UNFI: Moved +7.6% last session · Goldman Sachs Upgrades United Natural Foods to Buy From Neutral, $60 Price Target
-WCN: Moved −6.2% last session
+LOW: Earnings before the open today
+NVDA: Reported after the close
+PANW: Earnings after the close today
+TCEHY: Earnings before the open today
+TGT: Earnings before the open today
+ZIM: Earnings before the open today
+MRVL: Premarket +3.4% · Credo, Marvell settle intellectual property battle over data center cable tech
+SMCI: Premarket +3.2% · Zacks.com featured highlights include Super Micro Computer, General Dynamics and Consolidated Edison
+SNDK: Premarket +3.0% · ETFs Are Net Sellers of SanDisk (SNDK) on Nov. 16
+STX: Premarket +3.4% · Seagate Stocks Fall 1.6% as Druckenmiller Filing Shows Stake Nearly Tripled Before Slide
+TSM: Premarket +3.2% · Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Tumble As Customer Shock Clouds AI Outlook
+WDC: Premarket +3.0%
+AAOI: Premarket −10.9% · AAOI Stock Tumbles After-Hours On Fresh $550M At-The-Market Equity Offering
+ACM: Moved +11.1% last session · Is AECOM (ACM) Fully Valued As Strong Earnings And 2027 Guidance Lift Interest?
+ALAB: Premarket +3.6% · Hyve Partnership Might Change The Case For Investing In Astera Labs Stock (ALAB)
+BILL: Moved +12.6% last session · BILL Holdings (BILL) Stock Still Looks Undervalued After A 78% Five Year Fall
+CIEN: Premarket +3.3% · Will Ciena (CIEN) Beat Estimates Again in Its Next Earnings Report?
+COHR: Premarket +4.6% · Bernstein Is Holding Its $350 Coherent Target With the Stock 52% Off Its High
+CRDO: Premarket +4.1% · Credo, Marvell settle intellectual property battle over data center cable tech
+CRM: Moved −9.5% last session · CRM Stock Faces Worst Week Since April: Fresh Layoffs Reportedly Surface Across Salesforce Teams
+CRWV: Premarket +4.3% · Why CoreWeave May Be the Biggest Loser From Jensen Huang's Resignation
+ENPH: Moved −7.6% last session · Enphase Energy (ENPH) Hits New Record Low. Why Investors Are Losing Confidence
+ERAS: Moved −8.1% last session · Erasca to Evaluate Pancreatic Cancer Drug Combo With Bristol Myers Squibb
+ESLT: Moved +5.8% last session · Elbit (ESLT) Q3 2026 Earnings Call Transcript
+FRHC: Moved −8.6% last session · Freedom Holding (FRHC) Looks Pricey Following 81% Q2 Revenue Growth
+IDYA: Moved −9.7% last session · Is IDEAYA Biosciences (IDYA) Undervalued After Its FDA Backed IDE849 Trial Plan?
+INTU: Moved −7.2% last session · Why Intuit Stock Is Falling Fast Today
+JD: Moved −7.7% last session · JD Stock Misses Expectations As Profitability Improves at JD.com
+LFTO: Moved −7.3% last session · Liftoff: 3 Key Takeaways for Long-Term Investors
+LITE: Premarket +4.5% · Lumentum, Corning, and other optical-related stocks jump on Chinese import restrictions
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-SMCI: short under 24.91 stop 25.57 2R 23.59 (151 sh)
-HOOD: short under 70.81 stop 72.13 2R 68.17 (75 sh)
-PG: long over 173.62 stop 172.76 2R 175.34 (116 sh)
-COP: long over 141.29 stop 140.23 2R 143.41 (94 sh)
-SO: long over 94.79 stop 94.28 2R 95.81 (196 sh)
-NFLX: short under 60.46 stop 60.92 2R 59.54 (217 sh)
-PEP: long over 148.30 stop 147.44 2R 150.02 (116 sh)
-IWM: short under 271.92 stop 273.32 2R 269.12 (71 sh)
-XLI: short under 165.27 stop 166.16 2R 163.49 (112 sh)
-PGR: long over 239.49 stop 238.24 2R 241.99 (80 sh)
-INTC: short under 54.87 stop 56.37 2R 51.87 (66 sh)
-SOXX: short under 140.83 stop 142.33 2R 137.83 (66 sh)
-XLK: short under 164.11 stop 165.61 2R 161.11 (66 sh)
-HD: long over 349.78 stop 348.28 2R 352.78 (66 sh)
+NFLX: short under 59.39 stop 59.86 2R 58.45 (212 sh)
+IWM: short under 267.82 stop 269.27 2R 264.92 (68 sh)
+SO: long over 94.29 stop 93.79 2R 95.29 (200 sh)
+XLI: short under 163.70 stop 164.61 2R 161.88 (109 sh)
+MSTR: short under 96.33 stop 97.83 2R 93.33 (66 sh)
+COIN: short under 114.06 stop 115.56 2R 111.06 (66 sh)
+JPM: short under 328.69 stop 330.19 2R 325.69 (66 sh)
+ABBV: long over 294.11 stop 292.61 2R 297.11 (66 sh)
+GLD: short under 351.96 stop 353.46 2R 348.96 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
