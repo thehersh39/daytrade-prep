@@ -2,35 +2,35 @@ Day-trade prep for Thu 11/19 (levels from the Nov 18 close)
 
 IN PLAY ON NEWS
 WMT: Earnings before the open today
-BABA: Earnings before the open today
-PANW: Premarket +9.4% · Reported after the close · Dow Jones Futures Rise, Techs Jump: Anthropic IPO To Debut After Pricing High; Palo Alto, Everpure Rally On…
-AMAT: Premarket +3.8% · ETFs Are Net Sellers of Applied Materials (AMAT) on Nov. 17
-AMD: Premarket +3.5% · iShares PHLX SOX Semiconductor (SOXX) Sells $24.6 Million More AMD on Tuesday
-ARM: Premarket +4.6% · Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board
-ASML: Premarket +4.3% · Why ASML Holding (ASML)’s Monopoly in EUV Technology Gives It a Powerful Competitive Advantage
-AVGO: Premarket +3.1% · iShares A.I. Innovation and Tech Active ETF (BAI) Adds AMD and Broadcom on Nov. 17
-COIN: Premarket +3.7% · What Could Coinbase Global (COIN) Gain From Tokenized US Stocks Onchain?
-CRWD: Premarket +5.9% · CrowdStrike (CRWD) is Getting Investor Attention — Here’s Why
-GOOGL: Premarket +3.8%
-HOOD: Premarket +4.8%
-INTC: Premarket +4.8% · Intel and Microsoft agree long-term deal on Azure cloud hardware
-KLAC: Premarket +4.3%
-LRCX: Premarket +4.4% · Lam Research Corporation (LRCX) Retreated Amid Cyclical Peak Concerns
-MRVL: Premarket +4.7% · Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell
-MSTR: Premarket +4.9% · MSTR Stock Recovers Overnight After Dip – But Analyst Downgrades Strategy To 'Sell' As Bitcoin Premium Face…
-MU: Premarket +5.5% · ETFs Are Net Sellers of Micron Technology (MU) on Nov. 17
-SMCI: Premarket +4.3% · Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?
-SNDK: Premarket +5.5% · Prediction: This Will Be Sandisk’s Stock Price by the End of 2027
-STX: Premarket +5.4% · SanDisk Slides 4% Ahead of 8-for-1 Stock Split as NAND Glut Worries Linger; Micron Drops 3%, Seagate Edges …
-WDC: Premarket +5.1%
-AAOI: Premarket +5.1% · Applied Optoelectronics (AAOI) Could Be 63% Undervalued After $550 Million Stock Offering
-ACIW: Moved −10.2% last session · ACI Worldwide’s CEO heads out
-AKAM: Moved +8.3% last session · Can Akamai Stock Jump 40%?
-ARDT: Moved −18.9% last session · Eight Ardent Health Facilities Earn ‘A’ Hospital Safety Grades from The Leapfrog Group for Fall 2026 Gradin…
-ASTS: Premarket +5.9% · AST SpaceMobile Sinks 8% as New Offering Filing Revives Dilution Fears
-ATEN: Premarket +3.4% · A10 Networks (ATEN) Upgraded to Strong Buy: Here's Why
-CBRS: Premarket +3.5% · Cerebras Systems vs. IonQ: Which Technology Stock Is a Better Buy for 2027?
-CVI: Moved −11.2% last session
+CPA: Moved +5.9% last session · Reported after the close · Copa Holdings Q3 Earnings Beat on Strong Demand and Higher Yields
+FUTU: Moved +6.7% last session · Earnings before the open today · What Futu (FUTU) Said on Its Q3 Earnings Call
+KLIC: Moved −9.2% last session · Reported after the close · What Kulicke and Soffa Industries (KLIC) Said on Its Q4 Earnings Call
+MANU: Moved −7.4% last session · Earnings before the open today · Manchester United Shares Fall 7.5% as First-Quarter Revenue Misses Forecasts and Operating Loss Reaches £3 …
+NTES: Moved −9.3% last session · Earnings before the open today · NetEase Sinks 9% on Q3 Revenue Miss as Game Sales Fall 8% From Last Quarter
+P: Moved +9.9% last session · Reported after the close · Everpure Raises FY27 Revenue Outlook After Q3 Beat, But Barclays Cuts P Stock Target On Pricing Concerns
+PDD: Moved +12.0% last session · Earnings before the open today · PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue
+ROAD: Moved −8.8% last session · Earnings before the open today · Construction Partners Reports 31% Annual Revenue Growth to $3.67 Billion and Raises Fiscal 2027 Outlook Abo…
+SNEX: Moved −26.7% last session · Reported after the close · SNEX Q4 Earnings Miss Estimates Despite Revenue Growth, Stock Dips
+UGI: Moved −8.7% last session · Reported after the close · UGI (UGI) Reports Q4 Loss, Misses Revenue Estimates
+VVV: Moved +12.6% last session · Earnings before the open today · Correction: Valvoline Fiscal Q4 Adjusted Earnings Decline, Revenue Increases; Fiscal 2027 Outlook Introduced
+WSM: Moved −13.5% last session · Earnings before the open today · Williams-Sonoma Shares Fall After Fiscal Third Quarter Revenue Misses Estimates
+AMBA: Moved +9.9% last session
+ANT: Moved +19.6% last session · Anthropic IPO live: Anthropic stock begins trading at $111.50 per share in record offering
+BHVN: Moved +7.2% last session · Biohaven Reports Early Tumour Responses in Phase 1 Trial of Cancer Drug BHV-1530
+CI: Moved −6.0% last session
+DXC: Moved −7.2% last session · DXC Technology Forms Partnership With Cisco to Integrate Agentic AI Tools
+FISV: Moved −6.1% last session
+GRAL: Moved +5.8% last session · GRAIL: 3 Key Takeaways for Long-Term Investors
+INSM: Moved +17.7% last session · Update: Market Chatter: Sanofi Said to Consider Takeover of Insmed
+KLAR: Moved −9.8% last session · Klarna Stock Gets Mixed Price Target Revisions After Q3 Results – Here’s What Analysts See Ahead
+MNSO: Moved −9.1% last session
+NTSK: Moved +6.7% last session · Could You Have Spotted Netskope Stock's Doubling Early?
+OKTA: Moved +6.2% last session · Is Okta (OKTA) a Buy as Wall Street Analysts Look Optimistic?
+PACS: Moved −9.5% last session · PACS Group (PACS) Stock Could Be 39% Overvalued On Current Cash Flow
+PRIM: Moved −7.2% last session · Correction: Jefferies Downgrades Primoris Services to Hold From Buy
+PS: Moved −10.7% last session
+RBRK: Moved +6.0% last session · Why Did Rubrik Stock Jump?
+SLS: Moved −18.8% last session · Sellas Life Sciences Prices $150 Million Common Stock Offering; Shares Down Pre-Bell
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 67.54 stop 68.83 2R 64.96 (77 sh)

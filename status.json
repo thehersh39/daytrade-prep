@@ -1,11 +1,11 @@
 {
- "pulled_utc": "2026-11-19T11:31:52.065530Z",
+ "pulled_utc": "2026-11-19T17:15:09.779649Z",
  "session": "20261119",
  "asof": "20261118",
  "flagged": 36,
  "charts": 14,
- "premarket": 33,
- "news": 61,
+ "premarket": 0,
+ "news": 50,
  "missing": [
   "SNDK"
  ]
