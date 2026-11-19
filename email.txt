@@ -1,46 +1,51 @@
-Day-trade prep for Wed 11/18 (levels from the Nov 17 close)
+Day-trade prep for Thu 11/19 (levels from the Nov 18 close)
 
 IN PLAY ON NEWS
-LOW: Earnings before the open today
-NVDA: Reported after the close
-BLSH: Moved +10.9% last session · Earnings before the open today · Bullish shares jump over 9% after earnings beat and $300 million buyback authorization
-PANW: Moved +6.6% last session · Earnings after the close today · Ken Fisher and 14 Other Big Funds Bought Palo Alto Networks, While 22 Sold. Who’s Right?
-TGT: Moved +5.5% last session · Earnings before the open today · Target Breaks Out As Sales Soar In Beat-And-Raise Quarter
-TJX: Moved +10.7% last session · Earnings before the open today · TJX Soars 11% on Above-Plan Q3 as CEO Expects Holiday “Sales Momentum to Accelerate”
-AAOI: Moved −11.4% last session · AAOI Stock Tumbles After-Hours On Fresh $550M At-The-Market Equity Offering
-AEM: Moved −7.9% last session
-AU: Moved −8.1% last session · AngloGold Ashanti plans $2.5bn Colombia copper investment
-B: Moved −7.0% last session · Update: Barrick Furloughs Non-Essential Congo Mine Workers Amid Ebola Concerns
-BLLN: Moved −5.4% last session · BillionToOne Shares Fall After Fuzzy Panda Short Report
-CALM: Moved +7.9% last session · Cal-Maine Foods Reports Avian Influenza Outbreak at Florida Facility Affecting 1.76 Million Birds
-CRWV: Moved −5.1% last session · CoreWeave’s Next $10 Billion Revenue Opportunity Could Change Its Valuation
-EQX: Moved −7.9% last session
-ERO: Moved −12.0% last session
-FCX: Moved −6.8% last session · Freeport-McMoRan Inc. (FCX) Is a Trending Stock: Facts to Know Before Betting on It
-FSLY: Moved +12.8% last session · Comcast’s Network Powers Gaming’s Biggest Moments with Fastly, Delivering Faster Downloads and Less Lag
-GFI: Moved −7.6% last session
-GUNN: Moved −13.5% last session
-HBM: Moved −8.4% last session
-HMY: Moved −7.9% last session
-IAG: Moved −8.8% last session
-IRTC: Moved +9.1% last session · iRhythm Technologies Enters $100 Million Accelerated Share Repurchase Agreement
-KTB: Moved +6.7% last session
-LULU: Moved +8.0% last session · Will Lower Revenue Outlook Change Lululemon's (LULU) Narrative
-NEM: Moved −7.0% last session · Newmont (NEM) Drew A New Stake From Stanley Druckenmiller’s Family Office
-NTSK: Moved +9.5% last session
-PLBL: Moved +13.9% last session
-QLYS: Moved +8.9% last session · Cognizant Joins Qualys Global mROC Alliance to Deliver Managed Risk Operations for the Frontier AI Era
-RBLX: Moved +7.2% last session · Roblox (RBLX) Faces Near Term Bookings And Engagement Risks
+WMT: Earnings before the open today
+BABA: Earnings before the open today
+PANW: Premarket +9.4% · Reported after the close · Dow Jones Futures Rise, Techs Jump: Anthropic IPO To Debut After Pricing High; Palo Alto, Everpure Rally On…
+AMAT: Premarket +3.8% · ETFs Are Net Sellers of Applied Materials (AMAT) on Nov. 17
+AMD: Premarket +3.5% · iShares PHLX SOX Semiconductor (SOXX) Sells $24.6 Million More AMD on Tuesday
+ARM: Premarket +4.6% · Arm CEO Rene Haas Reportedly Approached By Recruitment Agency Hired By Nvidia Board
+ASML: Premarket +4.3% · Why ASML Holding (ASML)’s Monopoly in EUV Technology Gives It a Powerful Competitive Advantage
+AVGO: Premarket +3.1% · iShares A.I. Innovation and Tech Active ETF (BAI) Adds AMD and Broadcom on Nov. 17
+COIN: Premarket +3.7% · What Could Coinbase Global (COIN) Gain From Tokenized US Stocks Onchain?
+CRWD: Premarket +5.9% · CrowdStrike (CRWD) is Getting Investor Attention — Here’s Why
+GOOGL: Premarket +3.8%
+HOOD: Premarket +4.8%
+INTC: Premarket +4.8% · Intel and Microsoft agree long-term deal on Azure cloud hardware
+KLAC: Premarket +4.3%
+LRCX: Premarket +4.4% · Lam Research Corporation (LRCX) Retreated Amid Cyclical Peak Concerns
+MRVL: Premarket +4.7% · Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell
+MSTR: Premarket +4.9% · MSTR Stock Recovers Overnight After Dip – But Analyst Downgrades Strategy To 'Sell' As Bitcoin Premium Face…
+MU: Premarket +5.5% · ETFs Are Net Sellers of Micron Technology (MU) on Nov. 17
+SMCI: Premarket +4.3% · Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?
+SNDK: Premarket +5.5% · Prediction: This Will Be Sandisk’s Stock Price by the End of 2027
+STX: Premarket +5.4% · SanDisk Slides 4% Ahead of 8-for-1 Stock Split as NAND Glut Worries Linger; Micron Drops 3%, Seagate Edges …
+WDC: Premarket +5.1%
+AAOI: Premarket +5.1% · Applied Optoelectronics (AAOI) Could Be 63% Undervalued After $550 Million Stock Offering
+ACIW: Moved −10.2% last session · ACI Worldwide’s CEO heads out
+AKAM: Moved +8.3% last session · Can Akamai Stock Jump 40%?
+ARDT: Moved −18.9% last session · Eight Ardent Health Facilities Earn ‘A’ Hospital Safety Grades from The Leapfrog Group for Fall 2026 Gradin…
+ASTS: Premarket +5.9% · AST SpaceMobile Sinks 8% as New Offering Filing Revives Dilution Fears
+ATEN: Premarket +3.4% · A10 Networks (ATEN) Upgraded to Strong Buy: Here's Why
+CBRS: Premarket +3.5% · Cerebras Systems vs. IonQ: Which Technology Stock Is a Better Buy for 2027?
+CVI: Moved −11.2% last session
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-NFLX: short under 59.39 stop 59.86 2R 58.45 (212 sh)
-IWM: short under 267.82 stop 269.27 2R 264.92 (68 sh)
-SO: long over 94.29 stop 93.79 2R 95.29 (200 sh)
-XLI: short under 163.70 stop 164.61 2R 161.88 (109 sh)
-MSTR: short under 96.33 stop 97.83 2R 93.33 (66 sh)
-COIN: short under 114.06 stop 115.56 2R 111.06 (66 sh)
-JPM: short under 328.69 stop 330.19 2R 325.69 (66 sh)
-ABBV: long over 294.11 stop 292.61 2R 297.11 (66 sh)
-GLD: short under 351.96 stop 353.46 2R 348.96 (66 sh)
+HOOD: short under 67.54 stop 68.83 2R 64.96 (77 sh)
+SMCI: short under 23.74 stop 24.40 2R 22.42 (151 sh)
+OXY: short under 53.65 stop 54.15 2R 52.65 (200 sh)
+WMT: long over 127.82 stop 127.05 2R 129.36 (129 sh)
+IGV: short under 95.26 stop 96.05 2R 93.68 (126 sh)
+HAL: short under 31.36 stop 31.65 2R 30.78 (344 sh)
+ITB: long over 93.64 stop 92.80 2R 95.32 (119 sh)
+XHB: long over 101.68 stop 100.86 2R 103.32 (121 sh)
+PEP: long over 142.83 stop 141.90 2R 144.69 (107 sh)
+IWM: short under 267.84 stop 269.30 2R 264.92 (68 sh)
+XLI: short under 163.72 stop 164.61 2R 161.94 (112 sh)
+XLY: long over 120.03 stop 119.33 2R 121.43 (142 sh)
+XLU: long over 43.74 stop 43.59 2R 44.04 (666 sh)
+MSTR: short under 90.18 stop 91.68 2R 87.18 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
