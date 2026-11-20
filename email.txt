@@ -1,36 +1,36 @@
 Day-trade prep for Fri 11/20 (levels from the Nov 19 close)
 
 IN PLAY ON NEWS
-BSP: Reported after the close
-GAP: Premarket +4.0% · Reported after the close · Gap Shares Rise Nearly 4% as Third-Quarter Earnings Beat Expectations Despite Softer Sales Outlook
-INTU: Premarket −9.2% · Reported after the close · Intuit Shares Sink as Weak Outlook Overshadows Earnings Beat
-AMAT: Premarket −3.4%
-AMD: Premarket −6.0% · iShares A.I. Innovation and Tech Active ETF (BAI) Buys $14.3 Million More AMD on Nov. 18
-ARM: Premarket −4.8% · Arm Just Dropped 21% in a Month. Will ARM Stock Hit $150 or $200 First?
-INTC: Premarket −5.1% · Capital Group Core Equity (CGUS) Buys $25.4 Million More Intel on Nov. 18
-LRCX: Premarket −3.8%
-MRVL: Premarket −4.3% · Marvell Technology (MRVL) Settles AI Networking Patent Dispute And Clears A Key Risk
-MU: Premarket −4.4% · Micron CEO’s Nvidia message comes with warning for 2027
-SMCI: Premarket −4.0% · Who is Cenly Chen? Inside the Alleged Family Ties Between Nvidia, Supermicro, and Illicit GPU Sales
-SNDK: Premarket −88.3% · SNDK Stock Falls Overnight: NAND Price Forecast Turns Bearish For 2027, According To TrendForce
-STX: Premarket −4.9% · Seagate Stocks Jump 8.27% as Anthropic IPO Rekindles AI Storage Trade
-TSM: Premarket −4.1% · Taiwan Semiconductor Manufacturing Co Insider Bought Shares Worth $302,850, According to a Recent SEC Filing
-WDC: Premarket −5.0% · Arete Adjusts Price Target on Western Digital to $693 From $650
-AMBA: Premarket −3.3% · Ambarella Stock Soars on Reports NXP Semiconductors Deal Is Drawing to a Close
-ANT: Premarket −6.6% · Cathie Wood Buys $90 Million of Anthropic Stock While Trimming Nvidia
-BHVN: Moved +5.8% last session
-CPA: Moved +5.5% last session · Copa Holdings (CPA) Q3 2026 Earnings Call Transcript
-DAVE: Moved −11.5% last session
-DPC: Moved +7.1% last session
-INSM: Moved +20.6% last session · Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say
-KLAR: Moved −12.3% last session
-MANU: Moved −9.5% last session · Manchester United Stock Faces Earnings Miss After Revenue Growth
-MNSO: Moved −9.7% last session
-NBIS: Premarket −5.0% · CRWV, IREN, NBIS Stocks Extend Neocloud Selloff As Anthropic IPO Rally Fades – Michael Burry Takes A Victor…
-NTES: Premarket −5.7% · NetEase shares slump as Q3 earnings disappoint
-NTSK: Moved +5.5% last session · Why Did Netskope Stock Move?
-OKTA: Moved +5.7% last session · Okta Stocks Jump 8.14% as Cybersecurity Rally Extends Into Second Day
-PANW: Moved +6.4% last session · DZ Bank Adjusts Price Target on Palo Alto Networks to $400 From $405
+BKE: Moved +6.9% last session · Earnings before the open today · Buckle Q3 Earnings Call Highlights
+GAP: Moved +13.4% last session · Reported after the close · Gap Stock Rallies After Q3 Earnings Beat Estimates – Analyst Flags Challenges To Margin Expansion In FY27
+INTU: Moved −8.8% last session · Reported after the close · Intuit beats earnings estimates but cuts revenue forecast as it agrees to sell Mailchimp
+AAOI: Moved −14.5% last session · Applied Optoelectronics Sinks 7% as Optics Stocks Reverse Thursday’s Rally; Coherent Declines 4%, Lumentum …
+ABVX: Moved −12.5% last session
+APLD: Moved −15.7% last session · Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%
+BE: Moved −12.3% last session · Bloom Energy Tumbles 10% Despite BMO Upgrade With $230 Target; FuelCell Energy Slides 7%, Plug Power Drops 3%
+BGSI: Moved +5.4% last session
+BLTE: Moved −13.5% last session · Belite Bio shares slide as FDA extends tinlarebant review by three months
+CIFR: Moved −12.9% last session · Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic’s Debut Fails to Stop AI Selloff
+CLS: Moved −14.7% last session
+COHR: Moved −14.8% last session · Applied Optoelectronics Sinks 7% as Optics Stocks Reverse Thursday’s Rally; Coherent Declines 4%, Lumentum …
+CORZ: Moved −13.1% last session · Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%
+DOCN: Moved −13.7% last session
+FICO: Moved +5.3% last session · FICO Announces Availability of FICO® Preferred Program Through Xactus and XedaLink
+GIS: Moved +5.2% last session · Forget Walmart: General Mills Has More to Gain From Its Beat. Walmart Is 22% of Sales
+HUT: Moved −14.8% last session · Anthropic’s Record IPO Is Good News for Hut 8. Here’s the Number That Matters
+KVYO: Moved +6.2% last session
+ONTO: Moved −12.8% last session
+ORCL: Moved −7.0% last session · Global Multimodal Invoice Reconciliation Platform Market Report 2026: Forecast to 2030 | Capitalize on 13.9…
+PLMR: Moved +5.6% last session · Palomar Holdings, Inc. Announces 2027 Investor Day
+SKM: Moved −13.3% last session
+SPCX: Moved −6.9% last session · Prediction: $5,000 in SpaceX Will Be Worth This Much by 2040 If Elon Musk Solves Its Power Problem
+TTMI: Moved −14.5% last session
+CEG: Constellation Energy (CEG) Following Its Earnings Beat And Guidance Hike Looks Cheap Versus Fair Value
+COIN: Coinbase Sets Mid-2027 Goal to Write Its Own Event Contracts, Bloomberg Reports
+GS: Lincoln CEO Rob Brown to Speak at the 2026 Goldman Sachs Financial Services Conference
+INTC: Can INTC Capitalize on AI Growth Through Its Expanded Microsoft Deal?
+KLAC: Zacks Industry Outlook Highlights KLA and SiTime
+KO: Coca-Cola Europacific Partners PLC's Dividend Analysis
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 HOOD: short under 68.54 stop 69.76 2R 66.10 (81 sh)
