@@ -1,51 +1,53 @@
-Day-trade prep for Thu 11/19 (levels from the Nov 18 close)
+Day-trade prep for Fri 11/20 (levels from the Nov 19 close)
 
 IN PLAY ON NEWS
-WMT: Earnings before the open today
-CPA: Moved +5.9% last session · Reported after the close · Copa Holdings Q3 Earnings Beat on Strong Demand and Higher Yields
-FUTU: Moved +6.7% last session · Earnings before the open today · What Futu (FUTU) Said on Its Q3 Earnings Call
-KLIC: Moved −9.2% last session · Reported after the close · What Kulicke and Soffa Industries (KLIC) Said on Its Q4 Earnings Call
-MANU: Moved −7.4% last session · Earnings before the open today · Manchester United Shares Fall 7.5% as First-Quarter Revenue Misses Forecasts and Operating Loss Reaches £3 …
-NTES: Moved −9.3% last session · Earnings before the open today · NetEase Sinks 9% on Q3 Revenue Miss as Game Sales Fall 8% From Last Quarter
-P: Moved +9.9% last session · Reported after the close · Everpure Raises FY27 Revenue Outlook After Q3 Beat, But Barclays Cuts P Stock Target On Pricing Concerns
-PDD: Moved +12.0% last session · Earnings before the open today · PDD Stocks Jump 11.10% as Operating Profit Climbs 25% on Flat Revenue
-ROAD: Moved −8.8% last session · Earnings before the open today · Construction Partners Reports 31% Annual Revenue Growth to $3.67 Billion and Raises Fiscal 2027 Outlook Abo…
-SNEX: Moved −26.7% last session · Reported after the close · SNEX Q4 Earnings Miss Estimates Despite Revenue Growth, Stock Dips
-UGI: Moved −8.7% last session · Reported after the close · UGI (UGI) Reports Q4 Loss, Misses Revenue Estimates
-VVV: Moved +12.6% last session · Earnings before the open today · Correction: Valvoline Fiscal Q4 Adjusted Earnings Decline, Revenue Increases; Fiscal 2027 Outlook Introduced
-WSM: Moved −13.5% last session · Earnings before the open today · Williams-Sonoma Shares Fall After Fiscal Third Quarter Revenue Misses Estimates
-AMBA: Moved +9.9% last session
-ANT: Moved +19.6% last session · Anthropic IPO live: Anthropic stock begins trading at $111.50 per share in record offering
-BHVN: Moved +7.2% last session · Biohaven Reports Early Tumour Responses in Phase 1 Trial of Cancer Drug BHV-1530
-CI: Moved −6.0% last session
-DXC: Moved −7.2% last session · DXC Technology Forms Partnership With Cisco to Integrate Agentic AI Tools
-FISV: Moved −6.1% last session
-GRAL: Moved +5.8% last session · GRAIL: 3 Key Takeaways for Long-Term Investors
-INSM: Moved +17.7% last session · Update: Market Chatter: Sanofi Said to Consider Takeover of Insmed
-KLAR: Moved −9.8% last session · Klarna Stock Gets Mixed Price Target Revisions After Q3 Results – Here’s What Analysts See Ahead
-MNSO: Moved −9.1% last session
-NTSK: Moved +6.7% last session · Could You Have Spotted Netskope Stock's Doubling Early?
-OKTA: Moved +6.2% last session · Is Okta (OKTA) a Buy as Wall Street Analysts Look Optimistic?
-PACS: Moved −9.5% last session · PACS Group (PACS) Stock Could Be 39% Overvalued On Current Cash Flow
-PRIM: Moved −7.2% last session · Correction: Jefferies Downgrades Primoris Services to Hold From Buy
-PS: Moved −10.7% last session
-RBRK: Moved +6.0% last session · Why Did Rubrik Stock Jump?
-SLS: Moved −18.8% last session · Sellas Life Sciences Prices $150 Million Common Stock Offering; Shares Down Pre-Bell
+BSP: Reported after the close
+GAP: Premarket +4.0% · Reported after the close · Gap Shares Rise Nearly 4% as Third-Quarter Earnings Beat Expectations Despite Softer Sales Outlook
+INTU: Premarket −9.2% · Reported after the close · Intuit Shares Sink as Weak Outlook Overshadows Earnings Beat
+AMAT: Premarket −3.4%
+AMD: Premarket −6.0% · iShares A.I. Innovation and Tech Active ETF (BAI) Buys $14.3 Million More AMD on Nov. 18
+ARM: Premarket −4.8% · Arm Just Dropped 21% in a Month. Will ARM Stock Hit $150 or $200 First?
+INTC: Premarket −5.1% · Capital Group Core Equity (CGUS) Buys $25.4 Million More Intel on Nov. 18
+LRCX: Premarket −3.8%
+MRVL: Premarket −4.3% · Marvell Technology (MRVL) Settles AI Networking Patent Dispute And Clears A Key Risk
+MU: Premarket −4.4% · Micron CEO’s Nvidia message comes with warning for 2027
+SMCI: Premarket −4.0% · Who is Cenly Chen? Inside the Alleged Family Ties Between Nvidia, Supermicro, and Illicit GPU Sales
+SNDK: Premarket −88.3% · SNDK Stock Falls Overnight: NAND Price Forecast Turns Bearish For 2027, According To TrendForce
+STX: Premarket −4.9% · Seagate Stocks Jump 8.27% as Anthropic IPO Rekindles AI Storage Trade
+TSM: Premarket −4.1% · Taiwan Semiconductor Manufacturing Co Insider Bought Shares Worth $302,850, According to a Recent SEC Filing
+WDC: Premarket −5.0% · Arete Adjusts Price Target on Western Digital to $693 From $650
+AMBA: Premarket −3.3% · Ambarella Stock Soars on Reports NXP Semiconductors Deal Is Drawing to a Close
+ANT: Premarket −6.6% · Cathie Wood Buys $90 Million of Anthropic Stock While Trimming Nvidia
+BHVN: Moved +5.8% last session
+CPA: Moved +5.5% last session · Copa Holdings (CPA) Q3 2026 Earnings Call Transcript
+DAVE: Moved −11.5% last session
+DPC: Moved +7.1% last session
+INSM: Moved +20.6% last session · Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say
+KLAR: Moved −12.3% last session
+MANU: Moved −9.5% last session · Manchester United Stock Faces Earnings Miss After Revenue Growth
+MNSO: Moved −9.7% last session
+NBIS: Premarket −5.0% · CRWV, IREN, NBIS Stocks Extend Neocloud Selloff As Anthropic IPO Rally Fades – Michael Burry Takes A Victor…
+NTES: Premarket −5.7% · NetEase shares slump as Q3 earnings disappoint
+NTSK: Moved +5.5% last session · Why Did Netskope Stock Move?
+OKTA: Moved +5.7% last session · Okta Stocks Jump 8.14% as Cybersecurity Rally Extends Into Second Day
+PANW: Moved +6.4% last session · DZ Bank Adjusts Price Target on Palo Alto Networks to $400 From $405
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-HOOD: short under 67.54 stop 68.83 2R 64.96 (77 sh)
-SMCI: short under 23.74 stop 24.40 2R 22.42 (151 sh)
-OXY: short under 53.65 stop 54.15 2R 52.65 (200 sh)
-WMT: long over 127.82 stop 127.05 2R 129.36 (129 sh)
-IGV: short under 95.26 stop 96.05 2R 93.68 (126 sh)
-HAL: short under 31.36 stop 31.65 2R 30.78 (344 sh)
-ITB: long over 93.64 stop 92.80 2R 95.32 (119 sh)
-XHB: long over 101.68 stop 100.86 2R 103.32 (121 sh)
-PEP: long over 142.83 stop 141.90 2R 144.69 (107 sh)
-IWM: short under 267.84 stop 269.30 2R 264.92 (68 sh)
-XLI: short under 163.72 stop 164.61 2R 161.94 (112 sh)
-XLY: long over 120.03 stop 119.33 2R 121.43 (142 sh)
-XLU: long over 43.74 stop 43.59 2R 44.04 (666 sh)
-MSTR: short under 90.18 stop 91.68 2R 87.18 (66 sh)
+HOOD: short under 68.54 stop 69.76 2R 66.10 (81 sh)
+INTC: short under 54.83 stop 55.93 2R 52.63 (90 sh)
+SMCI: short under 23.69 stop 24.33 2R 22.41 (156 sh)
+GDX: short under 71.87 stop 72.85 2R 69.91 (102 sh)
+OXY: short under 53.24 stop 53.75 2R 52.22 (196 sh)
+KBH: long over 46.18 stop 45.68 2R 47.18 (200 sh)
+KBH: short under 45.14 stop 45.64 2R 44.14 (200 sh)
+DHI: long over 143.41 stop 141.95 2R 146.33 (68 sh)
+NFLX: short under 58.16 stop 58.64 2R 57.20 (208 sh)
+CVX: long over 208.16 stop 206.77 2R 210.94 (71 sh)
+CVX: short under 205.52 stop 206.91 2R 202.74 (71 sh)
+IWM: short under 263.69 stop 265.17 2R 260.73 (67 sh)
+XLI: short under 160.78 stop 161.70 2R 158.94 (108 sh)
+MSTR: short under 86.00 stop 87.50 2R 83.00 (66 sh)
+SOXX: short under 137.56 stop 139.06 2R 134.56 (66 sh)
+COIN: short under 108.75 stop 110.25 2R 105.75 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
