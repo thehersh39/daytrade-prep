@@ -1,36 +1,36 @@
 Day-trade prep for Mon 11/23 (levels from the Nov 20 close)
 
 IN PLAY ON NEWS
-HPE: Premarket +6.3% · Earnings after the close today · Why Is HPE Stock Up 6% Overnight?
-AMAT: Premarket +5.9% · Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy for 2027?
-AMD: Premarket +3.9% · Why Did AMD Stock Move?
-AMZN: Premarket +3.1%
-ARM: Premarket +8.2% · Arm CEO Rene Haas Affirms Long-Term Commitment to Lead Company’s Next Phase of Growth
-ASML: Premarket +5.9% · ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?
-AVGO: Premarket +4.8%
-CEG: Premarket +3.6% · 45% Upside for Constellation Energy? Barclays Thinks So, and Here’s How
-COIN: Premarket +4.7%
-CRWD: Premarket −8.2% · CrowdStrike to Buy Zscaler in $44 Billion All-Stock Deal. Why They’re Better Off Together.
-GOOGL: Premarket +5.3%
-HOOD: Premarket +5.9% · Why Robinhood’s Outlook Appears to Be Positive Despite the Kalshi Threat
-INTC: Premarket +5.3% · NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping T…
-KLAC: Premarket +6.5%
-LRCX: Premarket +6.4% · What Is Driving Lam Research Stock?
-META: Premarket +3.2% · DXL Expands Customer Reach Through Meta's AI Agent Muse with commercetools
-MRVL: Premarket +5.7% · What Triggered The Drop In Marvell Stock?
-MSFT: Premarket +3.0% · Cerence Collaborates With Microsoft to Bring Work Applications to Audi Vehicles
-MSTR: Premarket +8.3% · CrowdStrike, Zscaler, Anthropic, Sandisk, Strategy, Robinhood, and More Stocks That Explain Today’s Market
-MU: Premarket +4.6% · Why Is Micron Technology Stock Falling?
-NVDA: Premarket +7.5% · Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You.
-PLTR: Premarket +4.3% · ETFs Are Buying Palantir (PLTR) on Nov. 19
-QCOM: Premarket +4.3% · Qualcomm Is Down 42% and SK hynix Has Plunged 48% Amid the AI Sell-Off. Which Is the Better Stock to Buy fo…
-SMCI: Premarket +6.5% · Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain
-SNDK: Premarket +5.3% · Sandisk Just Split Its Stock 8-for-1. Is It Time to Buy?
-STX: Premarket +5.5% · ETFs Are Net Sellers of Seagate (STX) on Thursday
-TSLA: Premarket +4.3% · Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month. Elon Musk Says It's 'Something Special.'
-TSM: Premarket +6.6%
-UNH: Premarket −5.1% · TD Cowen Just Upgraded UnitedHealth Stock. Here’s Why.
-VST: Premarket +3.7% · 1 Compelling Reason to Buy Vistra Stock Before November Ends
+CRWD: Earnings before the open today
+CDLR: Moved −6.6% last session · Earnings after the close today · Cadeler A/S Q3 Earnings Call Highlights
+HPE: Moved +17.0% last session · Earnings after the close today · HPE Jumps 12.1% as Nvidia Rally Lifts AI Hardware Stocks on Monday
+ZS: Moved +15.7% last session · Earnings before the open today · CrowdStrike's Acquisition of Zscaler Creates 'Powerhouse,' Raises Bar Across Sector, Truist Says
+ALAB: Moved +20.5% last session · What Sent Astera Labs Stock Lower?
+APLD: Moved +19.7% last session · Why Is Applied Digital (APLD) Stock Up Today? $5.4B Hyperscaler Lease
+ASX: Moved +21.3% last session · UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout
+AXTI: Moved +22.9% last session
+CBRS: Moved +19.4% last session · Cathie Wood Just Bought $21 Million of Cerebras Across 2 ARK Funds
+CRDO: Moved +20.6% last session · Credo Technology’s AI rebound potential versus Broadcom
+CRWV: Moved +20.6% last session · Scott Galloway Says Neoclouds Are “Going to Default.” CoreWeave’s Interest Bill Is the Problem
+DELL: Moved +21.4% last session · Dell Wants Up to 45% More on Signed AI Deals. IREN Has a Big Problem
+IREN: Moved +23.6% last session · Dell Wants Up to 45% More on Signed AI Deals. IREN Has a Big Problem
+KYMR: Moved +30.1% last session · IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught
+MXL: Moved +21.1% last session · MaxLinear Jumps 22% as Chip Stocks Rally on Nvidia's CEO News on Monday
+PLBL: Moved −18.9% last session · Polibeli Stock Sinks 18% Without Company-Specific News on Monday
+SITM: Moved +20.6% last session · SiTime Jumps 17.7% as Chip Stocks Rally on Nvidia CEO Return on Monday
+SKHY: Moved +19.5% last session
+UMC: Moved +19.8% last session · UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout
+VKTX: Moved +11.5% last session · Viking Therapeutics (VKTX) Stock Is Up 11.5% Today Without Company News
+VVX: Moved −5.9% last session · BofA Securities Downgrades V2X to Underperform From Buy, Cuts Price Target to $73 From $93
+AMAT: Applied Materials Stocks Jump 15.37% as Record Guidance Meets the Chip Rebound
+COP: ConocoPhillips Strikes $4.4 Billion North Sea Deal. US Oil Giant Set To Exit Norway After 50 Years.
+HD: The Home Depot (HD) Shares Fall as Depressed Home Turnover Weighs on Outlook
+KO: EU Probes Coca-Cola Bottler, Citing Antitrust Concerns
+LEN: Greg Abel Nearly Doubled Berkshire’s Lennar Stake and Added a $689 Million IPO Position
+LRCX: Why Is Lam Research (LRCX) Stock Up Today? Nvidia's CEO News Lifts Chip Stocks
+MRK: Merck (MRK) Ties New AI Oncology Discovery Deal To Future Pipeline Growth
+MSTR: Strategy Boosts Preferred Buyback Budget to $4 Billion
+NEE: DOJ closes NextEra-Dominion antitrust probe as state hearings continue
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 GDX: short under 67.99 stop 68.98 2R 66.01 (101 sh)
