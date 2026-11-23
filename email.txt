@@ -1,53 +1,51 @@
-Day-trade prep for Fri 11/20 (levels from the Nov 19 close)
+Day-trade prep for Mon 11/23 (levels from the Nov 20 close)
 
 IN PLAY ON NEWS
-BKE: Moved +6.9% last session · Earnings before the open today · Buckle Q3 Earnings Call Highlights
-GAP: Moved +13.4% last session · Reported after the close · Gap Stock Rallies After Q3 Earnings Beat Estimates – Analyst Flags Challenges To Margin Expansion In FY27
-INTU: Moved −8.8% last session · Reported after the close · Intuit beats earnings estimates but cuts revenue forecast as it agrees to sell Mailchimp
-AAOI: Moved −14.5% last session · Applied Optoelectronics Sinks 7% as Optics Stocks Reverse Thursday’s Rally; Coherent Declines 4%, Lumentum …
-ABVX: Moved −12.5% last session
-APLD: Moved −15.7% last session · Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%
-BE: Moved −12.3% last session · Bloom Energy Tumbles 10% Despite BMO Upgrade With $230 Target; FuelCell Energy Slides 7%, Plug Power Drops 3%
-BGSI: Moved +5.4% last session
-BLTE: Moved −13.5% last session · Belite Bio shares slide as FDA extends tinlarebant review by three months
-CIFR: Moved −12.9% last session · Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic’s Debut Fails to Stop AI Selloff
-CLS: Moved −14.7% last session
-COHR: Moved −14.8% last session · Applied Optoelectronics Sinks 7% as Optics Stocks Reverse Thursday’s Rally; Coherent Declines 4%, Lumentum …
-CORZ: Moved −13.1% last session · Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%
-DOCN: Moved −13.7% last session
-FICO: Moved +5.3% last session · FICO Announces Availability of FICO® Preferred Program Through Xactus and XedaLink
-GIS: Moved +5.2% last session · Forget Walmart: General Mills Has More to Gain From Its Beat. Walmart Is 22% of Sales
-HUT: Moved −14.8% last session · Anthropic’s Record IPO Is Good News for Hut 8. Here’s the Number That Matters
-KVYO: Moved +6.2% last session
-ONTO: Moved −12.8% last session
-ORCL: Moved −7.0% last session · Global Multimodal Invoice Reconciliation Platform Market Report 2026: Forecast to 2030 | Capitalize on 13.9…
-PLMR: Moved +5.6% last session · Palomar Holdings, Inc. Announces 2027 Investor Day
-SKM: Moved −13.3% last session
-SPCX: Moved −6.9% last session · Prediction: $5,000 in SpaceX Will Be Worth This Much by 2040 If Elon Musk Solves Its Power Problem
-TTMI: Moved −14.5% last session
-CEG: Constellation Energy (CEG) Following Its Earnings Beat And Guidance Hike Looks Cheap Versus Fair Value
-COIN: Coinbase Sets Mid-2027 Goal to Write Its Own Event Contracts, Bloomberg Reports
-GS: Lincoln CEO Rob Brown to Speak at the 2026 Goldman Sachs Financial Services Conference
-INTC: Can INTC Capitalize on AI Growth Through Its Expanded Microsoft Deal?
-KLAC: Zacks Industry Outlook Highlights KLA and SiTime
-KO: Coca-Cola Europacific Partners PLC's Dividend Analysis
+HPE: Premarket +6.3% · Earnings after the close today · Why Is HPE Stock Up 6% Overnight?
+AMAT: Premarket +5.9% · Applied Materials vs. Nvidia: Which Tech Stock Is a Better Buy for 2027?
+AMD: Premarket +3.9% · Why Did AMD Stock Move?
+AMZN: Premarket +3.1%
+ARM: Premarket +8.2% · Arm CEO Rene Haas Affirms Long-Term Commitment to Lead Company’s Next Phase of Growth
+ASML: Premarket +5.9% · ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027?
+AVGO: Premarket +4.8%
+CEG: Premarket +3.6% · 45% Upside for Constellation Energy? Barclays Thinks So, and Here’s How
+COIN: Premarket +4.7%
+CRWD: Premarket −8.2% · CrowdStrike to Buy Zscaler in $44 Billion All-Stock Deal. Why They’re Better Off Together.
+GOOGL: Premarket +5.3%
+HOOD: Premarket +5.9% · Why Robinhood’s Outlook Appears to Be Positive Despite the Kalshi Threat
+INTC: Premarket +5.3% · NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping T…
+KLAC: Premarket +6.5%
+LRCX: Premarket +6.4% · What Is Driving Lam Research Stock?
+META: Premarket +3.2% · DXL Expands Customer Reach Through Meta's AI Agent Muse with commercetools
+MRVL: Premarket +5.7% · What Triggered The Drop In Marvell Stock?
+MSFT: Premarket +3.0% · Cerence Collaborates With Microsoft to Bring Work Applications to Audi Vehicles
+MSTR: Premarket +8.3% · CrowdStrike, Zscaler, Anthropic, Sandisk, Strategy, Robinhood, and More Stocks That Explain Today’s Market
+MU: Premarket +4.6% · Why Is Micron Technology Stock Falling?
+NVDA: Premarket +7.5% · Where Will Nvidia Stock Be in 1 Year? Wall Street's Answer Might Surprise You.
+PLTR: Premarket +4.3% · ETFs Are Buying Palantir (PLTR) on Nov. 19
+QCOM: Premarket +4.3% · Qualcomm Is Down 42% and SK hynix Has Plunged 48% Amid the AI Sell-Off. Which Is the Better Stock to Buy fo…
+SMCI: Premarket +6.5% · Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain
+SNDK: Premarket +5.3% · Sandisk Just Split Its Stock 8-for-1. Is It Time to Buy?
+STX: Premarket +5.5% · ETFs Are Net Sellers of Seagate (STX) on Thursday
+TSLA: Premarket +4.3% · Tesla FSD V15 Rolling Out, Goes 'Wide' Next Month. Elon Musk Says It's 'Something Special.'
+TSM: Premarket +6.6%
+UNH: Premarket −5.1% · TD Cowen Just Upgraded UnitedHealth Stock. Here’s Why.
+VST: Premarket +3.7% · 1 Compelling Reason to Buy Vistra Stock Before November Ends
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-HOOD: short under 68.54 stop 69.76 2R 66.10 (81 sh)
-INTC: short under 54.83 stop 55.93 2R 52.63 (90 sh)
-SMCI: short under 23.69 stop 24.33 2R 22.41 (156 sh)
-GDX: short under 71.87 stop 72.85 2R 69.91 (102 sh)
-OXY: short under 53.24 stop 53.75 2R 52.22 (196 sh)
-KBH: long over 46.18 stop 45.68 2R 47.18 (200 sh)
-KBH: short under 45.14 stop 45.64 2R 44.14 (200 sh)
-DHI: long over 143.41 stop 141.95 2R 146.33 (68 sh)
-NFLX: short under 58.16 stop 58.64 2R 57.20 (208 sh)
-CVX: long over 208.16 stop 206.77 2R 210.94 (71 sh)
-CVX: short under 205.52 stop 206.91 2R 202.74 (71 sh)
-IWM: short under 263.69 stop 265.17 2R 260.73 (67 sh)
-XLI: short under 160.78 stop 161.70 2R 158.94 (108 sh)
-MSTR: short under 86.00 stop 87.50 2R 83.00 (66 sh)
-SOXX: short under 137.56 stop 139.06 2R 134.56 (66 sh)
-COIN: short under 108.75 stop 110.25 2R 105.75 (66 sh)
+GDX: short under 67.99 stop 68.98 2R 66.01 (101 sh)
+INTC: short under 51.08 stop 52.16 2R 48.92 (92 sh)
+HOOD: short under 61.73 stop 63.00 2R 59.19 (78 sh)
+NFLX: short under 56.54 stop 57.05 2R 55.52 (196 sh)
+IGV: short under 91.07 stop 91.90 2R 89.41 (120 sh)
+MRK: short under 133.06 stop 134.17 2R 130.84 (90 sh)
+HAL: short under 30.35 stop 30.64 2R 29.77 (344 sh)
+XLI: short under 155.65 stop 156.62 2R 153.71 (103 sh)
+XLC: short under 99.70 stop 100.35 2R 98.40 (153 sh)
+RSP: short under 206.81 stop 207.74 2R 204.95 (107 sh)
+SOXX: short under 122.15 stop 123.65 2R 119.15 (66 sh)
+XLK: short under 148.04 stop 149.54 2R 145.04 (66 sh)
+MSTR: short under 77.67 stop 79.17 2R 74.67 (66 sh)
+COIN: short under 101.66 stop 103.16 2R 98.66 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
