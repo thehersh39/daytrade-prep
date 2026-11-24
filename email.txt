@@ -1,36 +1,36 @@
 Day-trade prep for Tue 11/24 (levels from the Nov 23 close)
 
 IN PLAY ON NEWS
-A: Premarket +6.2% · Reported after the close · Leerink Partners Adjusts Agilent Technologies Price Target to $210 From $170
-ADI: Premarket −10.8% · Earnings before the open today · Analog Devices unveils lower-than-expected first-quarter earnings forecast
-ANF: Premarket +10.7% · Earnings before the open today · Abercrombie & Fitch Fiscal Q3 Earnings, Net Sales Increase; Fiscal 2027 EPS Guidance Lifted
-BBY: Premarket +3.1% · Earnings before the open today · Best Buy stock climbs on earnings beat, raised outlook
-BURL: Premarket +6.3% · Earnings before the open today · Burlington Stores Fiscal Q3 Adjusted Earnings Fall, Revenue Increases; 2026 Outlook Updated
-CDLR: Moved −7.7% last session · Reported after the close · Cadeler AS (CDLR) (Q3 2026) Earnings Call Highlights: Revenue Jumps 65% as Menck Integration Begins
-DELL: Premarket −7.3% · Earnings after the close today · Dell Just Dropped 26% in a Month. Steve Eisman Warns It Will “Slow Along With Nvidia.” Is He Right?
-DKS: Premarket +13.2% · Earnings before the open today · Dick's Sporting Goods (DKS) Q3 Earnings and Revenues Surpass Estimates
-DLTR: Premarket +7.1% · Earnings before the open today · DLTR Stock Rockets To Over 2-Year High After Q3 Beat And Raise: CEO Says Traffic Growth Drove Momentum
-DY: Premarket +4.4% · Earnings before the open today · Dycom Industries Fiscal Q3 Adjusted Earnings, Revenue Rise; Buyback Authorized
-HPE: Premarket −13.1% · Reported after the close · Raymond James Adjusts Price Target on Hewlett Packard Enterprise to $84 From $86
-KSS: Premarket +7.5% · Earnings before the open today
-MDT: Premarket −4.6% · Earnings before the open today · Medtronic reaffirms guidance after broadly in-line fiscal Q2 print
-MMED: Earnings before the open today
-SJM: Premarket −3.3% · Earnings before the open today · Smucker (SJM) Tops Q2 Earnings Estimates
-SMTC: Premarket −9.4% · Reported after the close · Morgan Stanley Adjusts Semtech Price Target to $157 From $176, Maintains Equal Weight Rating
-ZM: Moved +5.9% last session · Reported after the close · Morgan Stanley Adjusts Zoom Communications Price Target to $108 From $107, Maintains Equal Weight Rating
-AMAT: Premarket −5.2% · Applied Materials Is Up 33% in 2026 but 54% Below Its June High. Time to Buy?
-AMD: Premarket −5.5% · Stock Market Today: Tech Futures Sell Off After Big Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)
-ARM: Premarket −5.3% · Why Is Arm Holdings (ARM) Locking In Rene Haas Through 2033?
-AVGO: Premarket −4.4% · BNP Paribas Adjusts Broadcom Price Target to $485 From $540
-COIN: Premarket −3.2% · Kalshi Says New York Threatens Its $22 Billion Business. Coinbase Has a Problem Too
-HOOD: Premarket −3.3% · Has Robinhood Stock Become A Different Bet?
-INTC: Premarket −6.6% · Intel Is Up 73% in a Year Despite Its October Crash. CEO Lip-Bu Tan: “I Just Cannot Supply Enough”
-KLAC: Premarket −5.4% · Should I Buy KLA Stock At This Price?
-LRCX: Premarket −5.2% · Lam Research Stock What Record Revenue And AI Demand Mean Now
-MRVL: Premarket −5.7% · Marvell Stock Fell Almost 12% in a Single Day. I'd Consider Buying Shares Now.
-MSTR: Premarket −3.9% · LIVE – Bitcoin Overnight Rally Roundtripped: Saylor and Strategy Didn’t Flinch
-MU: Premarket −7.0% · Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell; Hewlett Packard, Micron to Fall
-NVDA: Premarket −5.7% · Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO
+ADI: Moved −16.7% last session · Earnings before the open today · Analog Devices earnings analysis: questions answered and next catalysts
+AMBA: Moved −15.4% last session · Earnings after the close today · Why Ambarella (AMBA) Stock Is Down Today: Chip Stocks Sell Off
+AMTM: Moved +19.6% last session · Reported after the close · Amentum (AMTM) Stock Is Up 14.5% Today: Earnings Beat, FY27 Guidance
+ANF: Moved +23.5% last session · Earnings before the open today · Abercrombie & Fitch shares jump as earnings beat estimates and outlook rises
+DELL: Moved −10.7% last session · Earnings after the close today · Is Gross Profit Dell Stock's Real Test Tonight?
+DKS: Moved +17.5% last session · Earnings before the open today
+DLTR: Moved +11.6% last session · Earnings before the open today · Why Dollar Tree Stock Popped Today
+DY: Moved −15.8% last session · Earnings before the open today · Dycom Industries (DY) Earnings Beat And Buyback Put Valuation Back In Focus
+HPE: Moved −16.1% last session · Reported after the close · HPE earnings analysis: questions answered and next catalysts
+KSS: Moved +15.9% last session · Earnings before the open today
+MDT: Earnings before the open today
+MMED: Moved +14.3% last session · Earnings before the open today · Minimed Group Inc (MMED) Q2 2027 Earnings Call Highlights: FDA Clearance for Minimed Fit, 10% ...
+SMTC: Moved −17.4% last session · Reported after the close · Semtech Delivers Another Solid Quarter Amid Strong Optical Demand, Morgan Stanley Says
+ABVX: Moved +13.0% last session · How Short Seller Rebuttal At Abivax (ENXTPA:ABVX) Has Changed Its Investment Story
+ALAB: Moved −12.3% last session · Astera Labs (ALAB) Shares Are on Fire. What’s Behind the Surge?
+AMGN: Moved +5.3% last session · Novo vs. Amgen: Which Healthcare Stock Is the Better Buy Now?
+ANT: Moved −8.9% last session · Anthropic Stock Sinks Below IPO Price. What History Says Happens Next.
+AXTI: Moved −15.8% last session · AXT Inc. Just Exploded 24% After a Brutal Losing Streak
+CAVA: Moved +6.3% last session · CAVA's 2027 Outlook: High-Growth Mediterranean Restaurant Chain Plans to Double Its Locations
+CELC: Moved +16.3% last session · Celcuity (CELC) Stock Is Up 11.0% Today Without Company News
+CIFR: Moved −11.5% last session · Morgan Stanley says new chip export rule favors US data center developers TeraWulf, Hut 8, Cipher
+COGT: Moved +19.8% last session · COGT Stock Heads For Best Session In Over A Year After FDA Approves Gastrointestinal Cancer Drug
+CRDO: Moved −11.6% last session · Credo's Optical Expansion: Can It Gain Ground Against Rivals?
+CRWV: Moved −12.5% last session · SpaceX Falls 4%, CoreWeave Down 13%, Nebius Down 11% as AI Stocks Give Back Nvidia Rally
+FRVO: Moved −12.0% last session
+GILD: Moved +5.3% last session · GILD, KYMR Stocks Hit Record Highs – Wall Street Backs Gilead's Resilience, Kymera's Eczema Data
+IMNM: Moved +14.0% last session
+INSM: Moved +14.2% last session · 3 Pharma Stocks That Could Benefit From Sanofi’s Insmed Deal
+IREN: Moved −12.3% last session · IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440…
+IRON: Moved +13.9% last session · Disc Medicine (IRON) Stock Is Up 8.5% Today Without Company News
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 SLB: short under 46.04 stop 46.49 2R 45.14 (222 sh)
