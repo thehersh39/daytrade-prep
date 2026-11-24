@@ -1,51 +1,54 @@
-Day-trade prep for Mon 11/23 (levels from the Nov 20 close)
+Day-trade prep for Tue 11/24 (levels from the Nov 23 close)
 
 IN PLAY ON NEWS
-CRWD: Earnings before the open today
-CDLR: Moved −6.6% last session · Earnings after the close today · Cadeler A/S Q3 Earnings Call Highlights
-HPE: Moved +17.0% last session · Earnings after the close today · HPE Jumps 12.1% as Nvidia Rally Lifts AI Hardware Stocks on Monday
-ZS: Moved +15.7% last session · Earnings before the open today · CrowdStrike's Acquisition of Zscaler Creates 'Powerhouse,' Raises Bar Across Sector, Truist Says
-ALAB: Moved +20.5% last session · What Sent Astera Labs Stock Lower?
-APLD: Moved +19.7% last session · Why Is Applied Digital (APLD) Stock Up Today? $5.4B Hyperscaler Lease
-ASX: Moved +21.3% last session · UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout
-AXTI: Moved +22.9% last session
-CBRS: Moved +19.4% last session · Cathie Wood Just Bought $21 Million of Cerebras Across 2 ARK Funds
-CRDO: Moved +20.6% last session · Credo Technology’s AI rebound potential versus Broadcom
-CRWV: Moved +20.6% last session · Scott Galloway Says Neoclouds Are “Going to Default.” CoreWeave’s Interest Bill Is the Problem
-DELL: Moved +21.4% last session · Dell Wants Up to 45% More on Signed AI Deals. IREN Has a Big Problem
-IREN: Moved +23.6% last session · Dell Wants Up to 45% More on Signed AI Deals. IREN Has a Big Problem
-KYMR: Moved +30.1% last session · IBD Stock Of The Day Regeneron Shrugs Off Kymera's Dupixent Onslaught
-MXL: Moved +21.1% last session · MaxLinear Jumps 22% as Chip Stocks Rally on Nvidia's CEO News on Monday
-PLBL: Moved −18.9% last session · Polibeli Stock Sinks 18% Without Company-Specific News on Monday
-SITM: Moved +20.6% last session · SiTime Jumps 17.7% as Chip Stocks Rally on Nvidia CEO Return on Monday
-SKHY: Moved +19.5% last session
-UMC: Moved +19.8% last session · UMC Soars 21%, ASE Up 23% as Taiwan Bans Short Sales to Halt AI Chip Rout
-VKTX: Moved +11.5% last session · Viking Therapeutics (VKTX) Stock Is Up 11.5% Today Without Company News
-VVX: Moved −5.9% last session · BofA Securities Downgrades V2X to Underperform From Buy, Cuts Price Target to $73 From $93
-AMAT: Applied Materials Stocks Jump 15.37% as Record Guidance Meets the Chip Rebound
-COP: ConocoPhillips Strikes $4.4 Billion North Sea Deal. US Oil Giant Set To Exit Norway After 50 Years.
-HD: The Home Depot (HD) Shares Fall as Depressed Home Turnover Weighs on Outlook
-KO: EU Probes Coca-Cola Bottler, Citing Antitrust Concerns
-LEN: Greg Abel Nearly Doubled Berkshire’s Lennar Stake and Added a $689 Million IPO Position
-LRCX: Why Is Lam Research (LRCX) Stock Up Today? Nvidia's CEO News Lifts Chip Stocks
-MRK: Merck (MRK) Ties New AI Oncology Discovery Deal To Future Pipeline Growth
-MSTR: Strategy Boosts Preferred Buyback Budget to $4 Billion
-NEE: DOJ closes NextEra-Dominion antitrust probe as state hearings continue
+A: Premarket +6.2% · Reported after the close · Leerink Partners Adjusts Agilent Technologies Price Target to $210 From $170
+ADI: Premarket −10.8% · Earnings before the open today · Analog Devices unveils lower-than-expected first-quarter earnings forecast
+ANF: Premarket +10.7% · Earnings before the open today · Abercrombie & Fitch Fiscal Q3 Earnings, Net Sales Increase; Fiscal 2027 EPS Guidance Lifted
+BBY: Premarket +3.1% · Earnings before the open today · Best Buy stock climbs on earnings beat, raised outlook
+BURL: Premarket +6.3% · Earnings before the open today · Burlington Stores Fiscal Q3 Adjusted Earnings Fall, Revenue Increases; 2026 Outlook Updated
+CDLR: Moved −7.7% last session · Reported after the close · Cadeler AS (CDLR) (Q3 2026) Earnings Call Highlights: Revenue Jumps 65% as Menck Integration Begins
+DELL: Premarket −7.3% · Earnings after the close today · Dell Just Dropped 26% in a Month. Steve Eisman Warns It Will “Slow Along With Nvidia.” Is He Right?
+DKS: Premarket +13.2% · Earnings before the open today · Dick's Sporting Goods (DKS) Q3 Earnings and Revenues Surpass Estimates
+DLTR: Premarket +7.1% · Earnings before the open today · DLTR Stock Rockets To Over 2-Year High After Q3 Beat And Raise: CEO Says Traffic Growth Drove Momentum
+DY: Premarket +4.4% · Earnings before the open today · Dycom Industries Fiscal Q3 Adjusted Earnings, Revenue Rise; Buyback Authorized
+HPE: Premarket −13.1% · Reported after the close · Raymond James Adjusts Price Target on Hewlett Packard Enterprise to $84 From $86
+KSS: Premarket +7.5% · Earnings before the open today
+MDT: Premarket −4.6% · Earnings before the open today · Medtronic reaffirms guidance after broadly in-line fiscal Q2 print
+MMED: Earnings before the open today
+SJM: Premarket −3.3% · Earnings before the open today · Smucker (SJM) Tops Q2 Earnings Estimates
+SMTC: Premarket −9.4% · Reported after the close · Morgan Stanley Adjusts Semtech Price Target to $157 From $176, Maintains Equal Weight Rating
+ZM: Moved +5.9% last session · Reported after the close · Morgan Stanley Adjusts Zoom Communications Price Target to $108 From $107, Maintains Equal Weight Rating
+AMAT: Premarket −5.2% · Applied Materials Is Up 33% in 2026 but 54% Below Its June High. Time to Buy?
+AMD: Premarket −5.5% · Stock Market Today: Tech Futures Sell Off After Big Market Surge; AMD, Anthropic, Nvidia Dive (Live Coverage)
+ARM: Premarket −5.3% · Why Is Arm Holdings (ARM) Locking In Rene Haas Through 2033?
+AVGO: Premarket −4.4% · BNP Paribas Adjusts Broadcom Price Target to $485 From $540
+COIN: Premarket −3.2% · Kalshi Says New York Threatens Its $22 Billion Business. Coinbase Has a Problem Too
+HOOD: Premarket −3.3% · Has Robinhood Stock Become A Different Bet?
+INTC: Premarket −6.6% · Intel Is Up 73% in a Year Despite Its October Crash. CEO Lip-Bu Tan: “I Just Cannot Supply Enough”
+KLAC: Premarket −5.4% · Should I Buy KLA Stock At This Price?
+LRCX: Premarket −5.2% · Lam Research Stock What Record Revenue And AI Demand Mean Now
+MRVL: Premarket −5.7% · Marvell Stock Fell Almost 12% in a Single Day. I'd Consider Buying Shares Now.
+MSTR: Premarket −3.9% · LIVE – Bitcoin Overnight Rally Roundtripped: Saylor and Strategy Didn’t Flinch
+MU: Premarket −7.0% · Social Buzz: Wallstreetbets Stocks Mostly Lower Pre-Bell; Hewlett Packard, Micron to Fall
+NVDA: Premarket −5.7% · Nvidia live updates: Nvidia stock falls 5% following huge rally after board reinstated Jensen Huang as CEO
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-GDX: short under 67.99 stop 68.98 2R 66.01 (101 sh)
-INTC: short under 51.08 stop 52.16 2R 48.92 (92 sh)
-HOOD: short under 61.73 stop 63.00 2R 59.19 (78 sh)
-NFLX: short under 56.54 stop 57.05 2R 55.52 (196 sh)
-IGV: short under 91.07 stop 91.90 2R 89.41 (120 sh)
-MRK: short under 133.06 stop 134.17 2R 130.84 (90 sh)
-HAL: short under 30.35 stop 30.64 2R 29.77 (344 sh)
-XLI: short under 155.65 stop 156.62 2R 153.71 (103 sh)
-XLC: short under 99.70 stop 100.35 2R 98.40 (153 sh)
-RSP: short under 206.81 stop 207.74 2R 204.95 (107 sh)
-SOXX: short under 122.15 stop 123.65 2R 119.15 (66 sh)
-XLK: short under 148.04 stop 149.54 2R 145.04 (66 sh)
-MSTR: short under 77.67 stop 79.17 2R 74.67 (66 sh)
-COIN: short under 101.66 stop 103.16 2R 98.66 (66 sh)
+SLB: short under 46.04 stop 46.49 2R 45.14 (222 sh)
+WMT: long over 130.05 stop 129.24 2R 131.67 (123 sh)
+XLV: long over 180.12 stop 179.14 2R 182.08 (102 sh)
+ITB: long over 93.43 stop 92.63 2R 95.03 (125 sh)
+MRK: short under 133.89 stop 134.96 2R 131.75 (93 sh)
+TOL: long over 146.94 stop 145.59 2R 149.64 (74 sh)
+DHI: long over 147.52 stop 146.17 2R 150.22 (74 sh)
+PHM: long over 126.58 stop 125.44 2R 128.86 (87 sh)
+PHM: short under 123.40 stop 124.54 2R 121.12 (87 sh)
+XLU: long over 43.37 stop 43.20 2R 43.71 (588 sh)
+XLU: short under 42.80 stop 42.97 2R 42.46 (588 sh)
+PG: long over 170.69 stop 169.82 2R 172.43 (114 sh)
+RSP: long over 213.32 stop 212.32 2R 215.32 (100 sh)
+RSP: short under 210.69 stop 211.69 2R 208.69 (100 sh)
+DUK: long over 129.81 stop 129.22 2R 130.99 (169 sh)
+TLT: long over 81.76 stop 81.56 2R 82.16 (500 sh)
+COIN: short under 107.12 stop 108.62 2R 104.12 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
