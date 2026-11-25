@@ -1,54 +1,52 @@
-Day-trade prep for Tue 11/24 (levels from the Nov 23 close)
+Day-trade prep for Wed 11/25 (levels from the Nov 24 close)
 
 IN PLAY ON NEWS
-ADI: Moved −16.7% last session · Earnings before the open today · Analog Devices earnings analysis: questions answered and next catalysts
-AMBA: Moved −15.4% last session · Earnings after the close today · Why Ambarella (AMBA) Stock Is Down Today: Chip Stocks Sell Off
-AMTM: Moved +19.6% last session · Reported after the close · Amentum (AMTM) Stock Is Up 14.5% Today: Earnings Beat, FY27 Guidance
-ANF: Moved +23.5% last session · Earnings before the open today · Abercrombie & Fitch shares jump as earnings beat estimates and outlook rises
-DELL: Moved −10.7% last session · Earnings after the close today · Is Gross Profit Dell Stock's Real Test Tonight?
-DKS: Moved +17.5% last session · Earnings before the open today
-DLTR: Moved +11.6% last session · Earnings before the open today · Why Dollar Tree Stock Popped Today
-DY: Moved −15.8% last session · Earnings before the open today · Dycom Industries (DY) Earnings Beat And Buyback Put Valuation Back In Focus
-HPE: Moved −16.1% last session · Reported after the close · HPE earnings analysis: questions answered and next catalysts
-KSS: Moved +15.9% last session · Earnings before the open today
-MDT: Earnings before the open today
-MMED: Moved +14.3% last session · Earnings before the open today · Minimed Group Inc (MMED) Q2 2027 Earnings Call Highlights: FDA Clearance for Minimed Fit, 10% ...
-SMTC: Moved −17.4% last session · Reported after the close · Semtech Delivers Another Solid Quarter Amid Strong Optical Demand, Morgan Stanley Says
-ABVX: Moved +13.0% last session · How Short Seller Rebuttal At Abivax (ENXTPA:ABVX) Has Changed Its Investment Story
-ALAB: Moved −12.3% last session · Astera Labs (ALAB) Shares Are on Fire. What’s Behind the Surge?
-AMGN: Moved +5.3% last session · Novo vs. Amgen: Which Healthcare Stock Is the Better Buy Now?
-ANT: Moved −8.9% last session · Anthropic Stock Sinks Below IPO Price. What History Says Happens Next.
-AXTI: Moved −15.8% last session · AXT Inc. Just Exploded 24% After a Brutal Losing Streak
-CAVA: Moved +6.3% last session · CAVA's 2027 Outlook: High-Growth Mediterranean Restaurant Chain Plans to Double Its Locations
-CELC: Moved +16.3% last session · Celcuity (CELC) Stock Is Up 11.0% Today Without Company News
-CIFR: Moved −11.5% last session · Morgan Stanley says new chip export rule favors US data center developers TeraWulf, Hut 8, Cipher
-COGT: Moved +19.8% last session · COGT Stock Heads For Best Session In Over A Year After FDA Approves Gastrointestinal Cancer Drug
-CRDO: Moved −11.6% last session · Credo's Optical Expansion: Can It Gain Ground Against Rivals?
-CRWV: Moved −12.5% last session · SpaceX Falls 4%, CoreWeave Down 13%, Nebius Down 11% as AI Stocks Give Back Nvidia Rally
-FRVO: Moved −12.0% last session
-GILD: Moved +5.3% last session · GILD, KYMR Stocks Hit Record Highs – Wall Street Backs Gilead's Resilience, Kymera's Eczema Data
-IMNM: Moved +14.0% last session
-INSM: Moved +14.2% last session · 3 Pharma Stocks That Could Benefit From Sanofi’s Insmed Deal
-IREN: Moved −12.3% last session · IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440…
-IRON: Moved +13.9% last session · Disc Medicine (IRON) Stock Is Up 8.5% Today Without Company News
+DE: Earnings before the open today
+DELL: Premarket −4.5% · Reported after the close · Dell's Infrastructure Business Momentum Amid Strong AI Server Demand Drives Higher Full-Year Outlook
+LI: Premarket +6.7% · Earnings before the open today · Li Auto shares up in premarket trade after Q3 loss narrows, Q4 delivery forecast
+NTNX: Premarket −13.9% · Reported after the close · BofA Securities Downgrades Nutanix to Neutral, Price Target is $62
+URBN: Premarket −12.4% · Reported after the close · Morgan Stanley Downgrades Urban Outfitters to Equal Weight From Overweight, $80 Price Target
+WDAY: Premarket −4.7% · Reported after the close · Workday shares sink 10% premarket as softer outlook overshadows Q3 beat
+AMAT: Premarket −5.8% · Applied Materials (AMAT) Stock Sees Fair Value Cut As Analysts Trim Targets
+AMD: Premarket −5.4% · AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen
+ARM: Premarket −6.1% · Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033
+ASML: Premarket −4.9% · ETFs Are Buying ASML (ASML) on Nov. 23
+AVGO: Premarket −4.2% · Broadcom Bought $1 Billion Worth of Anthropic’s IPO, and It Has Tens of Billions More Riding on Its Success.
+CRWD: Premarket −4.0% · CrowdStrike CEO Says Security Has Gone “From the Brakes to the Gas” as Fortune 50 Clients Pause AI Rollouts
+GOOGL: Premarket −3.4%
+HOOD: Premarket −3.6% · Can Robinhood's Rothera Expansion Reduce Its Reliance on Kalshi?
+INTC: Premarket −4.6% · The Dates That Matter Most For Intel Stock
+KLAC: Premarket −4.7% · Is KLA Stock A Buy Today?
+LRCX: Premarket −5.9% · ETFs Bought $70.3 Million of Lam Research (LRCX) on Monday
+MRVL: Premarket −5.7% · Oppenheimer Cut Its Marvell Target by $100. It Still Sees 147% Upside
+MSFT: Premarket −3.3% · Microsoft Stock And 2 AI Software Leaders For Productivity Focused Investors
+MSTR: Premarket −3.4% · Michael Saylor Bought $100M In Bitcoin Before Strategy Did, Says The Man Who Convinced Him To Buy It — Now …
+MU: Premarket −6.4% · Micron Stock Just Got a Brutal Downgrade -- BNP Paribas Slashes Price Target 54%
+NVDA: Premarket −5.3% · Dow Jones Futures Fall, Techs Dive; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake
+PLTR: Premarket −4.6% · Cathie Wood Buys $61.6 Million in Anthropic, Sells $21 Million in Meta and Palantir
+SMCI: Premarket −4.7% · Super Micro forecasts 130% profit growth, yet shares sank to $22
+SNDK: Premarket −6.7% · AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen
+STX: Premarket −5.7% · Prediction: Seagate’s Record Profitability Could Be Just the Beginning, 27% Upside Ahead
+TSM: Premarket −4.6%
+VST: Premarket −3.3% · Is Vistra (VST) Still Below Fair Value After Data Center Clarity?
+WDC: Premarket −5.8%
+ADI: Moved −17.4% last session · Analog Devices Stock At $313: How Low Can It Go?
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-SLB: short under 46.04 stop 46.49 2R 45.14 (222 sh)
-WMT: long over 130.05 stop 129.24 2R 131.67 (123 sh)
-XLV: long over 180.12 stop 179.14 2R 182.08 (102 sh)
-ITB: long over 93.43 stop 92.63 2R 95.03 (125 sh)
-MRK: short under 133.89 stop 134.96 2R 131.75 (93 sh)
-TOL: long over 146.94 stop 145.59 2R 149.64 (74 sh)
-DHI: long over 147.52 stop 146.17 2R 150.22 (74 sh)
-PHM: long over 126.58 stop 125.44 2R 128.86 (87 sh)
-PHM: short under 123.40 stop 124.54 2R 121.12 (87 sh)
-XLU: long over 43.37 stop 43.20 2R 43.71 (588 sh)
-XLU: short under 42.80 stop 42.97 2R 42.46 (588 sh)
-PG: long over 170.69 stop 169.82 2R 172.43 (114 sh)
-RSP: long over 213.32 stop 212.32 2R 215.32 (100 sh)
-RSP: short under 210.69 stop 211.69 2R 208.69 (100 sh)
-DUK: long over 129.81 stop 129.22 2R 130.99 (169 sh)
-TLT: long over 81.76 stop 81.56 2R 82.16 (500 sh)
-COIN: short under 107.12 stop 108.62 2R 104.12 (66 sh)
+INTC: short under 53.52 stop 54.75 2R 51.06 (81 sh)
+SMCI: short under 22.13 stop 22.79 2R 20.81 (151 sh)
+MRK: long over 142.13 stop 141.02 2R 144.35 (90 sh)
+LEN: long over 86.18 stop 85.33 2R 87.88 (117 sh)
+PEP: long over 143.65 stop 142.78 2R 145.39 (114 sh)
+DHI: long over 153.26 stop 152.01 2R 155.76 (80 sh)
+XLY: long over 118.08 stop 117.32 2R 119.60 (131 sh)
+XLY: short under 115.99 stop 116.75 2R 114.47 (131 sh)
+WMT: long over 132.47 stop 131.72 2R 133.97 (133 sh)
+XOM: short under 157.01 stop 157.99 2R 155.05 (102 sh)
+XLE: short under 59.53 stop 59.90 2R 58.79 (270 sh)
+XHB: long over 102.03 stop 101.25 2R 103.59 (128 sh)
+PGR: long over 236.17 stop 234.81 2R 238.89 (73 sh)
+MSTR: short under 77.30 stop 78.80 2R 74.30 (66 sh)
+COIN: short under 101.86 stop 103.36 2R 98.86 (66 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
