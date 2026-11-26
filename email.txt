@@ -2,35 +2,35 @@ Day-trade prep for Thu 11/26 (levels from the Nov 25 close)
 
 IN PLAY ON NEWS
 ABVX: Moved +8.3% last session
-ASTS: Moved +10.3% last session · SPCX Wins Million-Satellite Nod And Retail Attention — But ASTS Leads Space Stocks Into Thanksgiving
+ASTS: Moved +10.3% last session · AST SpaceMobile Is Still Down 64% in 2026. Can Insider Buying and a B. Riley Upgrade Get ASTS Stock Back to…
 BSP: Moved +8.0% last session · How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment
 BZ: Moved +12.6% last session · Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback
-CAR: Moved +9.6% last session · Avis Budget (CAR) Stock Is Up 7.7% Today Without Company News
+CAR: Moved +9.6% last session
 CENT: Moved −7.6% last session · Central Garden & Pet: 3 Key Takeaways for Long-Term Investors
 CENTA: Moved −8.2% last session
-CHTR: Moved +8.4% last session · CHTR Stock Posts 2nd Consecutive Day Of Gains: Retail Turns Bullish — 'The Gift That Keeps On Giving'
+CHTR: Moved +8.4% last session · Charter Communications (CHTR) Jumps After Cox Deal, Is It Still Cheap?
 CNH: Moved +8.0% last session · CNH Industrial Stock Gains Attention As Deere Lifts Farm Equipment Outlook
 COGT: Moved +9.3% last session · Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?
-DKNG: Moved +9.6% last session · Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
+DKNG: Moved +9.6% last session · Can DraftKings' Predictions Business Deliver on Its 2027 Outlook?
 HPQ: Moved +11.5% last session · HP (HPQ) Stock May Be 42% Undervalued After Earnings Focus Returns
 IBRX: Moved −5.9% last session · IBRX Eyes Red Week As ImmunityBio Moves To Lift Share Cap To 2B — Retail Traders Split Over Repaying Debt W…
 INIO: Moved +8.2% last session · Innio (INIO) is Surging From All-Time Lows. Here’s What’s Happening
 LBTYB: Moved +11.9% last session
 LI: Moved +11.0% last session · Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
 MANE: Moved −5.5% last session
-NTNX: Moved −15.2% last session · Nutanix's Profitability Beat Overshadowed by Weaker Bookings, CEO Transition Uncertainty, BofA Says
-ORCL: Moved −5.1% last session · Bloom Energy Issued Oracle 2.15 Million Shares. Now Oracle’s Credit Is Cracking
-PARR: Moved −5.3% last session
+NTNX: Moved −15.2% last session · Nutanix downgrade puts CEO succession in focus
+ORCL: Moved −5.1% last session · Oracle Stocks Sink 5.13% to 52-Week Low as Default Swaps Hit Record
+PARR: Moved −5.3% last session · Are Investors Undervaluing Par Pacific (PARR) Right Now?
 QXO: Moved +8.6% last session · QXO Inc. (QXO) Gets 9% Boost From Wall Street
 RH: Moved +8.7% last session · RH (RH) Stock Is Up 9.0% Today Without Company News
 SNEX: Moved −5.0% last session
 URBN: Moved −10.3% last session · Urban Outfitters Stock Record Quarter Meets Holiday Caution
+AAPL: Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth?
+ABBV: Is AbbVie (ABBV) Undervalued After Rinvoq Won FDA Approval For Vitiligo?
+AMAT: “Another Record Year”: Applied Materials CEO Bets on 2027 as Chip Stocks Slide
+ARM: Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia?
 CEG: How Investors May Respond To Constellation Energy Stock After Earnings Estimate Upgrades
-COIN: Coinbase CEO on the Anthropic and SpaceX IPOs: Who Actually Made the Money?
 CRWD: Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
-DUK: Duke Energy (DUK) Following Rate Approval Has Its Valuation Back In Focus
-GS: Goldman Sachs Taps Secondaries Market For $1.5B Credit Deal
-JNJ: What Could Johnson & Johnson (JNJ) FDA Cancer Approval Change For Investors?
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 PHM: long over 135.76 stop 134.71 2R 137.86 (95 sh)
