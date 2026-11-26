@@ -1,52 +1,50 @@
-Day-trade prep for Wed 11/25 (levels from the Nov 24 close)
+Day-trade prep for Thu 11/26 (levels from the Nov 25 close)
 
 IN PLAY ON NEWS
-DE: Earnings before the open today
-DELL: Premarket −4.5% · Reported after the close · Dell's Infrastructure Business Momentum Amid Strong AI Server Demand Drives Higher Full-Year Outlook
-LI: Premarket +6.7% · Earnings before the open today · Li Auto shares up in premarket trade after Q3 loss narrows, Q4 delivery forecast
-NTNX: Premarket −13.9% · Reported after the close · BofA Securities Downgrades Nutanix to Neutral, Price Target is $62
-URBN: Premarket −12.4% · Reported after the close · Morgan Stanley Downgrades Urban Outfitters to Equal Weight From Overweight, $80 Price Target
-WDAY: Premarket −4.7% · Reported after the close · Workday shares sink 10% premarket as softer outlook overshadows Q3 beat
-AMAT: Premarket −5.8% · Applied Materials (AMAT) Stock Sees Fair Value Cut As Analysts Trim Targets
-AMD: Premarket −5.4% · AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen
-ARM: Premarket −6.1% · Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033
-ASML: Premarket −4.9% · ETFs Are Buying ASML (ASML) on Nov. 23
-AVGO: Premarket −4.2% · Broadcom Bought $1 Billion Worth of Anthropic’s IPO, and It Has Tens of Billions More Riding on Its Success.
-CRWD: Premarket −4.0% · CrowdStrike CEO Says Security Has Gone “From the Brakes to the Gas” as Fortune 50 Clients Pause AI Rollouts
-GOOGL: Premarket −3.4%
-HOOD: Premarket −3.6% · Can Robinhood's Rothera Expansion Reduce Its Reliance on Kalshi?
-INTC: Premarket −4.6% · The Dates That Matter Most For Intel Stock
-KLAC: Premarket −4.7% · Is KLA Stock A Buy Today?
-LRCX: Premarket −5.9% · ETFs Bought $70.3 Million of Lam Research (LRCX) on Monday
-MRVL: Premarket −5.7% · Oppenheimer Cut Its Marvell Target by $100. It Still Sees 147% Upside
-MSFT: Premarket −3.3% · Microsoft Stock And 2 AI Software Leaders For Productivity Focused Investors
-MSTR: Premarket −3.4% · Michael Saylor Bought $100M In Bitcoin Before Strategy Did, Says The Man Who Convinced Him To Buy It — Now …
-MU: Premarket −6.4% · Micron Stock Just Got a Brutal Downgrade -- BNP Paribas Slashes Price Target 54%
-NVDA: Premarket −5.3% · Dow Jones Futures Fall, Techs Dive; Trump Says 'Not Too Late' For U.S. To Take Nvidia Stake
-PLTR: Premarket −4.6% · Cathie Wood Buys $61.6 Million in Anthropic, Sells $21 Million in Meta and Palantir
-SMCI: Premarket −4.7% · Super Micro forecasts 130% profit growth, yet shares sank to $22
-SNDK: Premarket −6.7% · AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen
-STX: Premarket −5.7% · Prediction: Seagate’s Record Profitability Could Be Just the Beginning, 27% Upside Ahead
-TSM: Premarket −4.6%
-VST: Premarket −3.3% · Is Vistra (VST) Still Below Fair Value After Data Center Clarity?
-WDC: Premarket −5.8%
-ADI: Moved −17.4% last session · Analog Devices Stock At $313: How Low Can It Go?
+ABVX: Moved +8.3% last session
+ASTS: Moved +10.3% last session · SPCX Wins Million-Satellite Nod And Retail Attention — But ASTS Leads Space Stocks Into Thanksgiving
+BSP: Moved +8.0% last session · How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment
+BZ: Moved +12.6% last session · Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback
+CAR: Moved +9.6% last session · Avis Budget (CAR) Stock Is Up 7.7% Today Without Company News
+CENT: Moved −7.6% last session · Central Garden & Pet: 3 Key Takeaways for Long-Term Investors
+CENTA: Moved −8.2% last session
+CHTR: Moved +8.4% last session · CHTR Stock Posts 2nd Consecutive Day Of Gains: Retail Turns Bullish — 'The Gift That Keeps On Giving'
+CNH: Moved +8.0% last session · CNH Industrial Stock Gains Attention As Deere Lifts Farm Equipment Outlook
+COGT: Moved +9.3% last session · Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?
+DKNG: Moved +9.6% last session · Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
+HPQ: Moved +11.5% last session · HP (HPQ) Stock May Be 42% Undervalued After Earnings Focus Returns
+IBRX: Moved −5.9% last session · IBRX Eyes Red Week As ImmunityBio Moves To Lift Share Cap To 2B — Retail Traders Split Over Repaying Debt W…
+INIO: Moved +8.2% last session · Innio (INIO) is Surging From All-Time Lows. Here’s What’s Happening
+LBTYB: Moved +11.9% last session
+LI: Moved +11.0% last session · Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
+MANE: Moved −5.5% last session
+NTNX: Moved −15.2% last session · Nutanix's Profitability Beat Overshadowed by Weaker Bookings, CEO Transition Uncertainty, BofA Says
+ORCL: Moved −5.1% last session · Bloom Energy Issued Oracle 2.15 Million Shares. Now Oracle’s Credit Is Cracking
+PARR: Moved −5.3% last session
+QXO: Moved +8.6% last session · QXO Inc. (QXO) Gets 9% Boost From Wall Street
+RH: Moved +8.7% last session · RH (RH) Stock Is Up 9.0% Today Without Company News
+SNEX: Moved −5.0% last session
+URBN: Moved −10.3% last session · Urban Outfitters Stock Record Quarter Meets Holiday Caution
+CEG: How Investors May Respond To Constellation Energy Stock After Earnings Estimate Upgrades
+COIN: Coinbase CEO on the Anthropic and SpaceX IPOs: Who Actually Made the Money?
+CRWD: Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
+DUK: Duke Energy (DUK) Following Rate Approval Has Its Valuation Back In Focus
+GS: Goldman Sachs Taps Secondaries Market For $1.5B Credit Deal
+JNJ: What Could Johnson & Johnson (JNJ) FDA Cancer Approval Change For Investors?
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
-INTC: short under 53.52 stop 54.75 2R 51.06 (81 sh)
-SMCI: short under 22.13 stop 22.79 2R 20.81 (151 sh)
-MRK: long over 142.13 stop 141.02 2R 144.35 (90 sh)
-LEN: long over 86.18 stop 85.33 2R 87.88 (117 sh)
-PEP: long over 143.65 stop 142.78 2R 145.39 (114 sh)
-DHI: long over 153.26 stop 152.01 2R 155.76 (80 sh)
-XLY: long over 118.08 stop 117.32 2R 119.60 (131 sh)
-XLY: short under 115.99 stop 116.75 2R 114.47 (131 sh)
-WMT: long over 132.47 stop 131.72 2R 133.97 (133 sh)
-XOM: short under 157.01 stop 157.99 2R 155.05 (102 sh)
-XLE: short under 59.53 stop 59.90 2R 58.79 (270 sh)
-XHB: long over 102.03 stop 101.25 2R 103.59 (128 sh)
-PGR: long over 236.17 stop 234.81 2R 238.89 (73 sh)
-MSTR: short under 77.30 stop 78.80 2R 74.30 (66 sh)
-COIN: short under 101.86 stop 103.36 2R 98.86 (66 sh)
+PHM: long over 135.76 stop 134.71 2R 137.86 (95 sh)
+ITB: long over 99.10 stop 98.37 2R 100.56 (136 sh)
+DHI: long over 158.63 stop 157.38 2R 161.13 (80 sh)
+XHB: long over 104.54 stop 103.77 2R 106.08 (129 sh)
+KBH: long over 50.57 stop 50.14 2R 51.43 (232 sh)
+PG: long over 174.61 stop 173.82 2R 176.19 (126 sh)
+PEP: long over 145.47 stop 144.61 2R 147.19 (116 sh)
+SO: long over 95.50 stop 95.06 2R 96.38 (227 sh)
+XLU: long over 43.81 stop 43.66 2R 44.11 (666 sh)
+AAPL: long over 356.80 stop 355.30 2R 359.80 (66 sh)
+HD: long over 363.70 stop 362.20 2R 366.70 (66 sh)
+LOW: long over 237.20 stop 235.70 2R 240.20 (66 sh)
+XLY: long over 118.32 stop 117.60 2R 119.76 (138 sh)
 
 Full page: https://claude.ai/artifact/C9TorDzSY9gkZ4XNfr6wGL
