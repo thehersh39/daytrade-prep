@@ -1,36 +1,36 @@
-Day-trade prep for Thu 11/26 (levels from the Nov 25 close)
+Day-trade prep for Fri 11/27 (levels from the Nov 25 close)
 
 IN PLAY ON NEWS
+AMAT: Premarket +4.7% · Why Summit Insights Downgraded Applied Materials (AMAT) After Record Results
+AMD: Premarket +4.2% · AMD Stock Gets A Downgrade From Erste Group – Analyst Flags Valuation Concerns, Low Potential For Share Gains
+ARM: Premarket +5.4% · Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia?
+COIN: Premarket +4.2% · Coinbase (COIN) Stock Sees Modest Fair Value Cut As Analyst Views Stay Split
+HOOD: Premarket +5.0% · Robinhood Stock Has Been Cut in Half Since December. Is It Time to Buy the Dip?
+INTC: Premarket +3.7% · Intel (INTC) Faces Lawsuit And AI Selloff As Fair Value Debate Gets Harder
+KLAC: Premarket +5.3% · Here’s Why KLA Corporation (KLAC) is a Beaten-Down Semiconductor Stock With Strong Growth Prospects
+LRCX: Premarket +4.6% · Is Lam Research Corporation (LRCX) Oversold as Strong  AI Demand Supports Recovery?
+MRVL: Premarket +6.1% · Credo Technology Group Holding (CRDO) Could Be 50% Below Fair Value After Marvell Settlement
+MSTR: Premarket +5.3% · Why Strategy Can Rebound to $175 in 2027 Even If Bitcoin Stays Below Peak
+MU: Premarket +5.3% · Micron vs. SanDisk: Which Is the Better AI Stock to Buy for 2027?
+SMCI: Premarket +3.5%
+SNDK: Premarket +8.5% · Sandisk’s 8-for-1 Split Is Done. Here’s What Investors Should Do Next.
+STX: Premarket +5.6% · Seagate Technology Got Hammered By Multiple Compression, Falling 40% in 3 Months: This Renowned Wall Street…
+WDC: Premarket +5.5% · Western Digital Plummets 20% Over a Month: This Wall Street Team Now Predicts 230% Gains After Earnings Re-…
 ABVX: Moved +8.3% last session
-ASTS: Moved +10.3% last session · AST SpaceMobile Is Still Down 64% in 2026. Can Insider Buying and a B. Riley Upgrade Get ASTS Stock Back to…
+ASTS: Moved +10.3% last session · Berenberg Downgrades AST SpaceMobile to Hold From Buy, Adjusts PT to $30 From $92
+BE: Premarket +6.4% · Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market
 BSP: Moved +8.0% last session · How 2 Quick Calls Sealed Berkshire Hathaway’s $930M Bending Spoons Investment
 BZ: Moved +12.6% last session · Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback
-CAR: Moved +9.6% last session
+CAR: Moved +9.6% last session · Avis Budget Group (CAR) Stock Looks Fully Valued As Used Car Outlet Expansion Builds
 CENT: Moved −7.6% last session · Central Garden & Pet: 3 Key Takeaways for Long-Term Investors
 CENTA: Moved −8.2% last session
 CHTR: Moved +8.4% last session · Charter Communications (CHTR) Jumps After Cox Deal, Is It Still Cheap?
 CNH: Moved +8.0% last session · CNH Industrial Stock Gains Attention As Deere Lifts Farm Equipment Outlook
-COGT: Moved +9.3% last session · Cogent Biosciences (COGT) Soars Again. What’s Driving Investor Interest?
+COGT: Moved +9.3% last session · Cogent Biosciences Wins FDA Approval for First Drug, Plans $49,000-a-Month Launch
+CRWV: Premarket +5.0% · Wells Fargo Doubles Down on CoreWeave Stock Amid Selloff
+DELL: Premarket +4.0%
 DKNG: Moved +9.6% last session · Can DraftKings' Predictions Business Deliver on Its 2027 Outlook?
 HPQ: Moved +11.5% last session · HP (HPQ) Stock May Be 42% Undervalued After Earnings Focus Returns
-IBRX: Moved −5.9% last session · IBRX Eyes Red Week As ImmunityBio Moves To Lift Share Cap To 2B — Retail Traders Split Over Repaying Debt W…
-INIO: Moved +8.2% last session · Innio (INIO) is Surging From All-Time Lows. Here’s What’s Happening
-LBTYB: Moved +11.9% last session
-LI: Moved +11.0% last session · Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
-MANE: Moved −5.5% last session
-NTNX: Moved −15.2% last session · Nutanix downgrade puts CEO succession in focus
-ORCL: Moved −5.1% last session · Oracle Stocks Sink 5.13% to 52-Week Low as Default Swaps Hit Record
-PARR: Moved −5.3% last session · Are Investors Undervaluing Par Pacific (PARR) Right Now?
-QXO: Moved +8.6% last session · QXO Inc. (QXO) Gets 9% Boost From Wall Street
-RH: Moved +8.7% last session · RH (RH) Stock Is Up 9.0% Today Without Company News
-SNEX: Moved −5.0% last session
-URBN: Moved −10.3% last session · Urban Outfitters Stock Record Quarter Meets Holiday Caution
-AAPL: Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth?
-ABBV: Is AbbVie (ABBV) Undervalued After Rinvoq Won FDA Approval For Vitiligo?
-AMAT: “Another Record Year”: Applied Materials CEO Bets on 2027 as Chip Stocks Slide
-ARM: Did Arm CEO Rene Haas Dodge a Bullet With Jensen Huang’s Reinstatement at Nvidia?
-CEG: How Investors May Respond To Constellation Energy Stock After Earnings Estimate Upgrades
-CRWD: Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AM…
 
 TIGHT-STOP SETUPS (1.5-pt max stop, $100 risk)
 PHM: long over 135.76 stop 134.71 2R 137.86 (95 sh)
